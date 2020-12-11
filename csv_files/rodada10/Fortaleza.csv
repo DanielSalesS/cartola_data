@@ -1,0 +1,34 @@
+clube_id,nome,slug,apelido,atleta_id,rodada_id,posicao_id,status_id,pontos_num,preco_num,variacao_num,media_num,jogos_num,RB,FC,GC,CA,CV,SG,DD,DP,GS,FS,PI,A,FT,FD,FF,G,I,PP
+356,Felipe Alves Raymundo,felipe-alves,Felipe Alves,72372,9,1,7,0,3.64,0.71,1.76,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+356,Rogério Ceni,rogerio-ceni,Rogério Ceni,97341,9,6,7,0,6.83,0.39,2.89,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+356,Wellington Pereira do Nascimento,wellington-paulista,Wellington Paulista,38279,9,5,7,0,9.63,2.45,4.61,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+356,Yuri César Santos de Oliveira Silva,yuri-cesar,Yuri César ,103446,9,5,6,0,4.72,0.01,3.02,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+356,Osvaldo Lourenço Filho,osvaldo,Osvaldo,42222,9,5,7,0,4.66,-1.01,1.63,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+356,Roger de Carvalho,roger-carvalho,Roger Carvalho,51415,9,3,5,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+356,Wanderley de Jesus Sousa,derley,Derley,60791,9,4,6,0,4.2,0,1.8,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+356,Bruno Ferreira Melo,bruno-melo,Bruno Melo,84339,9,2,2,0,4.08,0,2.47,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+356,Paulo Marcos de Jesus Ribeiro,paulao,Paulão,63172,9,3,7,0,2.96,0.3,1.75,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+356,Carlos Emiliano Pereira,carlinhos,Carlinhos,63194,9,2,2,0,6.7,1.37,3.45,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+356,José Romário Silva de Souza,romarinho,Romarinho,84523,9,5,7,0,8.6,-0.31,3.99,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+356,Tiago Pereira da Silva,tiago-orobo,Tiago Orobó,87477,9,5,6,0,2.05,0.35,0.5,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+356,Gabriel Dias de Oliveira,gabriel-dias,Gabriel Dias,88368,9,2,7,0,7.57,0.94,3.22,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+356,Jackson de Souza,jackson,Jackson,70934,9,3,5,0,3.81,0,1.58,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+356,Marlon Adriano Prezotti,marlon,Marlon,88427,9,4,6,0,2.29,-0.01,-0.3,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+356,Éderson Alves Ribeiro Silva,ederson,Éderson,73446,9,5,6,0,2.59,0,-0.8,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+356,Luis Otavio Bonilha de Oliveira Santos,nene-bonilha,Nenê Bonilha,73608,9,4,6,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+356,Guilherme de Jesus da Silva,tinga,Tinga,82628,9,2,6,0,6.93,0.63,4.74,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+356,David Correa da Fonseca,david,David,90309,9,5,7,0,2.83,-0.32,0.74,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+356,Luiz Antonio Ferreira Rodrigues,felipe,Felipe,91733,9,4,3,0,4.18,-1.01,2.08,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+356,José Edson Barros da Silva,edson-carius,Edson Cariús,91750,9,5,6,0,3.21,0,0.7,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+356,Mariano Vázquez,mariano-vazquez,Mariano Vázquez,98760,9,4,6,0,1.19,0,-0.66,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+356,Max Walef Araújo da Silva,max-walef,Max Walef,84338,9,1,6,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+356,Marcelo Boeck,marcelo-boeck,Marcelo Boeck,37788,9,1,6,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+356,Juan Sebastián Quintero Fletcher,quintero,Quintero,96382,9,3,7,0,2.48,1,1.44,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+356,Luiz Henrique Araújo Silva,luiz-henrique,Luiz Henrique,101595,9,4,6,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+356,Gustavo Coutinho Silva Lopes,gustavo-coutinho,Gustavo Coutinho,104362,9,5,6,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+356,Paulo Roberto Valoura Júnior,juninho,Juninho,71937,9,4,7,0,3.04,-0.64,1.68,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+356,Ronald dos Santos Lopes,ronald,Ronald,100969,9,4,7,0,1.37,-1.27,0.97,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+356,Franco Rodrigo Fragapane,fragapane,Fragapane,79262,9,5,6,0,1.59,0,0.1,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+356,Francisco Rodrigo de Sousa Barbosa,diguinho,Diguinho,105282,9,3,6,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+356,Sammuel Queiroz de Freitas,sammuel,Sammuel,109341,9,2,6,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+356,Geilson Cerqueira Almeida,geilson,Geilson,107882,9,4,6,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0

@@ -1,0 +1,36 @@
+clube_id,nome,slug,apelido,atleta_id,rodada_id,posicao_id,status_id,pontos_num,preco_num,variacao_num,media_num,jogos_num,RB,FC,GC,CA,CV,SG,DD,DP,GS,FS,PI,A,FT,FD,FF,G,I,PP
+277,Yeferson Julio Soteldo Martínez,soteldo,Soteldo,87258,15,5,6,0,6.98,0,3.02,10,0,5,0,3,0,0,0,0,0,18,79,2,0,7,9,1,2,0
+277,Lucas Veríssimo da Silva,lucas-verissimo,Lucas Veríssimo,93368,15,3,7,2.9,7.88,-0.41,2.45,10,0,17,0,4,0,2,0,0,0,2,60,0,0,3,3,1,0,0
+277,João Paulo Silva Martins,joao-paulo,João Paulo,85425,15,1,7,1.5,7.74,0.01,4.17,13,0,0,0,1,0,3,19,0,14,2,77,0,0,0,0,0,0,0
+277,Marcos Rogério Ricci Lopes,para,Pará,62086,15,2,7,1.5,7.7,-0.26,2.41,13,0,18,0,2,0,3,0,0,0,18,75,0,0,2,7,0,2,0
+277,Felipe Jonatan Rocha Andrade,felipe-jonatan,Felipe Jonatan,101708,15,2,7,2.3,11.64,-0.73,4.77,14,0,18,0,4,0,3,0,0,0,19,124,0,0,2,8,2,0,0
+277,Vladimir Orlando Cardoso de Araújo Filho,vladimir,Vladimir,69040,15,1,5,0,6.43,0,2.93,3,0,0,0,0,0,0,4,0,3,0,12,0,0,0,0,0,0,0
+277,Jobson Souza Santos,jobson,Jobson,93377,15,4,3,-1,3.62,-0.89,1.08,11,0,17,0,3,0,0,0,0,0,10,68,0,0,1,2,0,1,0
+277,Madson Ferreira dos Santos,madson,Madson,78077,15,2,6,2.1,6.04,-1.14,4.72,10,0,2,0,1,0,2,0,0,0,7,47,2,0,2,0,3,2,0
+277,Kaio Jorge Pinto Ramos,kaio-jorge,Kaio Jorge,103445,15,5,7,2.9,4.29,0.56,1.33,13,0,18,0,2,0,0,0,0,0,13,20,0,1,2,11,0,1,0
+277,Jean Mota Oliveira de Sousa,jean-mota,Jean Mota,78548,15,4,7,3.3,4.3,-0.53,1.89,10,0,8,0,0,0,0,0,0,0,7,28,1,1,1,5,0,0,0
+277,Diego Cristiano Evaristo,diego-pituca,Diego Pituca,94156,15,4,7,0.1,7.31,-0.65,2.31,15,0,11,0,1,0,0,0,0,0,20,68,0,0,3,3,0,2,0
+277,Raniel Santana de Vasconcelos,raniel,Raniel,86797,15,5,5,0,5.16,0,2.95,4,0,7,0,0,0,0,0,0,0,11,7,0,0,2,2,0,3,0
+277,Luan Peres Petroni,luan-peres,Luan Peres ,84847,15,3,7,0.5,5.63,-0.1,1.94,14,0,3,0,1,1,3,0,0,0,11,64,1,0,0,2,0,0,0
+277,John Victor Maciel Furtado,john-victor,John Victor,94044,15,1,6,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+277,Arthur Gomes Lourenço,arthur-gomes,Arthur Gomes,96966,15,5,7,3,4.23,1.19,2.1,8,0,8,0,0,1,0,0,0,0,10,41,0,0,5,3,1,1,0
+277,Fernando Uribe Hincapié,uribe,Uribe,78415,15,5,6,0,3.33,0,0.6,1,0,0,0,0,0,0,0,0,0,1,1,0,0,1,0,0,2,0
+277,Luiz Felipe do Nascimento dos Santos,luiz-felipe,Luiz Felipe,79035,15,3,6,0,3.46,0,-0.25,2,0,1,0,0,0,0,0,0,0,1,5,0,0,0,0,0,0,0
+277,Sandry Roberto Santos Goes,sandry,Sandry,104580,15,4,6,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+277,Tailson Pinto Gonçalves,tailson,Tailson,104578,15,5,6,0,2.43,0,1.02,6,0,3,0,0,0,0,0,0,0,5,11,0,0,1,0,0,0,0
+277,Alison Lopes Ferreira,alison,Alison,73974,15,4,2,0,8.39,0,1.16,9,0,16,0,2,2,0,0,0,0,14,46,1,0,0,0,0,0,0
+277,Jonathan Copete Valencia,copete,Copete,77959,15,5,6,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+277,Mário Sérgio Santos Costa,marinho,Marinho,68952,15,5,2,16.4,26.11,0.92,11.04,14,0,20,0,2,0,0,0,0,0,71,78,4,1,10,19,10,9,0
+277,Carlos Andrés Sánchez Arcosa,carlos-sanchez,Carlos Sánchez,81677,15,4,5,0,5.65,0,1.66,12,0,11,0,1,0,0,0,0,0,18,98,1,0,6,7,0,1,1
+277,Matheus Purcelo Blecha de Moraes,matheus-moraes,Matheus Moraes,109560,15,4,6,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+277,Alexi Stival,cuca,Cuca,42411,15,6,7,3.22,10.86,0.01,3.84,15,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+277,Alex de Oliveira Nascimento,alex,Alex,101600,15,3,6,0,2.02,0,2.4,5,0,1,0,1,0,2,0,0,0,2,15,0,0,0,0,0,0,0
+277,Ivonei Júnior da Silva Rabelo,ivonei,Ivonei,105899,15,4,6,0,0.93,0,0.56,5,0,2,0,1,0,0,0,0,0,1,5,0,0,1,2,0,0,0
+277,Lucas Braga Ribeiro,lucas-braga,Lucas Braga,99119,15,5,7,0,2.01,0,1.01,10,0,18,0,3,0,0,0,0,0,15,27,1,0,2,3,0,1,0
+277,Francisco Anderson de Jesus dos Santos,anderson-ceara,Anderson Ceará,103724,15,4,6,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+277,Laércio Soldá,laercio,Laércio,82564,15,3,6,-0.1,2.29,-0.71,-0.1,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+277,Wagner Leonardo Calvelo de Souza,wagner-leonardo,Wagner Leonardo,104994,15,3,6,0,1.83,0,1.08,4,0,0,0,0,0,0,0,0,0,1,2,0,0,0,0,0,0,0
+277,Marcos Leonardo Santos Almeida,marcos-leonardo,Marcos Leonardo,109497,15,5,6,0,1.18,0,1.3,5,0,7,0,1,0,0,0,0,0,7,3,0,0,0,1,1,0,0
+277,Robson de Souza,robinho,Robinho,38246,15,5,6,0,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+277,Derick Fernando da Silva,derick,Derick ,109830,15,3,6,0,0.77,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+277,Lucas Lourenço Andrade,lucas-lourenco,Lucas Lourenço,101580,15,4,6,0,2.26,0.26,0.66,5,0,5,0,1,0,0,0,0,0,1,7,0,0,1,1,0,0,0

@@ -1,0 +1,35 @@
+clube_id,nome,slug,apelido,atleta_id,rodada_id,posicao_id,status_id,pontos_num,preco_num,variacao_num,media_num,jogos_num,RB,FC,GC,CA,CV,SG,DD,DP,GS,FS,PI,A,FT,FD,FF,G,I,PP
+373,Matheus Sousa Pereira,pereira,Pereira,97711,19,3,6,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+373,Danilo Alves da Silva,danilo,Danilo,107981,19,3,6,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+373,Vitor Benedito Leque da Silva,vitor,Vitor,108714,19,5,6,0,1.26,0,1.7,1,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+373,Maurício Kozlinski,mauricio-kozlinski,Maurício Kozlinski,72595,19,1,6,0,1.56,0,-7.8,1,0,0,0,0,0,0,0,0,3,0,18,0,0,0,0,0,0,0
+373,Matheus Cotulio Bossa,matheuzinho,Matheuzinho,78424,19,4,6,-0.7,4.76,-0.26,2.17,15,0,5,0,0,0,0,0,0,0,9,41,1,1,4,8,1,1,0
+373,Hyuri Henrique de Oliveira Costa,hyuri,Hyuri,82758,19,5,6,0,6.01,0,1.48,15,0,15,0,2,0,0,0,0,0,4,18,0,0,3,8,2,5,0
+373,Gilvan Souza Correa,gilvan,Gilvan,82773,19,3,7,-0.1,4.91,-0.13,2.44,10,0,13,0,3,0,2,0,0,0,6,12,0,0,1,1,1,0,0
+373,Willian Marlon Ferreira Moraes,willian-maranhao,Willian Maranhão,87262,19,4,7,-0.1,2.4,0.59,0.14,7,0,6,0,1,1,0,0,0,0,3,16,0,0,1,3,0,1,0
+373,José Brandão Gonçalves Júnior,junior-brandao,Júnior Brandão,93909,19,5,6,0,2.17,-0.09,0.69,7,0,4,0,0,0,0,0,0,0,1,5,0,0,2,3,0,0,0
+373,Matheus de Vargas,matheus-vargas,Matheus Vargas,87929,19,4,2,-0.4,2.68,-0.36,1.06,13,0,12,0,2,0,0,0,0,0,14,31,1,0,2,8,0,0,0
+373,Gustavo Henrique Ferrareis,gustavo-ferrareis,Gustavo Ferrareis,89815,19,4,7,2.9,8.6,0.49,2.43,16,0,28,0,3,0,0,0,0,0,32,67,1,0,3,10,2,2,0
+373,Jean Paulo Fernandes Filho,jean,Jean,90933,19,1,7,-2.3,7.94,-0.07,3.49,17,0,1,0,1,0,4,22,0,22,5,138,0,0,1,0,1,0,0
+373,Éder Ferreira Graminho,eder,Éder ,91203,19,3,3,-1.6,3.26,-0.25,0.92,17,0,18,0,3,0,4,0,0,0,10,71,0,0,1,2,0,0,0
+373,Marlon Rodrigues Freitas,marlon-freitas,Marlon Freitas,93790,19,4,7,-2,4.91,-0.86,1.66,15,0,19,0,2,1,0,0,0,0,13,91,0,1,6,11,0,0,0
+373,Lucas da Cruz Oliveira,oliveira,Oliveira,94514,19,3,7,0,2.87,0,2.35,7,0,8,0,1,0,2,0,0,0,5,30,0,0,0,0,1,0,0
+373,Nicolas Vichiatto da Silva,nicolas,Nicolas,95127,19,2,7,0,7.02,0,3.07,16,0,18,0,0,0,4,0,0,0,8,169,2,0,6,8,0,1,0
+373,Luís Eduardo Marques dos Santos,dudu,Dudu,97133,19,2,7,0.6,4.81,-0.29,2.95,17,0,15,0,1,1,4,0,0,0,20,143,0,0,2,5,0,1,0
+373,João Victor da Silva Marcelino,joao-victor,João Victor,104250,19,3,6,1.5,3.05,0.27,2.18,13,0,13,0,5,0,3,0,0,0,11,54,1,0,0,1,0,0,0
+373,Edson Fernandes Botelho Júnior,edson-junior,Edson Júnior,93956,19,5,6,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+373,Ricardo Santos Silva,ricardo,Ricardo,105519,19,4,6,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+373,Luan Sales do Nascimento,luan-sales,Luan Sales,105521,19,2,6,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+373,Odair Marciano de Oliveira Filho,odair,Odair,108745,19,3,6,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+373,Michel Custódio Gonçalves de Sousa,michel,Michel,105809,19,3,6,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+373,Janderson Santos de Souza,janderson,Janderson,97245,19,5,6,-0.6,5.09,0.28,3,15,0,14,0,1,0,0,0,0,0,18,93,3,0,5,8,1,0,0
+373,Wellington Soares da Silva,wellington-rato,Wellington Rato,82766,19,4,2,3.3,2.31,0.51,1.9,2,0,1,0,0,0,0,0,0,0,0,7,0,1,1,1,0,0,0
+373,Leonardo Siqueira de Paiva Bezerra,leonardo,Leonardo,108424,19,1,6,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+373,Gabriel Bernard Conceição da Silva,gabriel-bernard,Gabriel Bernard,109618,19,1,6,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+373,Natanael Batista Pimenta,natanael,Natanael,86264,19,2,6,2.3,4.02,0.45,2.73,6,0,6,0,0,0,2,0,0,0,8,47,0,0,1,3,0,1,0
+373,Everton Felipe de Oliveira Silva,everton-felipe,Everton Felipe,86519,19,4,6,0,3.02,0,1.01,12,0,4,0,1,1,0,0,0,0,17,77,1,0,4,2,0,0,0
+373,Francisco Hyun Sol Kim,chico,Chico,82407,19,5,7,0.3,4.18,-1.01,2.6,16,0,20,0,1,0,0,0,0,0,27,90,2,2,4,9,1,0,0
+373,Arnaldo Manoel de Almeida,arnaldo,Arnaldo,78497,19,2,6,0,2.87,0,0.17,3,0,0,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,0
+373,José Roberto Assunção de Araújo Filho,ze-roberto,Zé Roberto,80076,19,5,7,0.6,3.81,-0.29,1.43,7,0,13,0,2,0,0,0,0,0,13,31,0,0,3,5,1,3,0
+373,Eduardo do Nascimento Souza,eduardo-souza,Eduardo Souza,88406,19,6,7,0.34,7.22,-0.38,2.36,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+373,Gabriel Baralhas dos Santos,baralhas,Baralhas,99440,19,4,6,0,4.6,0,4.9,1,0,1,0,0,0,0,0,0,0,0,4,0,0,0,1,0,0,0

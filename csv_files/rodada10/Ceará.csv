@@ -1,0 +1,35 @@
+clube_id,nome,slug,apelido,atleta_id,rodada_id,posicao_id,status_id,pontos_num,preco_num,variacao_num,media_num,jogos_num,RB,FC,GC,CA,CV,SG,DD,DP,GS,FS,PI,A,FT,FD,FF,G,I,PP
+354,Fernando Buttenbender Prass,fernando-prass,Fernando Prass,38140,9,1,7,0,5.12,-1.14,3.74,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+354,Rodrigo Gomes dos Santos,rodrigao,Rodrigão,90651,9,5,5,0,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+354,Augusto Sérgio Ferreira,guto-ferreira,Guto Ferreira,37245,9,6,7,0,7.71,-0.2,3.4,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+354,Willian Klaus,klaus,Klaus,90846,9,3,5,0,4.13,0,-0.3,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+354,Cléber Bomfim de Jesus,cleber,Cléber,104125,9,5,7,0,11.08,-0.32,3.78,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+354,William Oliveira dos Santos,william-oliveira,William Oliveira,94297,9,4,3,0,1.68,-0.42,0.16,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+354,Vinicius Moreira de Lima,lima,Lima,96340,9,4,6,0,5.09,0.2,1.93,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+354,Charles Rigon Mattos,charles,Charles,96342,9,4,7,0,5.88,-0.21,2.48,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+354,Mateus Gonçalves Martins,mateus-goncalves,Mateus Gonçalves,103076,9,5,6,0,7.74,-0.22,2.74,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+354,Gabriel Santos Cordeiro Lacerda,gabriel-lacerda,Gabriel Lacerda,108176,9,3,6,0,3.62,-0.58,4.02,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+354,Alyson Vinícius Almeida Neves,alyson,Alyson,102330,9,2,6,0,1.88,-1.71,-0.8,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+354,Francisco Vítor Silva Costa,victor-jacare,Victor Jacaré,101201,9,5,6,0,7.41,0,2.6,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+354,Rafael Augusto Sobis do Nascimento,rafael-sobis,Rafael Sobis,37798,9,5,6,0,6.4,-0.33,1.44,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+354,Wescley Gomes dos Santos,wescley,Wescley,70925,9,4,6,0,2.46,0,-0.3,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+354,Carlos Eduardo Santos Oliveira,eduardo,Eduardo,50645,9,2,6,0,3.71,-0.3,1.4,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+354,Bergson Gustavo Silveira da Silva,bergson,Bergson,68696,9,5,6,0,1.66,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+354,Felipe de Oliveira Silva,felipe-baxola,Felipe Baxola,71113,9,4,6,0,3.58,-0.2,-0.1,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+354,Vinícius Goes Barbosa de Souza,vinicius,Vinícius,71162,9,4,7,0,7.36,-0.6,4.45,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+354,Diogo José Gonçalves da Silva,diogo-silva,Diogo Silva,71882,9,1,6,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+354,Ricardo Dias Acosta,ricardinho,Ricardinho,78577,9,4,7,0,2.87,0.16,0.2,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+354,Rick Jhonatan Lima Morais,rick,Rick,104459,9,5,6,0,0.77,0.03,-0.43,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+354,Luiz Otávio Anacleto Leandro,luiz-otavio,Luiz Otávio,72359,9,3,7,0,3.27,0,0.75,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+354,Eduardo Schroeder Brock,eduardo-brock,Eduardo Brock,78654,9,3,6,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+354,Samuel Xavier Brito,samuel-xavier,Samuel Xavier,73384,9,2,7,0,5.07,0,2.16,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+354,Richard de Oliveira da Costa,richard,Richard,78851,9,1,6,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+354,Tiago Pagnussat,tiago,Tiago ,79042,9,3,7,0,6.12,0.12,3.6,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+354,Fábio Gonçalves,fabinho,Fabinho,80393,9,4,6,0,3.38,0,1.66,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+354,Fernando Pereira do Nascimento,fernando-sobral,Fernando Sobral,84428,9,4,7,0,12.44,-0.42,5.76,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+354,Leandro Carvalho da Silva,leandro-carvalho,Leandro Carvalho,88669,9,5,7,0,4.82,0,1.65,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+354,Bruno de Jesus Pacheco,bruno-pacheco,Bruno Pacheco,90061,9,2,7,0,6.36,0,2.93,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+354,Marthã Fernando Gonçalves Pimenta,martha,Marthã,107400,9,4,6,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+354,Vitor João Batista Santos,vitao,Vitão,109318,9,3,6,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+354,Kelvyn Ramos da Fonseca,kelvyn,Kelvyn,102464,9,2,6,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+354,Leonardo Alves Chú Franco,leo-chu,Léo Chú,106820,9,5,6,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0

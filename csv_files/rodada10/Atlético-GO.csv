@@ -1,0 +1,35 @@
+clube_id,nome,slug,apelido,atleta_id,rodada_id,posicao_id,status_id,pontos_num,preco_num,variacao_num,media_num,jogos_num,RB,FC,GC,CA,CV,SG,DD,DP,GS,FS,PI,A,FT,FD,FF,G,I,PP
+373,Matheus de Vargas,matheus-vargas,Matheus Vargas,87929,9,4,2,0,3.25,0.67,1.27,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+373,Willian Marlon Ferreira Moraes,willian-maranhao,Willian Maranhão,87262,9,4,6,0,3.05,0,1,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+373,Nicolas Vichiatto da Silva,nicolas,Nicolas,95127,9,2,7,0,7.01,0.88,2.64,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+373,Lucas da Cruz Oliveira,oliveira,Oliveira,94514,9,3,6,0,2.03,-0.12,-0.05,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+373,Henry Vaca Urquiza,henry-vaca,Henry Vaca,98992,9,4,6,0,2.38,0,0.3,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+373,Luís Eduardo Marques dos Santos,dudu,Dudu,97133,9,2,7,0,3.53,0.01,1.83,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+373,Lucas Pereira Ribeiro de Souza,lucas-pereira,Lucas Pereira,100100,9,1,6,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+373,João Victor da Silva Marcelino,joao-victor,João Victor,104250,9,3,7,0,1.23,-0.61,0.45,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+373,Vitor Benedito Leque da Silva,vitor,Vitor,108714,9,5,6,0,1.26,0,1.7,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+373,Luan Sales do Nascimento,luan-sales,Luan Sales,105521,9,2,6,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+373,Matheus Henrique Frizzo,matheus-frizzo,Matheus Frizzo,106628,9,4,2,0,1.23,0,-0.43,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+373,Odair Marciano de Oliveira Filho,odair,Odair,108745,9,3,6,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+373,Michel Custódio Gonçalves de Sousa,michel,Michel,105809,9,3,6,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+373,Ricardo Santos Silva,ricardo,Ricardo,105519,9,4,6,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+373,Danilo Alves da Silva,danilo,Danilo,107981,9,3,6,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+373,Jean Paulo Fernandes Filho,jean,Jean,90933,9,1,7,0,8.58,2.28,3.14,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+373,Gustavo Henrique Ferrareis,gustavo-ferrareis,Gustavo Ferrareis,89815,9,4,7,0,8.77,0.33,3.6,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+373,Renato Kayzer de Souza,renato-kayzer,Renato Kayzer,92696,9,5,7,0,7.81,3.51,9.57,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+373,Marlon Rodrigues Freitas,marlon-freitas,Marlon Freitas,93790,9,4,5,0,5.45,-0.35,2,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+373,Éder Ferreira Graminho,eder,Éder ,91203,9,3,7,0,3.28,-0.29,0.73,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+373,José Brandão Gonçalves Júnior,junior-brandao,Júnior Brandão,93909,9,5,6,0,2.5,0,0.77,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+373,Edson Fernandes Botelho Júnior,edson-junior,Edson Júnior,93956,9,5,6,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+373,Janderson Santos de Souza,janderson,Janderson,97245,9,5,7,0,3.7,0.25,0.92,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+373,Francisco Hyun Sol Kim,chico,Chico,82407,9,5,7,0,4.07,-0.43,3.52,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+373,Natanael Batista Pimenta,natanael,Natanael,86264,9,2,6,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+373,Everton Felipe de Oliveira Silva,everton-felipe,Everton Felipe,86519,9,4,6,0,4.03,-0.35,1.37,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+373,Gabriel Bernard Conceição da Silva,gabriel-bernard,Gabriel Bernard,109618,9,1,6,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+373,Luiz Henrique dos Santos Júnior,luiz-henrique,Luiz Henrique,106987,9,2,6,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+373,Matheus Cotulio Bossa,matheuzinho,Matheuzinho,78424,9,4,6,0,5.74,1.39,2.72,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+373,Vagner Carmo Mancini,vagner-mancini,Vagner Mancini,39850,9,6,7,0,6.51,0.59,3.34,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+373,Maurício Kozlinski,mauricio-kozlinski,Maurício Kozlinski,72595,9,1,6,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+373,Gilvan Souza Correa,gilvan,Gilvan,82773,9,3,6,0,5.05,0,1.94,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+373,Hyuri Henrique de Oliveira Costa,hyuri,Hyuri,82758,9,5,6,0,6.13,-0.22,1.6,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+373,Edson Felipe da Cruz,edson,Edson ,80370,9,4,7,0,8.98,-1.08,5.46,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0

@@ -1,0 +1,35 @@
+clube_id,nome,slug,apelido,atleta_id,rodada_id,posicao_id,status_id,pontos_num,preco_num,variacao_num,media_num,jogos_num,RB,FC,GC,CA,CV,SG,DD,DP,GS,FS,PI,A,FT,FD,FF,G,I,PP
+276,Paulo Henrique Pereira da Silva,paulinho-boia,Paulinho Bóia,100333,10,5,6,2.2,5.48,0.05,3.87,7,0,8,0,0,0,0,0,0,0,18,22,0,2,4,5,0,3,0
+276,Brenner Souza da Silva,brenner,Brenner,99789,10,5,6,0,4.26,0.12,4.46,5,0,4,0,2,0,0,0,0,0,4,10,1,1,1,2,2,3,0
+276,Tiago Luis Volpi,tiago-volpi,Tiago Volpi,72018,10,1,6,2.9,12.83,0.53,2.73,9,0,0,0,0,0,2,9,1,11,1,79,0,0,0,0,0,0,0
+276,Bruno Fabiano Alves,bruno-alves,Bruno Alves,73620,10,3,6,0,7.83,0,1.3,5,0,2,0,1,0,1,0,0,0,5,10,0,0,0,0,0,0,0
+276,Leonardo Pinheiro da Conceição,leo,Léo,85626,10,2,6,3,4.61,0.85,2.37,7,0,5,0,1,0,1,0,0,0,11,42,1,0,0,1,0,0,0
+276,Robert Abel Arboleda Escobar,arboleda,Arboleda,91573,10,3,6,0,10.07,0,2.47,4,0,2,0,1,0,2,0,0,0,1,10,0,0,2,0,0,0,0
+276,Igor Vinícius de Souza,igor-vinicius,Igor Vinícius,95466,10,2,6,3.3,5.56,0.62,2.17,7,0,19,0,3,0,1,0,0,0,6,41,1,0,3,4,0,0,0
+276,Juan Francisco Torres Belén,juanfran,Juanfran,72620,10,2,6,0,6.21,0,2.4,4,0,5,0,0,0,1,0,0,0,4,17,0,0,0,1,0,0,0
+276,Pablo Felipe Teixeira,pablo,Pablo,69138,10,5,6,0,8.36,0,2.77,6,0,16,0,1,0,0,0,0,0,9,15,0,0,3,15,1,6,0
+276,Fernando Diniz Silva,fernando-diniz,Fernando Diniz,72391,10,6,6,3.92,9.22,0.41,3.62,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+276,Anderson Hernanes de Carvalho Andrade Lima,hernanes,Hernanes,38648,10,4,6,1,8.55,-0.29,3.14,5,0,9,0,1,0,0,0,0,0,11,25,0,0,3,2,1,0,0
+276,Danilo das Neves Pinheiro,tche-tche,Tchê Tchê,86686,10,4,6,3.6,8.18,0.83,2.19,9,0,8,0,2,0,0,0,0,0,14,29,0,0,4,6,0,0,0
+276,Igor Matheus Liziero Pereira ,liziero,Liziero,100761,10,4,5,0,4.4,0,1.02,5,0,7,0,1,0,0,0,0,0,4,44,0,0,2,2,0,0,0
+276,Luan Vinícius da Silva Santos ,luan,Luan,102909,10,4,6,-0.6,3.31,-0.22,0.3,5,0,2,0,1,0,0,0,0,0,0,3,0,0,0,1,0,0,0
+276,Hélio Júnio Nunes de Castro,helinho,Helinho,102598,10,5,6,0,4.08,0,2.57,3,0,0,0,0,0,0,0,0,0,1,8,1,0,0,0,0,0,0
+276,Shaylon Kallyson Cardoso,shaylon,Shaylon,97520,10,4,6,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+276,Lucas Estella Perri,lucas-perri,Lucas Perri,91260,10,1,6,0,1.1,0,-2,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+276,Dênis de Oliveira Aguiar Júnior,junior,Júnior,103662,10,1,6,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+276,Santiago Tréllez Vivero,trellez,Tréllez,87679,10,5,6,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+276,Walce da Silva Costa Filho,walce,Walce,104074,10,3,5,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+276,Diego Henrique Costa Barbosa,diego,Diego,101728,10,3,6,3.8,2.69,0.34,1.65,6,0,12,0,1,0,1,0,0,0,1,24,0,0,1,2,0,0,0
+276,Vitor Frezarin Bueno,vitor-bueno,Vitor Bueno,87552,10,4,6,1.6,7.45,-0.19,3.1,6,0,3,0,1,0,0,0,0,0,10,38,0,0,2,5,1,1,0
+276,Igor Silveira Gomes,igor-gomes,Igor Gomes,100084,10,4,6,0.6,3.17,-0.05,0.24,9,0,12,0,1,0,0,0,0,0,9,28,0,0,2,0,0,0,0
+276,Gonzalo Rodrigo Carneiro Méndez,gonzalo-carneiro,Gonzalo Carneiro,101796,10,5,6,0,3.01,0,1.93,3,0,2,0,0,0,0,0,0,0,0,2,1,0,0,0,0,0,0
+276,Thiago Couto Wenceslau,thiago-couto,Thiago Couto,97645,10,1,6,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+276,Reinaldo Manoel da Silva,reinaldo,Reinaldo,78850,10,2,6,2.5,13.31,0.09,4.8,7,0,13,0,2,0,2,0,0,0,8,83,1,0,4,2,1,0,0
+276,Jonas Gabriel da Silva Nunes,toro,Toró,101885,10,5,6,0,3.7,0,2.95,2,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0
+276,Gabriel Davi Gomes Sara,gabriel-sara,Gabriel Sara,100763,10,4,6,19.9,5.79,4.15,2.35,9,0,9,0,1,0,0,0,0,0,7,39,0,0,2,4,2,3,0
+276,Joao Robin Rojas Mendoza,joao-rojas,Joao Rojas,70784,10,5,5,0,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+276,Rodrigo Nestor Bertalia,rodrigo-nestor,Rodrigo Nestor,106822,10,4,6,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+276,Daniel Alves da Silva,daniel-alves,Daniel Alves,38939,10,4,6,0,13.99,0,5.85,4,0,6,0,0,0,0,0,0,0,12,48,0,0,1,5,1,2,0
+276,Luciano da Rocha Neves,luciano,Luciano,80287,10,5,6,-0.7,7.73,-1.73,5.29,8,0,12,0,2,0,0,0,0,0,12,31,1,1,2,2,3,1,0
+276,Rodrigo dos Santos de Freitas,rodrigo-freitas,Rodrigo Freitas,103261,10,3,6,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+276,Patryck Lanza dos Reis,patryck,Patryck,106829,10,2,6,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0

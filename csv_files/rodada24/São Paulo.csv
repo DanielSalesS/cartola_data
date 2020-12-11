@@ -1,0 +1,35 @@
+clube_id,nome,slug,apelido,atleta_id,rodada_id,posicao_id,status_id,pontos_num,preco_num,variacao_num,media_num,jogos_num,RB,FC,GC,CA,CV,SG,DD,DP,GS,FS,PI,A,FT,FD,FF,G,I,PP
+276,Daniel Alves da Silva,daniel-alves,Daniel Alves,38939,23,4,7,-3.7,9.63,-1.04,1.55,13,0,32,0,5,0,0,0,0,0,21,149,1,0,4,11,1,2,0
+276,Tiago Luis Volpi,tiago-volpi,Tiago Volpi,72018,23,1,7,1.8,12.69,-0.37,4.04,19,0,0,0,1,0,5,19,3,19,4,131,1,0,0,0,0,0,0
+276,Fernando Diniz Silva,fernando-diniz,Fernando Diniz,72391,23,6,7,4.62,9.61,0.06,3.89,19,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+276,Juan Francisco Torres Belén,juanfran,Juanfran,72620,23,2,7,2.4,6.2,0.12,2.89,9,0,6,0,1,0,2,0,0,0,5,43,1,0,1,2,0,0,0
+276,Bruno Fabiano Alves,bruno-alves,Bruno Alves,73620,23,3,7,0,8.37,0,2.78,12,0,15,0,1,0,4,0,0,0,18,34,0,0,0,4,0,0,0
+276,Luciano da Rocha Neves,luciano,Luciano,80287,23,5,7,17.9,11.61,1.16,6.43,17,0,22,0,3,0,0,0,0,0,27,81,1,1,4,10,10,4,0
+276,Leonardo Pinheiro da Conceição,leo,Léo,85626,23,2,6,-0.4,3.72,-0.48,1.49,14,0,9,0,2,0,2,0,0,0,13,69,1,0,0,1,0,0,0
+276,Danilo das Neves Pinheiro,tche-tche,Tchê Tchê,86686,23,4,6,1.1,7.44,-0.31,2.28,17,0,12,0,2,0,0,0,0,0,22,58,0,0,6,8,1,0,0
+276,Santiago Tréllez Vivero,trellez,Tréllez,87679,23,5,6,0,2.82,0,0.25,4,0,0,0,0,0,0,0,0,0,1,3,0,0,0,1,0,0,0
+276,Reinaldo Manoel da Silva,reinaldo,Reinaldo,78850,23,2,7,6.8,14.1,0.4,5.12,17,0,24,0,3,0,5,0,0,0,15,221,3,0,8,5,4,0,0
+276,Lucas Estella Perri,lucas-perri,Lucas Perri,91260,23,1,5,0,1.1,0,-2,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+276,Pablo Felipe Teixeira,pablo,Pablo,69138,23,5,6,0,6.85,-0.22,1.63,15,0,22,0,1,0,0,0,0,0,14,29,1,0,4,17,1,8,0
+276,Robert Abel Arboleda Escobar,arboleda,Arboleda,91573,23,3,7,14.3,10.42,2.19,3.93,6,0,5,0,1,0,2,0,0,0,2,15,0,0,4,1,1,0,0
+276,Vitor Frezarin Bueno,vitor-bueno,Vitor Bueno,87552,23,4,6,0.3,7.07,-0.61,2.71,16,0,6,0,2,0,0,0,0,0,20,63,1,0,7,9,2,2,0
+276,Joao Robin Rojas Mendoza,joao-rojas,Joao Rojas,70784,23,5,6,0,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+276,Igor Vinícius de Souza,igor-vinicius,Igor Vinícius,95466,23,2,6,0,5.06,0,2.19,13,0,29,0,4,0,3,0,0,0,10,76,2,0,4,6,0,0,0
+276,Anderson Hernanes de Carvalho Andrade Lima,hernanes,Hernanes,38648,23,4,6,-0.6,7.09,-0.17,1.82,10,0,12,0,3,0,0,0,0,0,14,30,0,0,5,4,1,0,0
+276,Brenner Souza da Silva,brenner,Brenner,99789,23,5,7,3.8,6.46,0.03,5.3,15,0,12,0,3,0,0,0,0,0,25,26,1,1,9,13,6,5,0
+276,Thiago Couto Wenceslau,thiago-couto,Thiago Couto,97645,23,1,6,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+276,Igor Silveira Gomes,igor-gomes,Igor Gomes,100084,23,4,7,3.3,3.98,0.81,1.34,19,0,24,0,2,0,0,0,0,0,21,78,1,0,6,6,1,1,0
+276,Paulo Henrique Pereira da Silva,paulinho-boia,Paulinho Bóia,100333,23,5,6,0,4.79,0,3.1,9,0,8,0,0,0,0,0,0,0,18,22,0,2,4,6,0,3,0
+276,Igor Matheus Liziero Pereira ,liziero,Liziero,100761,23,4,5,0,4.4,0,1.02,5,0,7,0,1,0,0,0,0,0,4,44,0,0,2,2,0,0,0
+276,Gabriel Davi Gomes Sara,gabriel-sara,Gabriel Sara,100763,23,4,7,-1.3,3.79,-1.34,2.85,18,0,18,0,5,0,0,0,0,0,20,108,1,0,4,14,4,4,0
+276,Diego Henrique Costa Barbosa,diego,Diego,101728,23,3,6,0,3.8,0,2.58,14,0,29,0,2,0,4,0,0,0,14,62,0,0,3,4,0,0,0
+276,Gonzalo Rodrigo Carneiro Méndez,gonzalo-carneiro,Gonzalo Carneiro,101796,23,5,6,0,3.01,0,1.93,3,0,2,0,0,0,0,0,0,0,0,2,1,0,0,0,0,0,0
+276,Jonas Gabriel da Silva Nunes,toro,Toró,101885,23,5,6,0,3.33,0,1.54,5,0,0,0,0,0,0,0,0,0,1,4,1,0,0,2,0,0,0
+276,Welington Damascena Santos,wellington,Wellington ,106824,23,2,6,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+276,Rodrigo Nestor Bertalia,rodrigo-nestor,Rodrigo Nestor,106822,23,4,6,1.8,1.79,0.34,0.43,3,0,2,0,1,0,0,0,0,0,1,4,0,0,1,0,0,0,0
+276,Luan Vinícius da Silva Santos ,luan,Luan,102909,23,4,7,3.3,3.92,0.41,1.4,12,0,12,0,3,0,0,0,0,0,5,17,0,0,1,1,0,0,0
+276,Rodrigo dos Santos de Freitas,rodrigo-freitas,Rodrigo Freitas,103261,23,3,6,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+276,Patryck Lanza dos Reis,patryck,Patryck,106829,23,2,6,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+276,Antonio Javier Galeano Ferreira,galeano,Galeano,108713,23,5,6,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+276,Dênis de Oliveira Aguiar Júnior,junior,Júnior,103662,23,1,6,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+276,Walce da Silva Costa Filho,walce,Walce,104074,23,3,5,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0

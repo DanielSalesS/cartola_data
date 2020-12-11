@@ -1,0 +1,41 @@
+clube_id,nome,slug,apelido,atleta_id,rodada_id,posicao_id,status_id,pontos_num,preco_num,variacao_num,media_num,jogos_num,RB,FC,GC,CA,CV,SG,DD,DP,GS,FS,PI,A,FT,FD,FF,G,I,PP
+277,Mário Sérgio Santos Costa,marinho,Marinho,68952,22,5,7,-1.3,23.12,-1.15,10.01,18,0,25,0,4,0,0,0,0,0,84,98,5,1,13,21,12,14,0
+277,Alexi Stival,cuca,Cuca,42411,22,6,7,1.78,10.72,-0.72,3.58,22,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+277,Vladimir Orlando Cardoso de Araújo Filho,vladimir,Vladimir,69040,22,1,6,0,6.43,0,2.93,3,0,0,0,0,0,0,4,0,3,0,12,0,0,0,0,0,0,0
+277,Laércio Soldá,laercio,Laércio,82564,22,3,6,0.7,2.42,-0.27,0.8,5,0,7,0,0,0,0,0,0,0,1,16,0,0,0,2,0,0,0
+277,Carlos Andrés Sánchez Arcosa,carlos-sanchez,Carlos Sánchez,81677,22,4,5,0,5.65,0,1.66,12,0,11,0,1,0,0,0,0,0,18,98,1,0,6,7,0,1,1
+277,Luan Peres Petroni,luan-peres,Luan Peres ,84847,22,3,6,0,6.89,0,2.12,20,0,6,0,2,1,4,0,0,0,19,108,1,0,1,3,0,0,0
+277,Marcos Rogério Ricci Lopes,para,Pará,62086,22,2,7,-0.6,7.02,-0.78,2.09,17,0,27,0,3,0,4,0,0,0,19,110,0,0,2,8,0,2,0
+277,João Paulo Silva Martins,joao-paulo,João Paulo,85425,22,1,6,0,7.19,0,3.71,18,0,0,0,2,0,3,27,0,21,2,112,0,0,0,0,0,0,0
+277,Raniel Santana de Vasconcelos,raniel,Raniel,86797,22,5,5,0,5.16,0,2.95,4,0,7,0,0,0,0,0,0,0,11,7,0,0,2,2,0,3,0
+277,Yeferson Julio Soteldo Martínez,soteldo,Soteldo,87258,22,5,6,0,6.43,0,3.06,14,0,9,0,5,0,0,0,0,0,27,104,3,0,7,11,2,2,0
+277,Lucas Veríssimo da Silva,lucas-verissimo,Lucas Veríssimo,93368,22,3,7,0,7.52,0,2.08,13,0,20,0,4,0,2,0,0,0,3,79,0,0,3,3,1,1,0
+277,Alison Lopes Ferreira,alison,Alison,73974,22,4,2,0,8.09,0,1.24,10,0,16,0,2,2,0,0,0,0,14,46,1,0,0,0,0,0,0
+277,Lucas Braga Ribeiro,lucas-braga,Lucas Braga,99119,22,5,2,3.3,2.96,0.38,1.15,16,0,24,0,3,0,0,0,0,0,24,47,1,0,4,3,0,2,0
+277,Matheus Purcelo Blecha de Moraes,matheus-moraes,Matheus Moraes,109560,22,4,6,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+277,Marcos Leonardo Santos Almeida,marcos-leonardo,Marcos Leonardo,109497,22,5,6,1,1.15,0.18,0.86,10,0,11,0,1,0,0,0,0,0,11,4,0,0,1,1,1,0,0
+277,Derick Fernando da Silva,derick,Derick ,109830,22,3,6,0,0.77,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+277,Gabriel Cordeiro Pirani,gabriel-pirani,Gabriel Pirani,110607,22,4,6,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+277,Paulo Mazoti Azevedo,paulo-mazoti,Paulo Mazoti,110602,22,1,6,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+277,Vinícius Balieiro Lourenço de Carvalho,vinicius-balieiro,Vinícius Balieiro,110605,22,4,6,1.3,4.43,-0.24,4.8,2,0,6,0,0,0,0,0,0,0,6,4,0,0,0,0,0,0,0
+277,Ângelo Gabriel Borges Damaceno,angelo,Ângelo,110415,22,5,6,0,0.98,0,0.35,2,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0
+277,Antonio Mikael Rodrigues Brito,mikael-doka,Mikael Doka,110606,22,2,6,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+277,Lucas Lourenço Andrade,lucas-lourenco,Lucas Lourenço,101580,22,4,6,0,2.44,0,0.81,9,0,8,0,1,0,0,0,0,0,6,16,0,0,1,2,0,0,0
+277,Alex de Oliveira Nascimento,alex,Alex,101600,22,3,6,1.1,2.26,0.24,2.18,6,0,2,0,1,0,2,0,0,0,6,19,0,0,0,0,0,0,0
+277,Felipe Jonatan Rocha Andrade,felipe-jonatan,Felipe Jonatan,101708,22,2,7,0,12.52,0,4.73,20,0,26,0,5,0,4,0,0,0,24,166,1,0,3,11,2,0,0
+277,Guilherme Nunes da Silva,guilherme-nunes,Guilherme Nunes,101912,22,4,6,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+277,Kaio Jorge Pinto Ramos,kaio-jorge,Kaio Jorge,103445,22,5,7,0,4.48,0,1.48,18,0,30,0,4,0,0,0,0,0,23,39,0,1,2,12,2,2,0
+277,Tailson Pinto Gonçalves,tailson,Tailson,104578,22,5,6,0,1.98,0,0.54,9,0,6,0,0,0,0,0,0,0,6,14,0,0,1,0,0,0,0
+277,Sandry Roberto Santos Goes,sandry,Sandry,104580,22,4,6,-1.1,1.16,-0.31,-0.74,5,0,8,0,4,0,0,0,0,0,3,2,0,0,0,0,0,0,0
+277,Wagner Leonardo Calvelo de Souza,wagner-leonardo,Wagner Leonardo,104994,22,3,6,7.1,3.23,-0.02,2.88,7,0,1,0,0,0,1,0,0,0,4,15,0,0,1,0,0,0,0
+277,Bruno Henrique Marques Torres,bruninho,Bruninho,105111,22,5,6,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+277,Ivonei Júnior da Silva Rabelo,ivonei,Ivonei,105899,22,4,6,-0.6,1.02,-1.31,1.44,7,0,4,0,1,0,0,0,0,0,1,12,0,0,1,2,1,0,0
+277,Brayan Diogo Ijorski Kruger,brayan,Brayan,110416,22,5,6,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+277,Jonathan Copete Valencia,copete,Copete,77959,22,5,6,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+277,Madson Ferreira dos Santos,madson,Madson,78077,22,2,6,2,6.16,0.05,3.8,16,0,6,0,2,0,2,0,0,0,12,115,3,1,2,0,4,2,0
+277,Jean Mota Oliveira de Sousa,jean-mota,Jean Mota,78548,22,4,7,-0.5,3.71,0.31,1.55,16,0,21,0,1,0,0,0,0,0,15,57,1,1,5,7,0,0,0
+277,Arthur Gomes Lourenço,arthur-gomes,Arthur Gomes,96966,22,5,2,2.4,3.83,0.42,1.17,14,0,16,0,1,1,0,0,0,0,12,61,0,0,8,3,1,1,0
+277,Luiz Felipe do Nascimento dos Santos,luiz-felipe,Luiz Felipe,79035,22,3,7,4.4,4.22,0.06,1.94,5,0,3,0,0,0,1,0,0,0,3,13,0,0,0,0,0,0,0
+277,John Victor Maciel Furtado,john-victor,John Victor,94044,22,1,7,1.5,1.63,-2.18,8.9,2,0,0,0,0,0,1,4,0,1,2,22,0,0,0,0,0,0,0
+277,Diego Cristiano Evaristo,diego-pituca,Diego Pituca,94156,22,4,7,0,7.82,0,2.37,20,0,23,0,2,0,0,0,0,0,28,88,0,0,4,5,0,2,0
+277,Jobson Souza Santos,jobson,Jobson,93377,22,4,2,-1.1,3.89,0.02,1.68,16,0,30,0,5,0,0,0,0,0,14,97,1,0,1,3,1,2,0

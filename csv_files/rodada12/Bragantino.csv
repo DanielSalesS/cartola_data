@@ -1,0 +1,35 @@
+clube_id,nome,slug,apelido,atleta_id,rodada_id,posicao_id,status_id,pontos_num,preco_num,variacao_num,media_num,jogos_num,RB,FC,GC,CA,CV,SG,DD,DP,GS,FS,PI,A,FT,FD,FF,G,I,PP
+280,Raul Lô Gonçalves,raul,Raul,92496,11,4,7,5.9,7.55,0.32,7.37,3,0,4,0,0,0,0,0,0,0,4,19,0,0,0,0,1,0,0
+280,Leandro Henrique do Nascimento,leandrinho,Leandrinho,91702,11,5,6,0,2.39,0,0.67,3,0,1,0,0,0,0,0,0,0,4,5,0,0,0,0,0,0,0
+280,Weverson Moreira da Costa,weverson,Weverson,109426,11,2,6,0.9,0.76,0,-0.75,7,0,8,0,0,1,0,0,0,0,1,23,0,0,1,1,0,1,0
+280,Robson José Brilhante Martins,robinho,Robinho,97461,11,5,6,0,2.03,0,1.46,5,0,3,0,0,0,0,0,0,0,1,5,1,0,0,1,0,0,0
+280,Fabrício Bruno Soares de Faria,fabricio-bruno,Fabrício Bruno,90768,11,3,6,0,0.93,0,-0.4,4,0,5,0,1,1,0,0,0,0,2,11,0,0,0,0,0,0,0
+280,Alerrandro Barra Mansa Realino de Souza,alerrandro,Alerrandro,101715,11,5,7,17.7,13.48,2.22,7.09,9,0,6,0,0,0,0,0,0,0,11,26,1,2,4,7,5,3,0
+280,Leonardo Rech Ortiz,leo-ortiz,Léo Ortiz,97867,11,3,7,8.9,8.55,1.1,3.12,11,0,11,0,1,0,0,0,0,0,7,35,0,0,1,2,2,0,0
+280,Victor Hugo Santana Carvalho,vitinho,Vitinho,95770,11,4,5,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+280,Júlio César de Souza Santos,julio-cesar,Júlio César,38133,11,1,7,2.5,5.37,-0.43,3.9,2,0,0,0,0,0,0,3,1,4,0,32,0,0,0,0,0,0,0
+280,Ytalo José Oliveira dos Santos,ytalo,Ytalo,53148,11,5,6,0,4.92,0,1.87,6,0,2,0,0,0,0,0,0,0,0,8,1,0,3,3,0,0,0
+280,Ligger Moreira Malaquias,ligger,Ligger,61141,11,3,7,5,3.66,0.88,1.22,5,0,7,0,0,0,0,0,0,0,2,6,1,0,1,0,0,0,0
+280,Bruno Nunes de Barros,bruno-tubarao,Bruno Tubarão,93637,11,4,7,19.6,5.71,3.83,2.76,9,0,8,0,1,0,0,0,0,0,3,27,1,1,1,3,1,1,0
+280,Edimar Curitiba Fraga,edimar,Edimar,62024,11,2,7,0,3.95,0,1.23,9,0,12,0,3,0,0,0,0,0,7,113,0,0,1,9,0,1,0
+280,Lucas Evangelista Santana de Oliveira,lucas-evangelista,Lucas Evangelista,84674,11,4,7,8.3,5.01,0.42,2.97,7,0,10,0,2,0,0,0,0,0,11,17,0,1,2,2,1,0,0
+280,Thonny Anderson da Silva Carvalho,thonny-anderson,Thonny Anderson,101484,11,4,6,0,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+280,Jan Carlos Hurtado Anchico,hurtado,Hurtado,105301,11,5,6,0,2.13,-0.09,0.28,5,0,3,0,0,0,0,0,0,0,0,3,0,0,1,0,0,0,0
+280,Alex Alves de Lima,alex-alves,Alex Alves,77861,11,1,6,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+280,Claudio Luiz Rodrigues Parisi Leonel,claudinho,Claudinho,92630,11,5,7,-0.9,12.47,-0.95,4.53,10,0,12,0,2,0,0,0,0,0,16,94,1,0,7,6,3,1,1
+280,Uillian Correia Granemann,uillian-correia,Uillian Correia,72007,11,4,6,0,2.92,0,0.13,3,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+280,César Rafael Haydar Villarreal,haydar,Haydar,108385,11,3,6,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+280,Leonardo Javier Realpe Montaño,realpe,Realpe,106299,11,3,6,0,3.3,0,0.85,4,0,1,0,1,0,0,0,0,0,1,14,0,0,0,1,0,0,0
+280,Weverton Guilherme da Silva Souza,weverton,Weverton,104625,11,2,6,0,1.19,0,0.1,3,0,1,0,0,0,0,0,0,0,0,10,0,0,0,1,0,0,0
+280,Andrew Erik Feitosa,morato,Morato,86227,11,5,6,0,2.12,0,0.16,8,0,7,0,0,1,0,0,0,0,7,41,0,0,3,6,0,2,0
+280,Gustavo Bonatto Barreto,barreto,Barreto,89224,11,4,6,0,3.5,0,0.67,3,0,2,0,0,0,0,0,0,0,1,5,0,0,0,0,0,0,0
+280,Ricardo Ryller Ribeiro Lino Silva,ricardo-ryller,Ricardo Ryller,85856,11,4,3,-0.1,3.45,-0.37,1.21,10,0,32,0,6,0,0,0,0,0,13,40,0,0,0,7,0,0,0
+280,Tomás Esteban Cuello,cuello,Cuello,98909,11,4,6,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+280,Aderlan de Lima Silva,aderlan,Aderlan,88423,11,2,7,-0.1,8.21,-0.32,1.81,11,0,25,0,1,0,0,0,0,0,10,94,0,0,1,4,0,1,0
+280,Luan Cândido de Almeida,luan-candido,Luan Cândido,100848,11,2,6,-3,0.9,-1.1,-3,1,0,2,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+280,Luis Phelipe de Souza Figueiredo,luis-phelipe,Luis Phelipe,104500,11,5,6,3.1,4.76,0.12,3.6,4,0,1,0,1,0,0,0,0,0,4,3,0,0,1,0,1,0,0
+280,Maurício Nogueira Barbieri,mauricio-barbieri,Maurício Barbieri,82792,11,6,7,6.54,6.61,0.98,3.14,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+280,Chrigor Flores Moraes,chrigor,Chrigor,101398,11,5,6,0,2.25,0,2.4,1,0,1,0,0,0,0,0,0,0,2,1,0,0,0,0,0,0,0
+280,Matheus Sousa de Jesus,matheus-jesus,Matheus Jesus,95335,11,4,6,1.2,4.54,-0.15,1,9,0,13,0,3,0,0,0,0,0,7,37,1,0,3,7,0,1,0
+280,Cleiton Schwengber,cleiton,Cleiton,93882,11,1,6,0,0.77,0,-1.56,9,0,0,0,0,0,0,5,0,14,2,70,0,0,0,0,0,0,0
+280,Artur Victor Guimarães,artur,Artur,95799,11,5,7,2.9,12.32,-0.71,3.31,11,0,10,0,1,0,0,0,0,0,28,94,2,1,7,13,0,2,1

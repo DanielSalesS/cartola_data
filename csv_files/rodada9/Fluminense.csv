@@ -1,0 +1,37 @@
+clube_id,nome,slug,apelido,atleta_id,rodada_id,posicao_id,status_id,pontos_num,preco_num,variacao_num,media_num,jogos_num,RB,FC,GC,CA,CV,SG,DD,DP,GS,FS,PI,A,FT,FD,FF,G,I,PP
+266,Marcos Felipe de Freitas Monteiro,marcos-felipe,Marcos Felipe ,85004,8,1,6,-2.1,0.77,-0.5,-1.3,3,0,0,0,0,0,0,1,0,5,1,34,1,0,0,0,0,0,0
+266,Luccas Claro dos Santos,luccas-claro,Luccas Claro,73465,8,3,7,-0.3,5.51,-0.4,1.99,7,0,4,0,0,0,1,0,0,0,6,39,0,0,0,1,0,2,0
+266,Pablo Dyego da Silva Rosa,pablo-dyego,Pablo Dyego,86444,8,5,5,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+266,Igor de Carvalho Julião,igor-juliao,Igor Julião,81951,8,2,6,0,2.99,0,1.62,5,0,13,0,3,0,0,0,0,0,10,32,1,0,1,2,0,0,0
+266,Yago Felipe da Costa Rocha,yago-felipe,Yago Felipe,87747,8,4,6,0,3.12,0,0.58,5,0,7,0,0,0,0,0,0,0,8,14,0,0,0,1,0,0,0
+266,Odair Hellmann,odair-hellmann,Odair Hellmann,92273,8,6,7,2.92,8.54,0.15,3.12,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+266,Lucas Felipe Calegari,calegari,Calegari,104276,8,2,7,3.6,4.06,0.16,4.6,4,0,5,0,0,0,1,0,0,0,8,26,0,0,1,1,0,1,0
+266,Yuri Oliveira Lima,yuri-lima,Yuri Lima,90569,8,4,7,4.1,1.93,1.06,0.75,6,0,10,0,3,0,0,0,0,0,4,23,0,0,2,3,0,0,0
+266,Marcílio Florêncio Mota Filho,nino,Nino,91708,8,3,7,0.7,3.63,0.42,0.1,7,0,7,0,2,0,0,0,0,0,9,33,0,0,0,0,0,0,0
+266,Wesley Frazan Bernardo,frazan,Frazan,97528,8,3,5,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+266,Matheus Antonio Souza dos Santos,matheus-pato,Matheus Pato,92290,8,5,6,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+266,Fernando José Pacheco Rivas,fernando-pacheco,Fernando Pacheco,98740,8,5,7,-0.1,2.6,-0.04,0.03,4,0,1,0,0,0,0,0,0,0,2,4,0,0,0,0,0,2,0
+266,Michel Daryl Araújo Villar,michel-araujo,Michel Araújo ,107173,8,4,7,2.5,6.67,-0.09,3.61,8,0,14,0,1,0,0,0,0,0,30,34,0,0,4,5,0,1,0
+266,Danilo Carvalho Barcelos,danilo-barcelos,Danilo Barcelos,84382,8,2,6,0,3.23,0,-1.43,3,0,5,0,1,0,0,0,0,0,0,38,0,0,1,1,0,0,0
+266,Marcelo de Araújo Pitaluga Filho,marcelo-pitaluga,Marcelo Pitaluga ,101478,8,1,6,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+266,Douglas Moreira Fagundes,dodi,Dodi,89883,8,4,7,0.8,11.12,-0.61,5.18,8,0,11,0,1,0,0,0,0,0,13,26,0,0,3,3,1,0,0
+266,Edilson Borba de Aquino,orinho,Orinho,95542,8,2,6,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+266,Wanderson Felippe Cardoso dos Santos,felippe-cardoso,Felippe Cardoso,100963,8,5,6,-0.8,2.12,-0.88,-0.8,1,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,1,0
+266,Caio Fernando de Oliveira,caio-paulista,Caio Paulista,102318,8,5,6,0,3.57,0,1.7,2,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+266,Marcos Paulo Costa do Nascimento,marcos-paulo,Marcos Paulo,103645,8,5,6,0.2,5.62,-0.1,1.4,8,0,3,0,0,0,0,0,0,0,1,27,1,0,0,3,0,1,0
+266,André Trindade da Costa Neto,andre,André,107498,8,4,6,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+266,Matheus Martinelli Lima,martinelli,Martinelli,109573,8,4,6,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+266,Anderson Luiz de Carvalho,nene,Nenê,38913,8,4,7,4.8,12.59,0.19,5.85,7,0,5,0,1,0,0,0,0,0,17,76,1,0,4,6,3,0,0
+266,Luiz Henrique André Rosa da Silva,luiz-henrique,Luiz Henrique,109282,8,5,6,3.6,1.98,0.61,1.15,6,0,3,0,0,0,0,0,0,0,1,13,0,0,0,4,0,0,0
+266,Egídio de Araújo Pereira Júnior,egidio,Egídio,42145,8,2,7,2.7,10.43,0.29,4.98,8,0,11,0,0,0,1,0,0,0,6,100,1,0,3,1,0,0,0
+266,Frederico Chaves Guedes,fred,Fred,38162,8,5,6,0,2.86,0,0.98,4,0,4,0,2,0,0,0,0,0,4,9,0,0,0,1,1,0,0
+266,Matheus Ferraz Pereira,matheus-ferraz,Matheus Ferraz,38632,8,3,6,0,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+266,Hudson Rodrigues dos Santos,hudson,Hudson,50324,8,4,6,0,4.67,0,-0.4,2,0,4,0,0,1,0,0,0,0,1,3,0,0,0,0,0,0,0
+266,João Vitor Lopes da Silva,joao-lopes,João Lopes,105629,8,1,6,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+266,Guilherme Henrique da Silva,guilherme,Guilherme,109689,8,2,6,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+266,Daniel Lima de Castro,daniel,Daniel,107370,8,2,6,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+266,Miguel Silveira dos Santos,miguel,Miguel,105612,8,4,6,0,2.39,0,0.3,1,0,0,0,0,0,0,0,0,0,1,2,0,0,0,0,0,0,0
+266,Paulo Henrique Chagas de Lima,ganso,Ganso,62977,8,4,6,-0.6,3.81,-0.99,1.03,6,0,4,0,2,0,0,0,0,0,5,11,1,0,0,1,0,0,0
+266,Wellington Alves da Silva,wellington-silva,Wellington Silva,68895,8,5,7,13,5.05,3.05,1.97,6,0,1,0,3,0,0,0,0,0,14,15,0,0,0,1,1,0,0
+266,Rodrigo Júnior Paula Silva,digao,Digão,68886,8,3,6,0,5.03,0,3.85,2,0,4,0,1,0,1,0,0,0,1,4,0,0,0,2,0,0,0
+266,Muriel Gustavo Becker,muriel,Muriel,69041,8,1,7,0,5.05,0,1.08,5,0,0,0,0,0,1,4,0,5,0,56,0,0,0,0,0,0,0

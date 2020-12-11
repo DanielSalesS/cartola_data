@@ -1,0 +1,37 @@
+clube_id,nome,slug,apelido,atleta_id,rodada_id,posicao_id,status_id,pontos_num,preco_num,variacao_num,media_num,jogos_num,RB,FC,GC,CA,CV,SG,DD,DP,GS,FS,PI,A,FT,FD,FF,G,I,PP
+277,Arthur Gomes Lourenço,arthur-gomes,Arthur Gomes,96966,19,5,2,0,3.13,0,1.35,11,0,12,0,1,1,0,0,0,0,10,51,0,0,5,3,1,1,0
+277,Tailson Pinto Gonçalves,tailson,Tailson,104578,19,5,6,0,2.24,0,0.83,7,0,3,0,0,0,0,0,0,0,5,14,0,0,1,0,0,0,0
+277,Kaio Jorge Pinto Ramos,kaio-jorge,Kaio Jorge,103445,19,5,7,1.1,4.24,-0.64,1.55,16,0,24,0,3,0,0,0,0,0,22,29,0,1,2,12,1,1,0
+277,Luan Peres Petroni,luan-peres,Luan Peres ,84847,19,3,7,1.6,5.74,0.55,1.71,18,0,6,0,2,1,3,0,0,0,16,89,1,0,0,2,0,0,0
+277,Sandry Roberto Santos Goes,sandry,Sandry,104580,19,4,6,-3,0.94,-0.67,-1.03,3,0,5,0,2,0,0,0,0,0,1,1,0,0,0,0,0,0,0
+277,Mário Sérgio Santos Costa,marinho,Marinho,68952,19,5,3,14.3,26.16,1.77,11.04,16,0,24,0,3,0,0,0,0,0,78,91,5,1,11,21,12,13,0
+277,Raniel Santana de Vasconcelos,raniel,Raniel,86797,19,5,5,0,5.16,0,2.95,4,0,7,0,0,0,0,0,0,0,11,7,0,0,2,2,0,3,0
+277,Yeferson Julio Soteldo Martínez,soteldo,Soteldo,87258,19,5,7,5.6,7.73,1.07,3.44,13,0,7,0,4,0,0,0,0,0,26,92,3,0,7,10,2,2,0
+277,João Paulo Silva Martins,joao-paulo,João Paulo,85425,19,1,7,7.4,8.99,0.06,4.1,17,0,0,0,2,0,3,27,0,20,2,102,0,0,0,0,0,0,0
+277,Jobson Souza Santos,jobson,Jobson,93377,19,4,7,16.5,6.84,2.86,2.15,14,0,23,0,4,0,0,0,0,0,14,86,1,0,1,2,1,1,0
+277,Lucas Veríssimo da Silva,lucas-verissimo,Lucas Veríssimo,93368,19,3,7,0.9,7.39,0.27,2.09,12,0,19,0,4,0,2,0,0,0,2,69,0,0,3,3,1,1,0
+277,Diego Cristiano Evaristo,diego-pituca,Diego Pituca,94156,19,4,7,-2.9,7.04,-1.65,2.37,19,0,20,0,2,0,0,0,0,0,25,82,0,0,4,5,0,2,0
+277,John Victor Maciel Furtado,john-victor,John Victor,94044,19,1,6,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+277,Felipe Jonatan Rocha Andrade,felipe-jonatan,Felipe Jonatan,101708,19,2,7,2.8,12.16,0.47,4.8,18,0,24,0,5,0,3,0,0,0,22,149,1,0,3,11,2,0,0
+277,Marcos Rogério Ricci Lopes,para,Pará,62086,19,2,2,0,7.49,0,2.29,14,0,23,0,3,0,3,0,0,0,18,83,0,0,2,7,0,2,0
+277,Vladimir Orlando Cardoso de Araújo Filho,vladimir,Vladimir,69040,19,1,5,0,6.43,0,2.93,3,0,0,0,0,0,0,4,0,3,0,12,0,0,0,0,0,0,0
+277,Alison Lopes Ferreira,alison,Alison,73974,19,4,6,0,8.09,0,1.24,10,0,16,0,2,2,0,0,0,0,14,46,1,0,0,0,0,0,0
+277,Jonathan Copete Valencia,copete,Copete,77959,19,5,6,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+277,Luiz Felipe do Nascimento dos Santos,luiz-felipe,Luiz Felipe,79035,19,3,6,0,3.54,0,0.17,3,0,1,0,0,0,0,0,0,0,1,5,0,0,0,0,0,0,0
+277,Madson Ferreira dos Santos,madson,Madson,78077,19,2,7,5.7,6.82,0.45,4.11,14,0,6,0,2,0,2,0,0,0,10,98,3,0,2,0,4,2,0
+277,Jean Mota Oliveira de Sousa,jean-mota,Jean Mota,78548,19,4,7,5.5,4.93,1.18,2.05,14,0,18,0,0,0,0,0,0,0,14,48,1,1,5,7,0,0,0
+277,Guilherme Nunes da Silva,guilherme-nunes,Guilherme Nunes,101912,19,4,6,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+277,Ivonei Júnior da Silva Rabelo,ivonei,Ivonei,105899,19,4,6,0,0.93,0,0.56,5,0,2,0,1,0,0,0,0,0,1,5,0,0,1,2,0,0,0
+277,Alex de Oliveira Nascimento,alex,Alex,101600,19,3,6,0,2.02,0,2.4,5,0,1,0,1,0,2,0,0,0,2,15,0,0,0,0,0,0,0
+277,Lucas Braga Ribeiro,lucas-braga,Lucas Braga,99119,19,5,2,0,2.49,0,1.06,13,0,22,0,3,0,0,0,0,0,17,38,1,0,3,3,0,2,0
+277,Derick Fernando da Silva,derick,Derick ,109830,19,3,6,0,0.77,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+277,Lucas Lourenço Andrade,lucas-lourenco,Lucas Lourenço,101580,19,4,6,0.8,2.46,0.11,0.82,8,0,5,0,1,0,0,0,0,0,5,13,0,0,1,2,0,0,0
+277,Wagner Leonardo Calvelo de Souza,wagner-leonardo,Wagner Leonardo,104994,19,3,6,0,1.68,0,0.86,5,0,0,0,0,0,0,0,0,0,1,2,0,0,0,0,0,0,0
+277,Carlos Andrés Sánchez Arcosa,carlos-sanchez,Carlos Sánchez,81677,19,4,5,0,5.65,0,1.66,12,0,11,0,1,0,0,0,0,0,18,98,1,0,6,7,0,1,1
+277,Francisco Anderson de Jesus dos Santos,anderson-ceara,Anderson Ceará,103724,19,4,6,0,1.67,0,0.6,1,0,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0
+277,Marcos Leonardo Santos Almeida,marcos-leonardo,Marcos Leonardo,109497,19,5,6,-0.5,0.93,-0.24,0.94,8,0,10,0,1,0,0,0,0,0,8,4,0,0,1,1,1,0,0
+277,Matheus Purcelo Blecha de Moraes,matheus-moraes,Matheus Moraes,109560,19,4,6,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+277,Alexi Stival,cuca,Cuca,42411,19,6,7,5.06,11.32,0.57,3.71,19,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+277,Laércio Soldá,laercio,Laércio,82564,19,3,6,0,2.69,0,0.82,4,0,7,0,0,0,0,0,0,0,1,13,0,0,0,2,0,0,0
+277,Brayan Diogo Ijorski Kruger,brayan,Brayan,110416,19,5,6,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+277,Ângelo Gabriel Borges Damaceno,angelo,Ângelo,110415,19,5,6,-0.1,0.98,-0.17,0.35,2,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0

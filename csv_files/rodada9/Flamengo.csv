@@ -1,0 +1,33 @@
+clube_id,nome,slug,apelido,atleta_id,rodada_id,posicao_id,status_id,pontos_num,preco_num,variacao_num,media_num,jogos_num,RB,FC,GC,CA,CV,SG,DD,DP,GS,FS,PI,A,FT,FD,FF,G,I,PP
+262,Rodrigo Caio Coquette Russo,rodrigo-caio,Rodrigo Caio,73800,8,3,2,1.2,9.33,-0.36,3.15,8,0,7,0,1,0,2,0,0,0,3,14,0,0,1,3,0,0,0
+262,Willian Souza Arão da Silva,willian-arao,Willian Arão,78478,8,4,7,3.2,8.71,0.01,1.9,8,0,10,0,1,0,0,0,0,0,5,29,0,0,1,3,0,0,0
+262,Diego Alves Carreira,diego-alves,Diego Alves,38509,8,1,5,0,10.72,0,2.22,5,0,0,0,0,1,1,6,0,6,2,19,0,0,0,0,0,0,0
+262,Filipe Luís Kasmirski,filipe-luis,Filipe Luís,38750,8,2,7,0.1,4.72,-1.07,2.31,7,0,7,1,1,0,2,0,0,0,8,60,0,0,2,1,0,1,0
+262,César Bernardo Dutra,cesar,César,78086,8,1,6,0,5.09,0,3,3,0,0,0,0,0,2,0,0,0,0,10,0,0,0,0,0,0,0
+262,Diego Ribas da Cunha,diego,Diego,38909,8,4,6,-0.1,4.39,0.24,-0.34,5,0,8,0,2,0,0,0,0,0,11,12,0,0,0,0,0,0,0
+262,Gustavo Henrique Vernes,gustavo-henrique,Gustavo Henrique,78248,8,3,6,1.7,5.58,-0.74,2.7,3,0,2,0,0,0,1,0,0,0,2,7,0,0,0,1,0,0,0
+262,Victor Vinícius Coelho dos Santos,vitinho,Vitinho,78435,8,5,2,0,5.94,0,1.08,5,0,4,0,0,0,0,0,0,0,4,18,0,0,1,5,0,0,0
+262,Renê Rodrigues Martins,rene,Renê,78445,8,2,6,0,5.28,0,2.9,3,0,1,0,1,0,1,0,0,0,1,23,0,0,0,0,0,0,0
+262,Leonardo Pereira,leo-pereira,Léo Pereira,83528,8,3,7,0,4.99,0,2.2,6,0,9,0,0,0,1,0,0,0,5,30,0,0,2,1,0,0,0
+262,Pedro Rocha Neves,pedro-rocha,Pedro Rocha,90302,8,5,5,0,3.82,-0.59,1.33,3,0,2,0,0,0,0,0,0,0,1,15,1,0,0,0,0,0,0
+262,Thiago Maia Alencar,thiago-maia,Thiago Maia,89637,8,4,2,0,5.17,0,0.7,3,0,5,0,0,0,0,0,0,0,2,14,0,0,0,0,0,0,0
+262,Gerson Santos da Silva,gerson,Gerson,89256,8,4,2,1.1,9.4,-0.12,2.28,6,0,16,0,2,0,0,0,0,0,19,20,0,0,0,4,0,0,0
+262,Pedro Guilherme Abreu dos Santos,pedro,Pedro,94583,8,5,2,3.9,3.86,-1.87,2.8,7,0,8,0,1,0,0,0,0,0,2,9,0,0,4,4,2,3,0
+262,Robert Ayrton Piris da Motta,piris-da-motta,Piris da Motta,95802,8,4,6,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+262,Gabriel Batista de Souza,gabriel-batista,Gabriel Batista,98333,8,1,7,2.3,2.51,0.81,-0.05,2,0,0,0,0,0,0,2,0,4,1,6,0,0,0,0,0,0,0
+262,Matheus Soares Thuler,thuler,Thuler,100125,8,3,2,0,2.37,0,-0.6,2,0,1,0,1,0,0,0,0,0,1,2,0,0,0,0,0,0,0
+262,Michael Richard Delgado de Oliveira,michael,Michael,99392,8,5,2,5,6.66,0.97,2.35,4,0,5,0,1,0,0,0,0,0,1,18,1,0,3,7,0,0,0
+262,Lincoln Corrêa dos Santos,lincoln,Lincoln,100065,8,5,6,1,3.14,0.26,0.2,2,0,1,0,0,0,0,0,0,0,0,3,0,0,1,0,0,0,0
+262,Matheus França Silva,matheuzinho,Matheuzinho,101727,8,2,2,5,2.75,0.89,3.15,2,0,2,0,1,0,0,0,0,0,1,6,1,0,2,0,0,0,0
+262,João Lucas de Almeida Carvalho,joao-lucas,João Lucas,104257,8,2,5,0,4.17,0,3.55,2,0,6,0,1,0,1,0,0,0,7,12,0,0,0,1,0,0,0
+262,Everton Augusto de Barros Ribeiro,everton-ribeiro,Everton Ribeiro,51772,8,4,7,6.9,7.78,-0.13,3.11,8,0,8,0,2,0,0,0,0,0,18,57,0,0,2,4,2,0,0
+262,Giorgian Daniel de Arrascaeta Benedetti,arrascaeta,Arrascaeta,87863,8,4,7,3.3,18.79,-2.64,6.94,7,0,6,0,0,0,0,0,0,0,7,77,1,1,4,5,3,0,0
+262,Gabriel Barbosa Almeida,gabriel,Gabriel,83257,8,5,7,9.9,14.01,0.3,7.24,7,0,3,0,2,0,0,0,0,0,8,44,0,1,9,11,4,4,0
+262,Rodrigo Muniz Carvalho,rodrigo-muniz,Rodrigo Muniz,107112,8,5,6,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+262,João Pedro Vilardi Pinto,pepe,Pepê,101573,8,4,6,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+262,Domènec Torrent Font,domenec-torrent,Domènec Torrent,109505,8,6,7,3.98,8.86,-0.08,3.65,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+262,Ramon Ramos Lima,ramon,Ramon,101597,8,2,6,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+262,Bruno Henrique Pinto,bruno-henrique,Bruno Henrique,90285,8,5,5,0,11.48,0,2.1,6,0,15,0,3,0,0,0,0,0,19,34,1,1,3,3,0,2,0
+262,Hugo de Souza Nogueira,hugo-souza,Hugo Souza,101574,8,1,6,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+262,Mauricio Aníbal Isla Isla,isla,Isla,69345,8,2,2,-0.7,8.44,-1.52,3.6,3,0,6,0,1,0,1,0,0,0,0,17,2,0,0,0,0,1,0
+262,João Fernando Monteiro Siqueira,joao-fernando,João Fernando,104079,8,1,6,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0

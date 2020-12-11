@@ -1,0 +1,44 @@
+clube_id,nome,slug,apelido,atleta_id,rodada_id,posicao_id,status_id,pontos_num,preco_num,variacao_num,media_num,jogos_num,RB,FC,GC,CA,CV,SG,DD,DP,GS,FS,PI,A,FT,FD,FF,G,I,PP
+266,Frederico Chaves Guedes,fred,Fred,38162,13,5,7,2.6,3.24,0.48,1.19,7,0,8,0,2,0,0,0,0,0,11,14,0,0,2,1,1,0,0
+266,Hudson Rodrigues dos Santos,hudson,Hudson,50324,13,4,7,-1.3,4.72,-0.63,0.92,6,0,13,0,0,1,0,0,0,0,3,25,0,0,0,0,0,0,0
+266,Danilo Carvalho Barcelos,danilo-barcelos,Danilo Barcelos,84382,13,2,7,0.9,2.82,-0.01,-0.97,6,0,14,0,2,1,1,0,0,0,0,68,0,0,2,2,0,0,0
+266,André Trindade da Costa Neto,andre,André,107498,13,4,6,0,0.76,0,-2.7,1,0,1,0,1,0,0,0,0,0,0,2,0,0,0,0,0,0,0
+266,Paulo Henrique Chagas de Lima,ganso,Ganso,62977,13,4,6,0,5.4,0,1.84,9,0,6,0,2,0,0,0,0,0,5,23,1,0,0,3,1,0,0
+266,Marcílio Florêncio Mota Filho,nino,Nino,91708,13,3,7,4.5,5.38,-1.26,2.19,11,0,10,0,2,0,1,0,0,0,14,53,0,0,0,3,1,0,0
+266,Marcos Paulo Costa do Nascimento,marcos-paulo,Marcos Paulo,103645,13,5,6,0,5.33,0,1.13,11,0,3,0,0,0,0,0,0,0,1,33,1,0,0,4,0,1,0
+266,Odair Hellmann,odair-hellmann,Odair Hellmann,92273,13,6,7,1.92,9.09,-0.9,3.41,13,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+266,Yago Felipe da Costa Rocha,yago-felipe,Yago Felipe,87747,13,4,7,1.4,3.45,0.23,1.33,10,0,10,0,0,0,0,0,0,0,12,29,0,0,3,4,0,1,0
+266,Marcos Felipe de Freitas Monteiro,marcos-felipe,Marcos Felipe ,85004,13,1,6,0,0.77,0,-1.3,3,0,0,0,0,0,0,1,0,5,1,34,1,0,0,0,0,0,0
+266,Matheus Martinelli Lima,martinelli,Martinelli,109573,13,4,6,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+266,Douglas Moreira Fagundes,dodi,Dodi,89883,13,4,7,7.5,12.14,0.95,4.53,12,0,17,0,2,0,0,0,0,0,20,39,0,0,4,5,1,0,0
+266,Fernando José Pacheco Rivas,fernando-pacheco,Fernando Pacheco,98740,13,5,7,0.1,2.67,-0.46,0.51,8,0,5,0,0,0,0,0,0,0,6,19,0,0,1,1,0,3,0
+266,Matheus Antonio Souza dos Santos,matheus-pato,Matheus Pato,92290,13,5,6,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+266,Edilson Borba de Aquino,orinho,Orinho,95542,13,2,6,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+266,Wesley Frazan Bernardo,frazan,Frazan,97528,13,3,6,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+266,Rodrigo Júnior Paula Silva,digao,Digão,68886,13,3,7,0.8,4.93,0.02,3.4,5,0,6,0,1,0,1,0,0,0,3,11,0,0,0,2,1,0,0
+266,Yuri Oliveira Lima,yuri-lima,Yuri Lima,90569,13,4,6,0,1.8,0,0.94,7,0,11,0,3,0,0,0,0,0,4,27,0,0,2,3,0,0,0
+266,Wanderson Felippe Cardoso dos Santos,felippe-cardoso,Felippe Cardoso,100963,13,5,6,-0.5,2.48,-1.12,1.46,5,0,5,0,0,0,0,0,0,0,2,10,0,0,0,1,1,2,0
+266,Marcelo de Araújo Pitaluga Filho,marcelo-pitaluga,Marcelo Pitaluga ,101478,13,1,6,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+266,Muriel Gustavo Becker,muriel,Muriel,69041,13,1,7,2.4,4.93,-0.67,2.24,10,0,0,0,0,0,2,10,0,10,2,86,0,0,0,0,0,0,0
+266,Michel Daryl Araújo Villar,michel-araujo,Michel Araújo ,107173,13,4,3,-1,6.57,-1.81,3.45,12,0,20,0,3,0,0,0,0,0,42,54,0,0,4,7,1,1,0
+266,Wellington Alves da Silva,wellington-silva,Wellington Silva,68895,13,5,5,0,4.52,0,2.14,10,0,6,0,3,0,0,0,0,0,19,22,1,0,1,3,1,1,0
+266,Caio Fernando de Oliveira,caio-paulista,Caio Paulista,102318,13,5,5,0.3,3.11,-0.2,1.15,4,0,2,0,0,0,0,0,0,0,2,4,0,0,0,0,0,0,0
+266,Luccas Claro dos Santos,luccas-claro,Luccas Claro,73465,13,3,6,0,5.33,0,1.77,10,0,4,0,0,0,1,0,0,0,7,55,0,0,0,2,0,2,0
+266,Luiz Henrique André Rosa da Silva,luiz-henrique,Luiz Henrique,109282,13,5,6,0,2.01,0,1.17,9,0,5,0,0,0,0,0,0,0,2,19,0,0,1,6,0,2,0
+266,Igor de Carvalho Julião,igor-juliao,Igor Julião,81951,13,2,7,0.7,3.71,-1.4,2.77,7,0,17,0,3,0,1,0,0,0,15,44,2,0,1,2,0,0,0
+266,Matheus Ferraz Pereira,matheus-ferraz,Matheus Ferraz,38632,13,3,6,1.1,5.46,-1.12,5.15,2,0,2,0,0,0,1,0,0,0,1,4,1,0,1,0,0,0,0
+266,Egídio de Araújo Pereira Júnior,egidio,Egídio,42145,13,2,6,0,10.22,0,4.71,10,0,13,0,0,0,1,0,0,0,6,129,2,0,4,1,0,0,0
+266,Anderson Luiz de Carvalho,nene,Nenê,38913,13,4,7,1.6,13.07,-0.44,5.84,11,0,6,0,2,0,0,0,0,0,22,120,1,0,5,14,5,0,0
+266,Miguel Silveira dos Santos,miguel,Miguel,105612,13,4,6,0,1.92,0,0.35,2,0,1,0,0,0,0,0,0,0,1,3,0,0,0,0,0,0,0
+266,João Vitor Lopes da Silva,joao-lopes,João Lopes,105629,13,1,6,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+266,Guilherme Henrique da Silva,guilherme,Guilherme,109689,13,2,6,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+266,Lucas Felipe Calegari,calegari,Calegari,104276,13,2,6,0,5.21,0,5.14,7,0,7,0,0,0,1,0,0,0,16,50,0,0,2,2,0,1,0
+266,Daniel Lima de Castro,daniel,Daniel,107370,13,2,6,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+266,Paulo Victor da Costa Miranda Alves,paulo-victor,Paulo Victor,107373,13,4,6,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+266,Christian Henrique Mora De Oliveira Silva,christian,Christian,110210,13,5,6,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+266,Wisney Junio Dias Carvalho,wisney,Wisney,107374,13,2,6,0,3.11,0,5,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+266,Higor Gabriel Fernandes Alves,higor,Higor,107371,13,3,6,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+266,Lucca Borges Brito,lucca,Lucca,61149,13,5,6,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+266,Mateus Nascimento Soares,nascimento,Nascimento,107372,13,4,6,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+266,Luan de Freitas Molarinho Chagas,luan,Luan,105807,13,3,6,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+266,Denilson Rodrigues Roldão,denilson,Denilson,104025,13,4,6,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0

@@ -1,0 +1,40 @@
+clube_id,nome,slug,apelido,atleta_id,rodada_id,posicao_id,status_id,pontos_num,preco_num,variacao_num,media_num,jogos_num,RB,FC,GC,CA,CV,SG,DD,DP,GS,FS,PI,A,FT,FD,FF,G,I,PP
+294,Wilson Rodrigues de Moura Júnior,wilson,Wilson,50284,9,1,7,0,8.47,-1.04,4.51,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+294,Ramón Martínez López,ramon-martinez,Ramón Martínez,92155,9,4,6,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+294,Hugo Moura Arruda da Silva,hugo-moura,Hugo Moura,101594,9,4,2,0,2.41,0.14,0.43,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+294,Alex Roberto Santana Rafael ,alex-muralha,Alex Muralha,79066,9,1,6,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+294,Matheus Galdezani,matheus-galdezani,Matheus Galdezani,82634,9,4,2,0,11.28,0.04,4.93,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+294,Luiz Ricardo Alves,sassa,Sassá,79578,9,5,7,0,3.78,1.41,1.87,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+294,Guilherme da Trindade Dubas,guilherme-biro,Guilherme Biro,107555,9,5,6,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+294,Luiz Rhodolfo Dini Gaioto,rhodolfo,Rhodolfo,42501,9,3,7,0,4.62,-0.67,2.1,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+294,Rafael da Silva Francisco,rafinha,Rafinha,38421,9,4,5,0,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+294,Rafael Ramos de Lima,rafael-lima,Rafael Lima,50361,9,3,6,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+294,Wanderley Monteiro dos Santos Júnior,wanderley,Wanderley,38449,9,5,6,0,3.26,0,0.5,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+294,Giovanni Augusto Oliveira Cardoso,giovanni-augusto,Giovanni Augusto,68938,9,4,6,0,4.59,-0.18,0.87,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+294,Renê dos Santos Júnior,rene-junior,Renê Júnior,73281,9,4,6,0,1.6,0,-0.7,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+294,William Matheus da Silva,william-matheus,William Matheus,62130,9,2,7,0,6,1.42,3.38,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+294,Robson dos Santos Fernandes,robson,Robson,84817,9,5,7,0,8.14,1.97,3.66,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+294,Gabriel Santana Pinto,gabriel,Gabriel,73515,9,4,5,0,5.15,0,2.1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+294,Giovanni Piccolomo,giovanni,Giovanni,79432,9,4,6,0,3.51,0,1.9,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+294,Ruy Franco de Almeida Junior,ruy,Ruy,82939,9,4,6,0,2.83,0,-0.27,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+294,Rodolfo Filemon de Oliveira da Silva,rodolfo-filemon,Rodolfo Filemon,97925,9,3,3,0,0.77,0,-0.99,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+294,Wellissol Santos de Oliveira ,wellissol,Wellissol ,94718,9,5,6,0,1.1,0,-0.07,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+294,Thiago Ferreira Lopes,thiago-lopes,Thiago Lopes,92225,9,4,6,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+294,Matheus de Sales Cabral,matheus-sales,Matheus Sales,89285,9,4,7,0,4.51,0.92,2.25,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+294,Nathan Otávio Ribeiro,nathan-ribeiro,Nathan Ribeiro,102607,9,3,6,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+294,Patrick de Oliveira Vieira,patrick-vieira,Patrick Vieira,78635,9,2,6,0,4.64,0,1.55,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+294,Geovane Henrique Pereira de Souza,geovane,Geovane,96349,9,2,6,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+294,José Sabino Chagas Monteiro,sabino,Sabino,104075,9,3,7,0,7.81,0.88,4.6,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+294,Igor Jesus Maciel da Cruz,igor-jesus,Igor Jesus,104528,9,5,7,0,2.51,0.02,1.16,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+294,Matheus Bueno Batista,matheus-bueno,Matheus Bueno,101832,9,4,7,0,1.37,-0.15,0.71,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+294,Nathanael Ananias da Silva,nathan-silva,Nathan Silva,95794,9,4,6,0,2.39,0,-0.13,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+294,Natanael Moreira Milouski,natanael,Natanael,107554,9,2,6,0,0.77,-0.09,0.37,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+294,Henrique Vermudt,henrique-vermudt,Henrique Vermudt,104504,9,4,6,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+294,Jonathan Francisco Lemos,jonathan,Jonathan,86713,9,2,7,0,4.47,0.4,2.93,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+294,Neilton Meira Mestzk,neilton,Neilton,83772,9,5,6,0,5.41,0,1.58,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+294,Jorge Amorim de Oliveira Campos,jorginho,Jorginho,70323,9,6,7,0,7.36,0.41,3.78,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+294,Yan Medeiros Sasse,yan-sasse,Yan Sasse,96055,9,4,6,0,0.93,0,-1.43,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+294,Nathan Uilian Fogaça,nathan,Nathan ,102667,9,5,6,0,0.74,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+294,Luiz Henrique Augustin ,luiz-henrique,Luiz Henrique,104526,9,4,6,0,0.77,-0.27,0.04,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+294,Diego Santos Monteiro,diego-monteiro,Diego Monteiro,107136,9,1,6,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+294,Christian Kendji Wagatsuma Ferreira,kazu,Kazu,107137,9,2,6,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0

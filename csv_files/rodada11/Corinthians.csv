@@ -1,0 +1,38 @@
+clube_id,nome,slug,apelido,atleta_id,rodada_id,posicao_id,status_id,pontos_num,preco_num,variacao_num,media_num,jogos_num,RB,FC,GC,CA,CV,SG,DD,DP,GS,FS,PI,A,FT,FD,FF,G,I,PP
+264,Fagner Conserva Lemos,fagner,Fagner,42500,10,2,6,0,10.19,0,2.13,6,0,9,0,1,1,0,0,0,0,4,61,0,0,3,1,1,0,0
+264,Ángelo Giovanni Araos Llanos,araos,Araos,102352,10,4,6,0,7.51,0,3.6,7,0,5,0,2,0,0,0,0,0,9,34,2,0,2,4,1,0,0
+264,Leonardo Natel Vieira,leo-natel,Léo Natel,98952,10,5,6,0,4.37,0,2.96,7,0,10,0,1,0,0,0,0,0,4,24,1,0,2,4,1,1,0
+264,Guilherme de Aguiar Camacho,camacho,Camacho,68770,10,4,6,-0.7,2.68,-0.36,-0.12,5,0,7,0,1,0,0,0,0,0,0,11,0,0,0,0,0,0,0
+264,Rómulo Otero Vásquez,otero,Otero,83004,10,4,6,4.3,12.07,-0.31,4.48,5,0,6,0,2,0,0,0,0,0,13,32,1,2,7,4,0,1,0
+264,João Vitor Xavier de Almeida,xavier,Xavier,102067,10,4,6,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+264,Guilherme Vicentini Castellani,guilherme,Guilherme,108539,10,1,6,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+264,Lucas Piton Crivellaro,lucas-piton,Lucas Piton,105584,10,2,6,3.4,4.12,0.33,2.22,5,0,3,0,1,0,0,0,0,0,5,39,1,0,1,1,0,0,0
+264,Michel Macedo Rocha Machado,michel,Michel,80664,10,2,6,0,4.76,-0.31,2.7,4,0,1,0,0,0,1,0,0,0,6,20,0,0,1,2,0,1,0
+264,Víctor Danilo Cantillo Jiménez,cantillo,Cantillo,85315,10,4,6,0.2,5.66,-0.05,1.52,9,0,8,0,1,0,0,0,0,0,9,26,1,0,2,3,0,0,0
+264,Ramiro Moschen Benetti,ramiro,Ramiro,78715,10,4,6,3.1,6.73,0.51,2.69,8,0,13,0,2,0,0,0,0,0,5,39,0,0,1,4,1,0,0
+264,Sidcley Ferreira Pereira,sidcley,Sidcley,86764,10,2,6,-0.1,6.58,-0.15,2.28,7,0,4,0,0,0,1,0,0,0,9,40,0,0,1,1,0,1,0
+264,Leonardo Rodrigues dos Santos,leo-santos,Léo Santos,95820,10,3,6,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+264,Everaldo Silva do Nascimento,everaldo,Everaldo ,91151,10,5,6,2.8,4.48,-0.52,2.8,1,0,2,0,0,0,0,0,0,0,2,2,0,0,1,1,0,0,0
+264,Éderson José dos Santos Lourenço da Silva,ederson,Éderson,103099,10,4,6,0.9,5.21,-0.07,1.92,8,0,9,0,0,0,0,0,0,0,6,21,0,0,1,1,0,0,0
+264,Mateus da Silva Vital Assumpção,mateus-vital,Mateus Vital,93108,10,4,6,10.2,6.52,2.07,2.17,6,0,1,0,1,0,0,0,0,0,8,9,0,0,2,0,1,0,0
+264,Bruno Méndez Cittadini,bruno-mendez,Bruno Méndez,103700,10,3,6,-4,1.7,-1.48,-1.75,2,0,2,0,1,0,0,0,0,0,0,15,0,0,0,0,0,0,0
+264,Matheus Alvarenga de Oliveira,davo,Davó,105533,10,5,6,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+264,Roni Medeiros de Moura,roni,Roni,105585,10,4,6,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+264,Walter Leandro Capeloza Artune,walter,Walter,51413,10,1,6,-2,4.99,-2.01,-2,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+264,João Alves de Assis Silva,jo,Jô,38138,10,5,3,-1.7,11.62,-0.54,3.67,9,0,9,0,0,0,0,0,0,0,9,40,1,1,5,5,3,2,1
+264,Mauro Boselli,boselli,Boselli,69161,10,5,6,0,6.1,0,-0.07,3,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0
+264,Ruan de Oliveira Ferreira,ruan,Ruan,104153,10,4,5,0,1.22,0,0.77,4,0,2,0,0,0,0,0,0,0,2,7,0,0,0,1,0,0,0
+264,Gabriel Pereira dos Santos,gabriel-pereira,Gabriel Pereira,109588,10,4,6,0,0.83,0,0.2,1,0,1,0,0,0,0,0,0,0,2,3,0,0,0,0,0,0,0
+264,Danilo Fernando Avelar,danilo-avelar,Danilo Avelar,72142,10,3,6,0,4.41,0,1.82,8,0,13,0,0,1,1,0,0,0,2,27,0,0,5,1,1,0,0
+264,Gabriel Girotto Franco,gabriel,Gabriel,78605,10,4,3,-0.5,4.19,-0.69,1.97,7,0,12,0,3,0,0,0,0,0,8,28,1,0,0,2,0,0,0
+264,Cássio Roberto Ramos,cassio,Cássio,42234,10,1,6,-4.8,8.07,-2.31,1.48,9,0,0,0,0,0,1,10,0,14,0,47,0,0,0,0,0,0,0
+264,Carlos Gilberto do Nascimento Silva,gil,Gil,68923,10,3,6,7.9,5.83,1.39,2.1,8,0,7,0,1,0,1,0,0,0,4,37,1,0,0,0,0,0,0
+264,Luan Guilherme de Jesus Vieira,luan,Luan,86759,10,4,6,0,7.75,0,3.73,4,0,4,0,0,0,0,0,0,0,3,24,0,1,1,2,1,0,0
+264,Matheus Planelles Donelli,matheus-donelli,Matheus Donelli,107179,10,1,6,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+264,Guilherme Mantuan,mantuan,Mantuan,97315,10,4,6,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+264,Gustavo Henric da Silva,gustavo-mosquito,Gustavo Mosquito,97450,10,5,6,0.8,3.05,0.08,2.34,7,0,5,0,0,0,0,0,0,0,5,22,0,0,2,4,1,0,0
+264,Raul Gustavo Pereira Bicalho,raul-gustavo,Raul Gustavo,109389,10,3,6,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+264,Dyego Rocha Coelho,dyego-coelho,Dyego Coelho,98499,10,6,6,1.8,8.19,-1.3,1.8,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+264,Ronald Eugenio de Carvalho,ronald,Ronald,109860,10,3,6,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+264,Igor Marques Paciência Cardoso,igor-formiga,Igor Formiga,106708,10,2,6,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+264,Cauê Vinicius dos Santos,caue,Cauê,104664,10,5,6,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0

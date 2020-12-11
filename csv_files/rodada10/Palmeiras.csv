@@ -1,0 +1,31 @@
+clube_id,nome,slug,apelido,atleta_id,rodada_id,posicao_id,status_id,pontos_num,preco_num,variacao_num,media_num,jogos_num,RB,FC,GC,CA,CV,SG,DD,DP,GS,FS,PI,A,FT,FD,FF,G,I,PP
+275,Bruno Henrique Corsini,bruno-henrique,Bruno Henrique,70944,9,4,6,0,6.65,-0.6,0.3,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+275,Felipe Melo de Carvalho,felipe-melo,Felipe Melo,38545,9,3,6,0,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+275,Luiz Adriano de Souza da Silva,luiz-adriano,Luiz Adriano,72772,9,5,6,0,12.48,1.08,4.81,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+275,Willian Gomes de Siqueira,willian,Willian,42116,9,5,7,0,10.02,0.19,2.33,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+275,Iván Darío Angulo Cortés,ivan-angulo,Iván Angulo,105841,9,5,6,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+275,Ramires Santos do Nascimento,ramires,Ramires,50293,9,4,6,0,5.11,-0.31,0.87,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+275,Marcos Luis Rocha Aquino,marcos-rocha,Marcos Rocha,63013,9,2,6,0,8.07,0,2.35,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+275,Gustavo Henrique Furtado Scarpa,gustavo-scarpa,Gustavo Scarpa,87999,9,4,6,0,6.76,0,1.2,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+275,Vanderlei Luxemburgo da Silva,vanderlei-luxemburgo,Vanderlei Luxemburgo,41327,9,6,7,0,11.26,0.53,3.59,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+275,Jailson Marcelino dos Santos,jailson,Jailson,72290,9,1,6,0,3.06,0,-3.1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+275,Vitor Hugo Franchescoli de Souza,vitor-hugo,Vitor Hugo,72605,9,3,6,0,4.42,0,0.3,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+275,Mayke Rocha de Oliveira,mayke,Mayke,81150,9,2,7,0,6.87,1.4,2.56,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+275,José Rafael Vivian,ze-rafael,Zé Rafael,82455,9,4,7,0,10.18,-0.75,3.98,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+275,Lucas Rafael Araújo Lima,lucas-lima,Lucas Lima,80583,9,4,7,0,5.43,0.71,1.07,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+275,Vinicius Silvestre da Costa,vinicius-silvestre,Vinicius Silvestre,85083,9,1,6,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+275,Luan Garcia Teixeira,luan,Luan,80692,9,3,7,0,5.69,1.21,2.03,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+275,Emerson Raymundo Santos,emerson-santos,Emerson Santos,86972,9,3,6,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+275,Matías Nicolás Viña Susperreguy,vina,Viña,98974,9,2,7,0,8.44,0.98,4.88,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+275,Patrick de Paula Carreiro,patrick-de-paula,Patrick de Paula,107172,9,4,7,0,5.55,0.29,3.84,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+275,Ronielson da Silva Barbosa,rony,Rony,91607,9,5,6,0,9.52,-0.56,1.02,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+275,Raphael Cavalcante Veiga,raphael-veiga,Raphael Veiga,94509,9,4,6,0,7.48,0,3.67,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+275,Wesley Ribeiro Silva,wesley,Wesley,105811,9,5,7,0,2.4,0.02,0.6,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+275,Gabriel Vinícius Menino,gabriel-menino,Gabriel Menino,103767,9,4,7,0,6.47,-0.12,3.71,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+275,Gabriel Veron Fonseca de Souza,gabriel-veron,Gabriel Veron,103764,9,5,6,0,6.78,0.05,10.5,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+275,Luan Silva dos Santos,luan-silva,Luan Silva,102295,9,5,5,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+275,Weverton Pereira da Silva,weverton,Weverton,71631,9,1,7,0,8.79,0.69,0.47,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+275,Gustavo Raúl Gómez Portillo,gustavo-gomez,Gustavo Gómez,71684,9,3,7,0,13.23,0.94,4.03,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+275,Lucas Esteves de Souza,esteves,Esteves,100846,9,2,5,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+275,Gabriel Silva Vieira,gabriel-silva,Gabriel Silva,103766,9,4,6,0,0.75,0,-3,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+275,Danilo dos Santos de Oliveira,danilo,Danilo,107231,9,4,6,0,0.77,0,-2.1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0

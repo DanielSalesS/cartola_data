@@ -1,0 +1,42 @@
+clube_id,nome,slug,apelido,atleta_id,rodada_id,posicao_id,status_id,pontos_num,preco_num,variacao_num,media_num,jogos_num,RB,FC,GC,CA,CV,SG,DD,DP,GS,FS,PI,A,FT,FD,FF,G,I,PP
+290,Rafael Vaz dos Santos,rafael-vaz,Rafael Vaz,73421,9,3,3,0,5.7,-1.26,1.98,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+290,Rafael Martiniano de Miranda Moura,rafael-moura,Rafael Moura,37655,9,5,7,0,6.65,1.6,1.7,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+290,Victor Andrade Santos,victor-andrade,Victor Andrade,80536,9,5,3,0,5.36,-1.45,3.47,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+290,Daniel Alberto Villalva Barrios,keko,Keko ,81683,9,5,7,0,2.93,0.67,2.4,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+290,Marcelo Rangel da Rosa,marcelo-rangel,Marcelo Rangel,82730,9,1,6,0,0.86,0,-2.45,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+290,Lucas Vinícius Gonçalves Silva,lucao-do-break,Lucão do Break,83199,9,5,6,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+290,Wanderson de Jesus Martins,caju,Caju,89342,9,2,6,0,2.91,0,2.6,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+290,Lucas Cavalcante Silva Afonso,lucao,Lucão,84554,9,3,6,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+290,Yago da Silva Rocha,yago-rocha,Yago Rocha,90118,9,2,6,0,3.06,0,1.9,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+290,Matheus Alves da Silva Cardoso,matheus-alves,Matheus Alves,91712,9,1,6,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+290,David de Duarte Macedo,david-duarte,David Duarte,91772,9,3,7,0,3.42,0.51,3.4,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+290,Jefferson Junio Antônio da Silva,jefferson,Jefferson,95220,9,2,7,0,5.34,-0.02,2.92,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+290,Miguel Ferreira Damasceno,miguel-figueira,Miguel Figueira,102565,9,4,7,0,1.38,-0.47,0.64,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+290,Thalles Gabriel Morais dos Reis,thalles,Thalles,95222,9,4,6,0,3.27,0,0.7,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+290,Kaio Nunes Ferreira,kaio,Kaio,102563,9,4,6,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+290,Sandro Raniere Guimarães Cordeiro,sandro,Sandro,62111,9,4,7,0,3.28,0,0.07,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+290,Henrique Almeida Caixeta Nascentes,henrique-almeida,Henrique Almeida,68773,9,5,6,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+290,Ignacio Andrés Jara Vargas,ignacio-jara,Ignacio Jara ,107318,9,4,6,0,2.93,1.71,2.05,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+290,Fábio Pizarro Sanches,fabio-sanches,Fábio Sanches,71604,9,3,7,0,5.21,0,1.73,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+290,Daniel Sartori Bessa,daniel-bessa,Daniel Bessa,103591,9,4,7,0,6.79,-0.43,3.82,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+290,Kevin Martín Quevedo Mathey,quevedo,Quevedo,102197,9,5,6,0,0.85,0,0.4,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+290,Breno Washington Rodrigues da Silva,breno,Breno,106083,9,4,6,0,3.56,-0.73,2.32,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+290,Gilberto dos Santos Souza Júnior,gilberto,Gilberto,73789,9,4,6,0,2.88,-0.16,0.4,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+290,Heron Crespo da Silva,heron,Heron,105339,9,3,6,0,0.75,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+290,Mike dos Santos Nenatarvicius,mike,Mike,72389,9,5,6,0,3.01,-0.37,1.14,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+290,José Joaquim de Carvalho,zeca,Zeca,94976,9,5,6,0,0.75,0,-1.07,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+290,Márcio Antônio de Sousa Júnior,marcinho,Marcinho,95332,9,5,6,0,2.66,0,-0.9,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+290,Matheus Rezende Assis,rezende,Rezende,93798,9,4,6,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+290,Tadeu Antônio Ferreira,tadeu,Tadeu,82453,9,1,7,0,5.51,-1.46,-1.16,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+290,Juan de Dios Pintado Leines,pintado,Pintado,107565,9,2,6,0,2.78,-0.31,2.33,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+290,Filipe Cândido da Trindade,filipe-trindade,Filipe Trindade,105341,9,4,6,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+290,Cristiano da Silva Vidal,vidal,Vidal,95540,9,2,6,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+290,Vinícius Lopes da Silva,vinicius,Vinícius,104660,9,5,7,0,3.8,1.51,4.62,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+290,Gabriel Martins Rodrigues,rodrigues,Rodrigues,106322,9,2,6,0,1.48,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+290,Walisson Oliveira da Silva,walisson-pequeno,Walisson Pequeno,101696,9,4,6,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+290,Daniel de Pauli Oliveira,daniel-oliveira,Daniel Oliveira,106076,9,2,6,0,2.15,0,2.75,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+290,Henrique Lordelo Souza de Oliveira,henrique-lordelo,Henrique Lordelo,107259,9,4,6,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+290,Thiago Larghi,thiago-larghi,Thiago Larghi,101957,9,6,7,0,4.31,-0.06,1.76,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+290,Edílson Mendes Guimarães,edilson,Edílson,38523,9,2,7,0,5.9,-2.1,-1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+290,Douglas Baggio de Oliveira Costa,douglas-baggio,Douglas Baggio,88072,9,5,6,0,4.06,0,2,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+290,Jurani Francisco Ferreira,ratinho,Ratinho,101841,9,4,6,0,2.1,0,1.17,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0

@@ -1,0 +1,37 @@
+clube_id,nome,slug,apelido,atleta_id,rodada_id,posicao_id,status_id,pontos_num,preco_num,variacao_num,media_num,jogos_num,RB,FC,GC,CA,CV,SG,DD,DP,GS,FS,PI,A,FT,FD,FF,G,I,PP
+354,Gabriel Santos Cordeiro Lacerda,gabriel-lacerda,Gabriel Lacerda,108176,12,3,6,-0.1,3.37,-0.01,3.01,8,0,3,0,0,0,3,0,0,0,3,32,1,0,1,0,0,0,0
+354,Fernando Buttenbender Prass,fernando-prass,Fernando Prass,38140,12,1,7,11.7,7.67,2.58,4.02,12,0,0,0,1,0,4,19,0,18,0,98,0,0,0,0,0,0,0
+354,Rodrigo Gomes dos Santos,rodrigao,Rodrigão,90651,12,5,6,0,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+354,Augusto Sérgio Ferreira,guto-ferreira,Guto Ferreira,37245,12,6,7,4.43,8.85,0.41,3.77,12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+354,Samuel Xavier Brito,samuel-xavier,Samuel Xavier,73384,12,2,6,6,6.79,0.49,3.09,11,0,19,0,2,1,4,0,0,0,19,118,2,0,1,2,0,0,0
+354,Eduardo Schroeder Brock,eduardo-brock,Eduardo Brock,78654,12,3,7,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+354,Ricardo Dias Acosta,ricardinho,Ricardinho,78577,12,4,6,0.5,2.52,0.05,0.17,6,0,3,0,1,0,0,0,0,0,0,37,0,0,1,0,0,0,0
+354,Tiago Pagnussat,tiago,Tiago ,79042,12,3,7,-3.1,5.42,-1.89,3.26,7,0,7,0,2,0,3,0,0,0,7,40,0,0,0,1,0,2,0
+354,Richard de Oliveira da Costa,richard,Richard,78851,12,1,6,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+354,Fábio Gonçalves,fabinho,Fabinho,80393,12,4,7,0,3.38,0,1.66,8,0,4,0,2,0,0,0,0,0,6,19,0,0,1,0,0,0,0
+354,Fernando Pereira do Nascimento,fernando-sobral,Fernando Sobral,84428,12,4,6,7.5,13.41,1.12,5.47,12,0,22,0,2,0,0,0,0,0,30,69,3,1,8,8,0,5,0
+354,Leandro Carvalho da Silva,leandro-carvalho,Leandro Carvalho,88669,12,5,7,0,5.9,0,1.99,8,0,6,0,2,1,0,0,0,0,14,42,1,0,3,5,0,1,0
+354,Bruno de Jesus Pacheco,bruno-pacheco,Bruno Pacheco,90061,12,2,6,7.6,8.81,0.8,3.81,10,0,16,0,0,1,4,0,0,0,14,79,2,0,0,0,0,0,0
+354,Rafael Augusto Sobis do Nascimento,rafael-sobis,Rafael Sobis,37798,12,5,6,1.3,6.37,-0.03,1.43,10,0,3,0,0,0,0,0,0,0,1,21,0,2,2,8,0,1,0
+354,Carlos Eduardo Santos Oliveira,eduardo,Eduardo,50645,12,2,7,-2,2.96,-0.69,0.93,3,0,2,0,1,0,0,0,0,0,2,22,0,0,0,0,0,0,0
+354,Willian Klaus,klaus,Klaus,90846,12,3,5,0,4.13,0,-0.3,1,0,1,0,0,0,0,0,0,0,1,3,0,0,0,0,0,0,0
+354,Vinicius Moreira de Lima,lima,Lima,96340,12,4,7,0,4.83,0,1.63,8,0,6,0,3,0,0,0,0,0,11,23,0,0,2,0,1,1,0
+354,William Oliveira dos Santos,william-oliveira,William Oliveira,94297,12,4,5,0,2.05,0,0.43,6,0,8,0,3,0,0,0,0,0,8,8,0,0,0,3,0,0,0
+354,Bergson Gustavo Silveira da Silva,bergson,Bergson,68696,12,5,6,0,1.92,0,0.45,4,0,2,0,0,0,0,0,0,0,2,0,0,0,0,1,0,0,0
+354,Wescley Gomes dos Santos,wescley,Wescley,70925,12,4,6,-0.5,2.66,-1.4,2.03,4,0,6,0,0,0,0,0,0,0,1,2,0,0,0,1,1,0,0
+354,Vinícius Goes Barbosa de Souza,vinicius,Vinícius,71162,12,4,6,7.9,10,0.45,6.26,9,0,7,0,1,0,0,0,0,0,5,84,2,1,8,12,4,3,0
+354,Felipe de Oliveira Silva,felipe-baxola,Felipe Baxola,71113,12,4,6,-1,3.23,-0.31,-0.12,4,0,0,0,0,0,0,0,0,0,0,8,0,0,0,1,0,1,0
+354,Charles Rigon Mattos,charles,Charles,96342,12,4,7,10.4,8.27,2.21,3.57,12,0,22,0,2,0,0,0,0,0,8,56,1,0,1,4,2,0,0
+354,Alyson Vinícius Almeida Neves,alyson,Alyson,102330,12,2,7,0,1.88,0,-0.8,2,0,6,0,1,0,0,0,0,0,2,24,0,0,0,1,0,2,0
+354,Diogo José Gonçalves da Silva,diogo-silva,Diogo Silva,71882,12,1,6,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+354,Luiz Otávio Anacleto Leandro,luiz-otavio,Luiz Otávio,72359,12,3,6,3.3,4.86,1,2.25,10,0,13,0,4,0,3,0,0,0,1,33,0,0,0,1,1,0,0
+354,Rick Jhonatan Lima Morais,rick,Rick,104459,12,5,6,0,0.77,0,-0.43,3,0,3,0,0,0,0,0,0,0,1,3,0,0,0,0,0,0,0
+354,Cléber Bomfim de Jesus,cleber,Cléber,104125,12,5,7,-1.7,10.54,-1.05,3.44,12,0,21,0,0,0,0,0,0,0,11,37,0,0,6,11,3,6,0
+354,Mateus Gonçalves Martins,mateus-goncalves,Mateus Gonçalves,103076,12,5,7,-0.1,7.33,-0.27,2.24,11,0,4,0,0,0,0,0,0,0,2,30,0,0,4,6,1,2,0
+354,Pedro Henrique Naressi Machado,pedro-naressi,Pedro Naressi,98529,12,4,6,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+354,Francisco Vítor Silva Costa,victor-jacare,Victor Jacaré,101201,12,5,6,0,7.41,0,2.6,4,0,5,0,0,0,0,0,0,0,7,13,0,0,0,4,1,1,0
+354,Marthã Fernando Gonçalves Pimenta,martha,Marthã,107400,12,4,6,1,0.83,0.07,-0.47,3,0,2,0,1,0,0,0,0,0,2,4,0,0,0,0,0,0,0
+354,Leonardo Alves Chú Franco,leo-chu,Léo Chú,106820,12,5,6,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+354,Kelvyn Ramos da Fonseca,kelvyn,Kelvyn,102464,12,2,6,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+354,Vitor João Batista Santos,vitao,Vitão,109318,12,3,6,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+354,Saulo Rodrigues da Silva,saulo-mineiro,Saulo Mineiro,98274,12,5,6,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0

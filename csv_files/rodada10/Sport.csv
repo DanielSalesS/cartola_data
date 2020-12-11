@@ -1,0 +1,36 @@
+clube_id,nome,slug,apelido,atleta_id,rodada_id,posicao_id,status_id,pontos_num,preco_num,variacao_num,media_num,jogos_num,RB,FC,GC,CA,CV,SG,DD,DP,GS,FS,PI,A,FT,FD,FF,G,I,PP
+292,Lucas Henrique Ferreira Venuto,lucas-venuto,Lucas Venuto,100290,9,5,6,0,2.2,-0.07,1.2,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+292,Hernane Vidal Souza,hernane,Hernane,72386,9,5,6,0,1.65,-0.1,-0.11,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+292,Jonatan David Gomez Ospina,jonatan-gomez,Jonatan Gomez,94857,9,4,2,0,10.95,-0.51,2.57,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+292,Philip Luiz Soares da Silva,philip,Philip,73758,9,4,6,0,1.38,0,-0.4,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+292,Luciano Batista da Silva Junior,luciano-juba,Luciano Juba,107093,9,2,2,0,1.93,0.51,0.98,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+292,Carlos Eduardo Soares Mota,carlos-eduardo,Carlos Eduardo,90416,9,1,6,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+292,Francisco Alves da Silva Melo,chico,Chico,99253,9,3,6,0,1.5,0,0.3,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+292,Marcos Vinícius Sousa Natividade,marquinhos,Marquinhos,102292,9,5,7,0,6.77,-0.51,3.87,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+292,Maxwell Lima Santos Silva,maxwell,Maxwell,107092,9,5,6,0,2.54,0,1.5,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+292,José Rogério de Oliveira Melo,rogerio,Rogério,73540,9,5,6,0,3.97,-1.03,0.5,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+292,Patric Cabral Lalau,patric,Patric,60969,9,2,7,0,8.93,0.11,3.86,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+292,Ronaldo Henrique Silva,ronaldo-silva,Ronaldo Silva,71640,9,5,6,0,0.81,0,-2.2,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+292,Ronaldo Henrique Ferreira da Silva,ronaldo-henrique,Ronaldo Henrique,85149,9,4,7,0,3.07,-0.8,1.13,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+292,Rafael Thyere de Albuquerque Marques,rafael-thyere,Rafael Thyere,83048,9,3,6,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+292,Iago Justen Maidana Martins,iago-maidana,Iago Maidana,89226,9,3,7,0,5.3,-0.57,2.06,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+292,Raul Prata,raul-prata,Raul Prata,84855,9,2,5,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+292,Alesandro dos Santos Pereira,ale-santos,Alê Santos,99256,9,4,6,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+292,Elton Rodrigues Brandão,elton,Elton,38588,9,5,7,0,10.7,-0.15,1.57,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+292,Helber Ítalo dos Santos,italo,Ítalo,109395,9,4,6,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+292,Sander Henrique Bortolotto,sander,Sander,86391,9,2,2,0,9.27,0,3.17,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+292,João Igor Oliveira de Santana,joao-igor,João Igor,104217,9,4,6,0,2.9,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+292,Luan Polli Gomes,luan-polli,Luan Polli ,88916,9,1,7,0,3.42,-0.5,-1.7,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+292,Adryelson Shawann Lima Silva,adryelson,Adryelson,91664,9,3,7,0,3.05,0.2,0.48,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+292,Ewandro Felipe de Lima Costa,ewandro,Ewandro,86842,9,5,6,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+292,Leandro Barcia Montero,leandro-barcia,Leandro Barcia,91242,9,5,7,0,5.8,-1.15,2.15,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+292,Maílson Tenório dos Santos,mailson,Maílson,98034,9,1,6,0,1.89,0,0.27,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+292,Elias Lira Nogueira Júnior ,elias-lira,Elias Lira,99034,9,2,6,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+292,Bruno Roberto Pereira da Silva,bruninho,Bruninho,101716,9,4,6,0,4.8,0.4,2.7,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+292,Túlio Galindo Bandeira de Melo,tulio,Túlio,109566,9,1,6,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+292,Pedro Henrique Nunes Silva,pedrao,Pedrão,107541,9,3,6,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+292,Jair Ventura,jair-ventura,Jair Ventura,92180,9,6,7,0,5.56,-0.07,2.33,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+292,Ricardo Ribeiro de Lima,ricardinho,Ricardinho,68832,9,4,7,0,3.52,0.91,1.63,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+292,Roberto Pimenta Vinagre Filho,betinho,Betinho,82876,9,4,3,0,4.79,-0.01,1.9,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+292,Lucas Andrés Mugni,lucas-mugni,Lucas Mugni,81121,9,4,6,0,2.33,0,0.52,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+292,Marcos Antônio Almeida Silva,marcao-silva,Marcão Silva,78856,9,4,2,0,3.49,0,-0.07,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0

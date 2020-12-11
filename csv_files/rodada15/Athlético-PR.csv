@@ -1,0 +1,44 @@
+clube_id,nome,slug,apelido,atleta_id,rodada_id,posicao_id,status_id,pontos_num,preco_num,variacao_num,media_num,jogos_num,RB,FC,GC,CA,CV,SG,DD,DP,GS,FS,PI,A,FT,FD,FF,G,I,PP
+293,Bruno da Silva Costa Leite,bruno-leite,Bruno Leite,102301,14,4,6,0,0.77,0,-0.6,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0
+293,Leonardo Silva Gomes,leo-gomes,Léo Gomes,101585,14,4,6,0,2.88,0,10.1,1,0,3,0,0,0,0,0,0,0,3,9,1,0,0,0,0,0,0
+293,João Victor da Silva Oliveira,joao-victor,João Victor,110258,14,2,6,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+293,Jadson Rodrigues da Silva,jadson,Jadson,38315,14,4,6,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+293,Fabio Augusto Luciano da Silva,fabinho,Fabinho,101729,14,5,2,2.2,2.62,-0.28,2.97,6,0,3,0,0,0,0,0,0,0,4,38,0,0,2,4,1,1,0
+293,Kawan Gabriel da Silva,kawan,Kawan,106219,14,4,6,0,0.72,0,-2.6,1,0,1,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+293,Aderbar Melo dos Santos Neto,santos,Santos,69012,14,1,6,0,5.37,0,1.73,10,0,1,0,0,0,2,8,1,12,0,72,0,0,0,0,0,0,0
+293,Leonardo Cittadini,leo-cittadini,Léo Cittadini,70986,14,4,7,-0.5,11.68,-0.67,3.18,10,0,15,0,2,0,0,0,0,0,19,38,0,0,1,13,1,0,0
+293,Eduardo Maciel de Barros,eduardo-barros,Eduardo Barros,106612,14,6,7,3.52,8.14,0.28,2.89,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+293,Jorge de Moura Xavier,jorginho,Jorginho,77544,14,4,6,3.2,10.16,-0.08,4.42,8,0,7,0,0,0,0,0,0,0,13,38,0,0,1,5,2,0,0
+293,Ravanelli Ferreira dos Santos,ravanelli,Ravanelli,92193,14,4,6,-0.2,3.29,-0.21,1.92,5,0,2,0,0,0,0,0,0,0,4,5,0,0,0,2,1,1,0
+293,Renato Kayzer de Souza,renato-kayzer,Renato Kayzer,92696,14,5,7,1.3,6,-1.43,5.17,8,0,15,0,1,0,0,0,0,0,15,28,0,0,6,8,4,5,0
+293,Caio Alan Tem Catem Gonçalves,caio,Caio,99460,14,1,6,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+293,Jonathan Cícero Moreira,jonathan,Jonathan,37662,14,2,7,3.5,9.56,0.02,2.92,7,0,4,0,2,0,4,0,0,0,2,36,1,0,0,0,0,0,0
+293,Thiago Heleno Henrique Ferreira,thiago-heleno,Thiago Heleno,38394,14,3,7,4.6,6.09,0.11,2.7,7,0,7,0,3,0,3,0,0,0,8,30,0,0,0,3,0,0,0
+293,Márcio Gonzaga de Azevedo,marcio-azevedo,Márcio Azevedo,42491,14,2,6,0,3.41,0,-0.12,4,0,9,0,1,0,1,0,0,0,2,35,0,0,0,0,0,1,0
+293,Walter Henrique da Silva,walter,Walter,62128,14,5,6,0.3,3.37,-0.12,0.53,4,0,1,0,0,0,0,0,0,0,2,6,0,0,1,0,0,0,0
+293,Luis Oscar González,lucho-gonzalez,Lucho González,71479,14,4,6,0,3.07,0,-0.24,5,0,5,0,1,0,0,0,0,0,1,15,0,1,0,1,0,1,0
+293,Wellington Aparecido Martins,wellington,Wellington,62129,14,4,3,-3.3,0.78,-0.01,-1.75,9,0,24,0,6,0,0,0,0,0,4,36,0,0,1,2,0,0,0
+293,Geuvânio Santos Silva,geuvanio,Geuvânio,73896,14,5,3,-1.8,4.49,-0.74,2.39,9,0,13,0,3,0,0,0,0,0,9,37,2,1,3,2,1,0,0
+293,Fernando Canesin Matos,fernando-canesin,Fernando Canesin,81585,14,4,6,0,1.44,0,-0.2,3,0,1,0,1,0,0,0,0,0,0,9,0,0,0,1,0,0,0
+293,Jandrei Chitolina Carniel,jandrei,Jandrei,86508,14,1,7,12.6,10.98,0.69,10.4,2,0,0,0,0,0,2,3,0,0,0,12,0,0,0,0,0,0,0
+293,Carlos Eduardo Ferreira de Souza,carlos-eduardo,Carlos Eduardo,90917,14,5,2,0,4.26,0,1.56,8,0,7,0,0,0,0,0,0,0,6,14,0,0,0,3,1,0,0
+293,José Ivaldo Almeida Silva,ze-ivaldo,Zé Ivaldo,91866,14,3,6,0,6.17,0,3.75,2,0,1,0,0,0,1,0,0,0,0,8,0,0,0,1,0,0,0
+293,Felipe Aguilar Mendoza,aguilar,Aguilar,95494,14,3,6,0,5.59,0,2.02,4,0,4,1,1,0,1,0,0,0,2,9,0,0,1,1,0,0,0
+293,Erick Luis Conrado de Carvalho,erick,Erick,98022,14,4,7,3.9,4.96,1.03,3.1,7,0,9,0,2,0,0,0,0,0,3,21,1,0,4,5,0,0,0
+293,Pedro Gabriel Pereira Lopes,pedrinho,Pedrinho,100103,14,5,6,0,2.41,0,0.85,6,0,6,0,0,0,0,0,0,0,3,12,0,1,1,2,0,0,0
+293,Guilherme Bissoli Campos,bissoli,Bissoli,100762,14,5,6,0,2.32,0,0.28,4,0,3,0,0,0,0,0,0,0,2,4,0,0,1,1,0,2,0
+293,Vitor Hugo Naum dos Santos,vitinho,Vitinho,101960,14,5,5,0,15.46,0,5.9,5,0,13,0,1,0,0,0,0,0,11,29,1,1,4,2,2,0,0
+293,Lucas Halter,lucas-halter,Lucas Halter,102253,14,3,6,0,2.99,0,0.8,5,0,7,0,1,0,0,0,0,0,4,25,1,0,1,1,0,0,0
+293,Anderson Silva da Paixão,anderson,Anderson,102906,14,1,6,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+293,Abner Vinícius da Silva Santos,abner-vinicius,Abner Vinícius,104513,14,2,7,4.7,10.22,0.63,4.17,11,0,14,0,0,0,4,0,0,0,7,92,1,0,4,6,1,0,0
+293,Lucas Eduardo Ribeiro de Souza,edu,Edu,105842,14,3,6,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+293,Khellven Douglas Silva Oliveira,khellven,Khellven ,105175,14,2,6,0,4.13,0,0.67,6,0,10,0,2,0,1,0,0,0,1,43,0,0,0,1,0,0,0
+293,Richard Cândido Coelho,richard,Richard,86711,14,4,2,1.4,1.98,0.54,0.37,9,0,13,0,2,0,0,0,0,0,6,30,0,0,1,2,0,0,0
+293,Pedro Henrique Ribeiro Gonçalves,pedro-henrique,Pedro Henrique,87225,14,3,7,6.8,5.54,0.14,3.8,6,0,3,0,1,0,3,0,0,0,3,22,0,0,0,0,0,0,0
+293,Pedro Henrique de Oliveira Correia,pedrao,Pedrão,100322,14,3,6,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+293,Maycon Vinícius Ferreira da Cruz,nikao,Nikão,69705,14,4,5,0,9.63,0,0.92,6,0,7,0,0,0,0,0,0,0,11,37,0,1,2,6,0,2,1
+293,Jaime Alberto Alvarado Hoyos,alvarado,Alvarado,107991,14,4,2,0,4.57,0,1.12,5,0,4,0,1,0,0,0,0,0,1,9,0,1,0,0,0,0,0
+293,Luan Patrick Wiedthauper,luan-patrick,Luan Patrick,106835,14,3,6,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+293,Jair Diego Alves de Brito,jaja,Jajá,107195,14,5,6,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+293,Christian Roberto Alves Cardoso,christian,Christian,104502,14,4,7,0,0.79,0,-0.39,7,0,18,0,3,0,0,0,0,0,8,27,0,0,0,0,1,2,0
+293,Bento Matheus Krepski,bento,Bento,105208,14,1,6,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0

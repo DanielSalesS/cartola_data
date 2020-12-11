@@ -1,0 +1,37 @@
+clube_id,nome,slug,apelido,atleta_id,rodada_id,posicao_id,status_id,pontos_num,preco_num,variacao_num,media_num,jogos_num,RB,FC,GC,CA,CV,SG,DD,DP,GS,FS,PI,A,FT,FD,FF,G,I,PP
+284,Maicon Thiago Pereira de Souza,maicon,Maicon,38196,16,4,7,0.6,3.1,-0.19,0.24,7,0,4,0,1,0,0,0,0,0,2,25,0,0,1,0,0,0,0
+284,Victor Ferraz Macedo,victor-ferraz,Victor Ferraz,70046,16,2,2,7.6,7.73,1.11,1.28,4,0,3,0,1,0,0,0,0,0,1,37,1,0,1,2,0,0,0
+284,Diogo Barbosa Mendanha,diogo-barbosa,Diogo Barbosa,70916,16,2,2,1.7,7.97,0.23,3.25,11,0,9,0,0,0,1,0,0,0,12,69,1,0,1,5,0,0,0
+284,Róbson Michael Signorini,robinho,Robinho,62104,16,4,2,0.1,4.59,0.15,1.1,9,0,9,0,2,0,0,0,0,0,12,61,2,0,1,3,0,0,0
+284,Vanderlei Farias da Silva,vanderlei,Vanderlei,62121,16,1,7,-2.6,6.81,-0.57,1.45,12,0,0,0,1,0,3,8,0,11,2,66,0,0,0,0,0,0,0
+284,Paulo Victor Mileo Vidotti,paulo-victor,Paulo Victor,68873,16,1,6,0,5.36,0,3.67,3,0,0,0,0,0,1,4,0,4,0,20,0,0,0,0,0,0,0
+284,Bruno Cortês Barbosa,bruno-cortez,Bruno Cortez,72079,16,2,2,-0.1,8.99,-0.61,2.59,12,0,14,0,1,1,4,0,0,0,12,75,0,0,1,1,0,1,0
+284,Jonathan Doin,paulo-miranda,Paulo Miranda,68817,16,3,6,0,2.07,0,0.5,6,0,11,0,1,0,1,0,0,0,2,35,0,0,0,0,0,0,0
+284,Pedro Tonon Geromel,pedro-geromel,Pedro Geromel,80853,16,3,7,2.5,9.89,-0.93,3.61,7,0,8,0,1,1,2,0,0,0,3,38,0,0,0,2,0,0,0
+284,Alisson Euler de Freitas Castro,alisson,Alisson,81845,16,4,7,9.3,12.47,0.88,6.02,12,0,12,0,1,0,0,0,0,0,32,102,4,1,13,16,1,4,0
+284,Diego Souza de Andrade,diego-souza,Diego Souza,68911,16,5,3,7.2,9.96,-0.21,2.63,12,0,19,0,2,1,0,0,0,0,14,71,1,0,3,10,4,1,1
+284,Lucas Silva Borges,lucas-silva,Lucas Silva,79701,16,4,2,2,5.39,-0.51,1.82,14,0,13,0,2,0,0,0,0,0,22,49,0,0,4,4,0,0,0
+284,Thaciano Mickael da Silva,thaciano,Thaciano,87470,16,4,6,0,5.18,0,1.85,7,0,7,0,1,0,0,0,0,0,3,15,0,0,1,4,1,0,0
+284,Walter Kannemann,kannemann,Kannemann,87342,16,3,7,0,11.23,0,4.28,6,0,18,0,3,0,3,0,0,0,9,20,0,0,2,1,0,0,0
+284,Leonardo Gomes da Conceição Silva,leonardo,Leonardo,86973,16,2,6,0,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+284,Renato Portaluppi,renato-gaucho,Renato Gaúcho,41929,16,6,7,4.33,12.21,0.26,3.46,15,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+284,Luiz Fernando Moraes dos Santos,luiz-fernando,Luiz Fernando ,90715,16,5,2,0,4.92,0,1.64,9,0,5,0,1,1,0,0,0,0,4,23,0,0,3,3,2,1,0
+284,Júlio César Jacobi,julio-cesar,Júlio César,49673,16,1,6,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+284,Antônio Josenildo Rodrigues de Oliveira,rodrigues,Rodrigues,91251,16,3,6,-1.8,1.29,-0.08,0.38,4,0,1,0,2,0,1,0,0,0,1,13,0,0,0,1,0,0,0
+284,Everton Cardoso da Silva,everton,Everton,50301,16,4,6,0,5.32,0,2.23,6,0,9,0,0,0,0,0,0,0,7,33,1,0,3,2,0,3,0
+284,David Braz de Oliveira Filho,david-braz,David Braz,50317,16,3,6,0,7.7,0,3.32,12,0,10,0,0,1,3,0,0,0,4,54,0,0,2,5,1,0,0
+284,Luis Manuel Orejuela García,orejuela,Orejuela,95352,16,2,2,0,9.18,0,3.75,11,0,18,0,1,0,4,0,0,0,15,123,0,1,3,5,0,1,0
+284,Jean Pyerre Casagrande Silveira Correa,jean-pyerre,Jean Pyerre,98832,16,4,6,0,12.85,0,4.7,4,0,3,0,0,0,0,0,0,0,6,25,0,1,2,8,0,0,0
+284,Guilherme da Silva Azevedo,guilherme-azevedo,Guilherme Azevedo,105837,16,5,6,0,1.74,0,1.4,7,0,2,0,0,0,0,0,0,0,8,7,0,0,2,2,0,1,0
+284,Patrick Machado Ferreira ,patrick,Patrick,99918,16,4,6,0,2.74,0,-0.5,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+284,Matheus Henrique de Souza,matheus-henrique,Matheus Henrique,100742,16,4,7,0,5.48,-0.22,0.2,11,0,19,0,4,1,0,0,0,0,25,61,0,0,0,3,0,0,0
+284,Aldemir dos Santos Ferreira,ferreira,Ferreira,101290,16,5,6,0,4,0,2.77,3,0,3,0,0,0,0,0,0,0,2,2,0,0,0,0,1,0,0
+284,Guilherme Alecsander Guedes,guilherme-guedes,Guilherme Guedes,100741,16,2,6,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+284,Brenno Oliveira Fraga Costa,brenno,Brenno,100830,16,1,6,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+284,Ruan Tressoldi Netto,ruan,Ruan,100842,16,3,6,0,0.74,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+284,Lucas Araújo de Oliveira,lucas-araujo,Lucas Araújo,100844,16,4,6,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+284,Isaque Elias Brito,isaque,Isaque,101483,16,5,2,-0.1,5.09,-0.32,2.78,14,0,7,0,0,0,0,0,0,0,10,38,0,0,7,9,2,1,0
+284,Eduardo Gabriel Aquino Cossa,pepe,Pepê,91201,16,5,7,21.2,16.89,2.84,8.51,11,0,6,0,0,0,0,0,0,0,27,50,3,0,7,9,5,1,0
+284,Fabrício do Rosário dos Santos,fabricio,Fabrício,104134,16,5,6,0,0.77,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+284,Darlan Pereira Mendes,darlan,Darlan,104593,16,4,6,0,4.31,0,1.88,8,0,10,0,1,0,0,0,0,0,5,21,0,0,0,2,1,0,0
+284,Rildo Gonçalves de Amorim Filho,rildo,Rildo,107798,16,4,6,0,0.79,0,0.15,2,0,1,0,0,0,0,0,0,0,2,2,0,0,0,0,0,0,0

@@ -1,0 +1,36 @@
+clube_id,nome,slug,apelido,atleta_id,rodada_id,posicao_id,status_id,pontos_num,preco_num,variacao_num,media_num,jogos_num,RB,FC,GC,CA,CV,SG,DD,DP,GS,FS,PI,A,FT,FD,FF,G,I,PP
+280,Hélio Júnio Nunes de Castro,helinho,Helinho,102598,21,5,6,-3.2,2.64,-1.44,1.13,4,0,3,0,1,0,0,0,0,0,2,10,1,0,0,0,0,0,0
+280,Raul Lô Gonçalves,raul,Raul,92496,21,4,6,4.9,8.76,-0.19,5.34,13,0,23,0,0,0,0,0,0,0,36,81,1,0,1,3,1,1,0
+280,Ricardo Ryller Ribeiro Lino Silva,ricardo-ryller,Ricardo Ryller,85856,21,4,6,5.6,4.86,1.02,1.96,18,0,52,0,8,0,0,0,0,0,22,63,1,0,3,10,1,0,0
+280,Artur Victor Guimarães,artur,Artur,95799,21,5,6,1.9,11.7,-0.54,2.9,19,0,15,0,1,0,0,0,0,0,41,160,2,2,11,21,0,4,1
+280,Luan Cândido de Almeida,luan-candido,Luan Cândido,100848,21,2,6,1.4,1.33,0.15,-0.33,3,0,3,0,1,0,0,0,0,0,0,13,0,0,0,1,0,0,0
+280,Leonardo Rech Ortiz,leo-ortiz,Léo Ortiz,97867,21,3,6,-1,7.62,-0.74,2.97,21,0,15,1,3,0,3,0,0,0,10,85,0,0,1,5,3,0,0
+280,Weverton Guilherme da Silva Souza,weverton,Weverton,104625,21,2,6,0,0.99,0,0.16,5,0,1,0,0,0,0,0,0,0,0,15,0,0,0,1,0,0,0
+280,Claudio Luiz Rodrigues Parisi Leonel,claudinho,Claudinho,92630,21,5,6,8.8,14.83,1.04,5.51,18,0,17,0,3,0,0,0,0,0,29,172,1,0,11,14,8,4,1
+280,Thonny Anderson da Silva Carvalho,thonny-anderson,Thonny Anderson,101484,21,4,6,0,3.81,0,-1.58,5,0,3,0,0,1,0,0,0,0,1,9,0,0,0,0,0,0,1
+280,Alex Alves de Lima,alex-alves,Alex Alves,77861,21,1,6,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+280,Leonardo Javier Realpe Montaño,realpe,Realpe,106299,21,3,5,0,3.36,0,1.22,5,0,1,0,1,0,0,0,0,0,1,17,0,0,0,1,0,0,0
+280,Andrew Erik Feitosa,morato,Morato,86227,21,5,6,0,2.49,0,0.28,13,0,9,0,0,1,0,0,0,0,8,51,0,0,3,7,0,2,0
+280,Edimar Curitiba Fraga,edimar,Edimar,62024,21,2,6,0,3.72,0,1.54,17,0,26,0,4,0,3,0,0,0,10,162,0,0,2,13,0,1,0
+280,Ligger Moreira Malaquias,ligger,Ligger,61141,21,3,6,3.5,4.47,0.22,2.43,15,0,20,0,0,0,3,0,0,0,9,34,1,0,1,4,0,0,0
+280,Aderlan de Lima Silva,aderlan,Aderlan,88423,21,2,6,4.4,9.09,0.3,2.4,19,0,42,0,2,0,3,0,0,0,19,192,0,0,2,7,0,1,0
+280,Uillian Correia Granemann,uillian-correia,Uillian Correia,72007,21,4,6,0,2.21,0,-0.67,7,0,8,0,1,0,0,0,0,0,0,5,0,0,0,1,0,0,0
+280,Victor Hugo Santana Carvalho,vitinho,Vitinho,95770,21,4,5,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+280,Tomás Esteban Cuello,cuello,Cuello,98909,21,4,6,-0.8,1.79,-0.74,1.85,6,0,4,0,1,0,0,0,0,0,3,22,0,1,2,3,0,0,0
+280,Cleiton Schwengber,cleiton,Cleiton,93882,21,1,6,1.4,0.8,0.01,-0.43,15,0,0,0,0,0,2,8,0,19,2,114,0,0,0,0,0,0,0
+280,Bruno Nunes de Barros,bruno-tubarao,Bruno Tubarão,93637,21,4,6,0,3.7,0,2.85,16,0,14,0,2,0,0,0,0,0,8,75,1,2,5,9,1,2,0
+280,Fabrício Bruno Soares de Faria,fabricio-bruno,Fabrício Bruno,90768,21,3,6,-0.1,0.86,-0.07,-0.34,5,0,5,0,1,1,0,0,0,0,2,12,0,0,0,0,0,0,0
+280,Júlio César de Souza Santos,julio-cesar,Júlio César,38133,21,1,6,0,4.47,0,0.75,6,0,0,0,0,0,1,4,1,9,0,55,0,0,0,0,0,0,0
+280,Ytalo José Oliveira dos Santos,ytalo,Ytalo,53148,21,5,6,9.1,7.05,1.81,3.42,14,0,14,0,0,0,0,0,0,0,9,28,3,0,7,6,2,2,0
+280,Alerrandro Barra Mansa Realino de Souza,alerrandro,Alerrandro,101715,21,5,5,0,11.12,0,5.76,12,0,7,0,0,0,0,0,0,0,14,35,2,2,5,9,5,4,1
+280,Leandro Henrique do Nascimento,leandrinho,Leandrinho,91702,21,5,5,0,2.25,0,0.9,6,0,2,0,0,0,0,0,0,0,6,10,0,0,0,3,0,0,0
+280,Wesley Pionteck Souza,wesley-pionteck,Wesley Pionteck,93376,21,5,6,0,1.69,0,0.7,1,0,1,0,0,0,0,0,0,0,1,3,0,0,0,0,0,0,0
+280,César Rafael Haydar Villarreal,haydar,Haydar,108385,21,3,6,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+280,Luis Phelipe de Souza Figueiredo,luis-phelipe,Luis Phelipe,104500,21,5,6,0,5.07,0,2.12,11,0,5,0,1,0,0,0,0,0,12,14,1,0,1,0,1,0,0
+280,Weverson Moreira da Costa,weverson,Weverson,109426,21,2,6,1.5,1,0.04,0.17,13,0,9,0,1,1,1,0,0,0,1,58,0,0,1,1,0,2,0
+280,Eric dos Santos Rodrigues,ramires,Ramires,103295,21,4,6,0,4.89,0,-0.65,2,0,1,0,0,0,0,0,0,0,2,8,0,0,0,0,0,2,0
+280,Chrigor Flores Moraes,chrigor,Chrigor,101398,21,5,6,-0.8,1.58,-0.11,0.3,3,0,3,0,0,0,0,0,0,0,2,6,0,0,0,0,0,0,0
+280,Lucas Evangelista Santana de Oliveira,lucas-evangelista,Lucas Evangelista,84674,21,4,6,0,4.96,0,3.86,12,0,18,0,3,0,0,0,0,0,25,36,1,1,3,6,2,0,0
+280,Jan Carlos Hurtado Anchico,hurtado,Hurtado,105301,21,5,6,0,2.1,0,0.66,11,0,9,0,1,0,0,0,0,0,2,8,0,0,1,3,1,0,0
+280,Maurício Nogueira Barbieri,mauricio-barbieri,Maurício Barbieri,82792,21,6,6,3.41,7.45,0.15,3.24,14,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+280,Matheus Sousa de Jesus,matheus-jesus,Matheus Jesus,95335,21,4,6,0.9,4.19,-0.35,0.99,10,0,13,0,3,0,0,0,0,0,7,38,1,0,3,7,0,1,0

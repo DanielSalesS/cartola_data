@@ -1,0 +1,38 @@
+clube_id,nome,slug,apelido,atleta_id,rodada_id,posicao_id,status_id,pontos_num,preco_num,variacao_num,media_num,jogos_num,RB,FC,GC,CA,CV,SG,DD,DP,GS,FS,PI,A,FT,FD,FF,G,I,PP
+284,Jean Pyerre Casagrande Silveira Correa,jean-pyerre,Jean Pyerre,98832,10,4,5,0,12.85,0,4.7,4,0,3,0,0,0,0,0,0,0,6,25,0,1,2,8,0,0,0
+284,Walter Kannemann,kannemann,Kannemann,87342,10,3,5,0,11.23,0,4.28,6,0,18,0,3,0,3,0,0,0,9,20,0,0,2,1,0,0,0
+284,Luis Manuel Orejuela García,orejuela,Orejuela,95352,10,2,7,0.8,8.44,-1.52,3.73,9,0,16,0,1,0,4,0,0,0,12,105,0,1,3,5,0,1,0
+284,Guilherme Alecsander Guedes,guilherme-guedes,Guilherme Guedes,100741,10,2,5,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+284,Brenno Oliveira Fraga Costa,brenno,Brenno,100830,10,1,6,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+284,Everton Cardoso da Silva,everton,Everton,50301,10,4,2,1.9,5.99,-0.82,2.72,5,0,9,0,0,0,0,0,0,0,7,31,1,0,3,2,0,1,0
+284,Ruan Tressoldi Netto,ruan,Ruan,100842,10,3,6,0,0.74,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+284,Isaque Elias Brito,isaque,Isaque,101483,10,5,2,-1.1,4.41,-0.79,2.63,9,0,6,0,0,0,0,0,0,0,8,30,0,0,6,5,1,1,0
+284,Lucas Araújo de Oliveira,lucas-araujo,Lucas Araújo,100844,10,4,6,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+284,Rildo Gonçalves de Amorim Filho,rildo,Rildo,107798,10,4,6,0,0.77,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+284,Patrick Machado Ferreira ,patrick,Patrick,99918,10,4,6,0,2.74,0,-0.5,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+284,Matheus Henrique de Souza,matheus-henrique,Matheus Henrique,100742,10,4,7,0,5.32,0,-0.32,6,0,9,0,2,1,0,0,0,0,11,37,0,0,0,1,0,0,0
+284,Darlan Pereira Mendes,darlan,Darlan,104593,10,4,2,3.7,5.35,-0.23,3.18,5,0,5,0,1,0,0,0,0,0,2,12,0,0,0,2,1,0,0
+284,Guilherme da Silva Azevedo,guilherme-azevedo,Guilherme Azevedo,105837,10,5,6,0,0.83,-0.18,0.53,3,0,1,0,0,0,0,0,0,0,3,1,0,0,1,0,0,1,0
+284,Lucas Silva Borges,lucas-silva,Lucas Silva,79701,10,4,2,0,4.94,0,1.51,8,0,7,0,2,0,0,0,0,0,14,26,0,0,0,4,0,0,0
+284,Diogo Barbosa Mendanha,diogo-barbosa,Diogo Barbosa,70916,10,2,2,0,8.08,0,4.5,5,0,5,0,0,0,1,0,0,0,4,24,0,0,0,3,0,0,0
+284,Paulo Victor Mileo Vidotti,paulo-victor,Paulo Victor,68873,10,1,6,0,7.25,0,6.85,2,0,0,0,0,0,1,3,0,1,0,13,0,0,0,0,0,0,0
+284,Luiz Fernando Moraes dos Santos,luiz-fernando,Luiz Fernando ,90715,10,5,3,-4.8,4.42,-1.71,2.06,5,0,1,0,0,1,0,0,0,0,1,7,0,0,3,3,1,0,0
+284,Bruno Cortês Barbosa,bruno-cortez,Bruno Cortez,72079,10,2,2,2,10.4,-0.74,3.79,9,0,10,0,1,0,4,0,0,0,10,62,0,0,0,1,0,1,0
+284,Fabrício do Rosário dos Santos,fabricio,Fabrício,104134,10,5,6,0,0.77,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+284,Maicon Thiago Pereira de Souza,maicon,Maicon,38196,10,4,5,-0.3,3.15,-0.57,-0.25,4,0,3,0,0,0,0,0,0,0,1,20,0,0,0,0,0,0,0
+284,Thaciano Mickael da Silva,thaciano,Thaciano,87470,10,4,6,0,5.18,0,1.88,5,0,5,0,1,0,0,0,0,0,2,7,0,0,1,3,1,0,0
+284,Alisson Euler de Freitas Castro,alisson,Alisson,81845,10,4,7,2.4,11.45,-1.27,6.14,9,0,5,0,0,0,0,0,0,0,19,89,2,1,11,10,1,2,0
+284,Eduardo Gabriel Aquino Cossa,pepe,Pepê,91201,10,5,6,0,13.86,0,7.03,6,0,3,0,0,0,0,0,0,0,13,25,1,0,6,5,2,1,0
+284,Júlio César Jacobi,julio-cesar,Júlio César,49673,10,1,6,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+284,Antônio Josenildo Rodrigues de Oliveira,rodrigues,Rodrigues,91251,10,3,6,0,2.42,0,2.65,2,0,0,0,0,0,1,0,0,0,0,7,0,0,0,0,0,0,0
+284,Leonardo Gomes da Conceição Silva,leonardo,Leonardo,86973,10,2,6,0,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+284,David Braz de Oliveira Filho,david-braz,David Braz,50317,10,3,7,3,8.41,-0.27,3.54,7,0,4,0,0,0,3,0,0,0,4,22,0,0,2,2,0,0,0
+284,Marcelo Oliveira Ferreira,marcelo-oliveira,Marcelo Oliveira,50328,10,3,6,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+284,Jonathan Doin,paulo-miranda,Paulo Miranda,68817,10,3,7,0,3.45,0,5.1,1,0,0,0,0,0,1,0,0,0,0,9,0,0,0,0,0,0,0
+284,Róbson Michael Signorini,robinho,Robinho,62104,10,4,2,-3.2,4.13,-0.88,0.83,3,0,3,0,1,0,0,0,0,0,0,16,1,0,0,2,0,0,0
+284,Renato Portaluppi,renato-gaucho,Renato Gaúcho,41929,10,6,7,2.05,12.18,-0.88,4.03,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+284,Vanderlei Farias da Silva,vanderlei,Vanderlei,62121,10,1,7,2.4,8.96,-2.85,4,7,0,0,0,1,0,3,7,0,5,1,35,0,0,0,0,0,0,0
+284,Diego Souza de Andrade,diego-souza,Diego Souza,68911,10,5,7,9.8,10.33,2.03,2.02,7,0,11,0,2,0,0,0,0,0,7,44,0,0,2,7,2,1,1
+284,Victor Ferraz Macedo,victor-ferraz,Victor Ferraz,70046,10,2,6,0,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+284,Pedro Tonon Geromel,pedro-geromel,Pedro Geromel,80853,10,3,6,5.4,10.82,1.26,3.8,6,0,7,0,1,1,2,0,0,0,2,33,0,0,0,2,0,0,0
+284,Aldemir dos Santos Ferreira,ferreira,Ferreira,101290,10,5,2,0.5,2.56,-0.44,0.5,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0

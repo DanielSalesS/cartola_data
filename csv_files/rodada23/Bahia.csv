@@ -1,0 +1,43 @@
+clube_id,nome,slug,apelido,atleta_id,rodada_id,posicao_id,status_id,pontos_num,preco_num,variacao_num,media_num,jogos_num,RB,FC,GC,CA,CV,SG,DD,DP,GS,FS,PI,A,FT,FD,FF,G,I,PP
+265,Luis Antônio Venker de Menezes,mano-menezes,Mano Menezes,37281,22,6,7,0,7.25,0,3.03,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+265,Gilberto Oliveira Souza Júnior,gilberto,Gilberto,61188,22,5,3,0,8.66,0,3.9,16,0,15,0,2,0,0,0,0,0,20,58,1,1,18,16,3,5,1
+265,Ernando Rodrigues Lopes,ernando,Ernando,49651,22,3,7,0,5.63,0,2.23,12,0,10,0,0,0,2,0,0,0,2,43,1,0,3,2,1,0,0
+265,Anderson Vieira Martins,anderson-martins,Anderson Martins,52618,22,3,3,0,4.68,0,0.9,3,0,4,0,1,0,1,0,0,0,2,3,0,0,0,0,0,0,0
+265,Severino do Ramo Clementino da Silva,nino-paraiba,Nino Paraíba,68808,22,2,7,0,7.84,0,2.56,14,0,13,0,2,0,2,0,0,0,11,118,1,0,2,2,0,1,0
+265,Elias Mendes Trindade,elias,Elias,54395,22,4,6,0,6.87,0,-0.38,6,0,14,0,2,0,0,0,0,0,4,25,0,0,0,4,0,0,0
+265,Lucas Fonseca da Silva,lucas-fonseca,Lucas Fonseca,80189,22,3,3,0,4.57,0,1.82,8,0,5,0,1,0,2,0,0,0,4,30,0,0,1,1,0,0,0
+265,Rosicley Pereira da Silva,rossi,Rossi,81798,22,5,6,0,5.05,0,1.68,15,0,10,0,3,0,0,0,0,0,18,92,0,0,3,6,2,2,0
+265,Clayson Henrique da Silva Vieira,clayson,Clayson,83817,22,5,6,0,4.94,0,2.17,12,0,11,0,1,0,0,0,0,0,15,65,1,0,5,5,2,3,1
+265,Rodrigo Eduardo Costa Marinho,rodriguinho,Rodriguinho,61033,22,4,2,0,13.35,0,4.65,12,0,9,0,1,0,0,0,0,0,26,73,1,1,5,7,4,2,0
+265,Marco Antônio Rosa Furtado Júnior,marco-antonio,Marco Antônio,94975,22,4,6,0,3.34,0,1.84,12,0,6,0,1,0,0,0,0,0,16,36,1,0,3,2,1,1,0
+265,José Carlos Cracco Neto,zeca,Zeca,87192,22,2,6,0,6.03,0,2.67,6,0,3,0,1,0,1,0,0,0,0,17,0,0,0,4,1,0,0
+265,José Carlos Ferreira Júnior,juninho,Juninho,92182,22,3,7,0,7.71,0,2.28,15,0,4,0,1,1,2,0,0,0,4,51,0,0,2,4,1,1,0
+265,Everson Bispo Pereira,everson,Everson,91929,22,3,6,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+265,João Pedro Maturano dos Santos,joao-pedro,João Pedro ,89273,22,2,6,0,4.26,0,-0.8,1,0,2,0,0,0,0,0,0,0,0,8,0,0,0,0,0,0,0
+265,Ronaldo da Silva Souza,ronaldo,Ronaldo,92981,22,4,7,0,3.11,0,1.38,11,0,24,0,4,0,0,0,0,0,11,37,1,0,0,3,0,0,0
+265,Mateus Eduardo Claus,mateus-claus,Mateus Claus,90590,22,1,6,0,3.77,0,7.9,2,0,0,0,0,0,0,6,0,4,0,2,0,0,0,0,0,0,0
+265,Matheus Bonifácio Saldanha Marinho,saldanha,Saldanha,107088,22,5,2,0,1.97,0,1.05,12,0,5,0,1,0,0,0,0,0,5,15,0,0,1,8,1,3,0
+265,Elton Júnior Melo Ataíde,elton,Elton,71719,22,4,6,0,3.66,0,1.3,3,0,2,0,0,0,0,0,0,0,2,1,0,0,0,0,0,0,0
+265,Alesson dos Santos Batista,alesson,Alesson,97321,22,4,6,0,1.5,0,0.85,6,0,2,0,1,0,0,0,0,0,6,9,0,0,1,1,0,0,0
+265,Luis Antônio da Rocha Júnior,juninho-capixaba,Juninho Capixaba,94968,22,2,7,0,8.34,0,3.4,13,0,16,0,1,0,3,0,0,0,16,129,1,0,2,4,0,1,0
+265,Gregore de Magalhães da Silva,gregore,Gregore,95464,22,4,7,0,5.41,0,1.07,14,0,44,0,7,1,0,0,0,0,9,69,2,0,3,6,0,0,0
+265,Jefferson Gabriel Nascimento Brito,fessin,Fessin,97994,22,4,7,0,2.79,0,2.18,8,0,3,0,0,0,0,0,0,0,7,16,0,0,4,4,0,0,0
+265,Matheus Bahia Santos,matheus-bahia,Matheus Bahia,97899,22,2,6,0,1.3,0,0.5,2,0,4,0,1,0,0,0,0,0,1,15,1,0,0,0,0,0,0
+265,João Pedro Sacramento da Silva,joao-pedro-silva,João Pedro Silva,109464,22,5,6,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+265,Thiago Eduardo de Andrade,thiago-andrade,Thiago Andrade,109404,22,5,6,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+265,Jeferson Douglas dos Santos Souza,jeferson-douglas,Jeferson Douglas,109405,22,4,6,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+265,Edilson Matos dos Santos Júnior,edilson,Edilson,109406,22,5,6,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+265,Gabriel Novaes Fernandes,gabriel-novaes,Gabriel Novaes,109639,22,5,6,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+265,Vinícius de Azevedo Barcellos,vinicius-barcellos,Vinícius Barcellos,110672,22,3,6,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+265,Matheus Henrique Teixeira,matheus-teixeira,Matheus Teixeira,102907,22,1,6,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+265,Ramon Rodrigo de Carvalho,ramon,Ramon,103515,22,4,6,0,0.78,0,-0.7,3,0,3,0,1,0,0,0,0,0,1,3,0,0,1,0,0,0,0
+265,Jaques Bonfim Nazaré Neto,jaques,Jaques,104128,22,3,6,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+265,Lucimário Bezerra da Silva,lucimario,Lucimário,104129,22,3,6,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+265,Fabrício Oliveira de Souza,fabricio,Fabrício,104588,22,1,6,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+265,Douglas do Espírito Santo Torres,douglas-borel,Douglas Borel,104634,22,2,6,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+265,Anderson Pedro Nunes da Silva Campos,anderson,Anderson,38001,22,1,6,0,0.76,0,-1.23,4,0,0,0,0,0,0,4,0,9,1,34,0,0,0,0,0,0,0
+265,Edson Fernando da Silva Gomes,edson,Edson,105901,22,4,6,0,1.14,0,1.4,6,0,1,0,1,0,0,0,0,0,9,24,0,0,0,1,0,0,0
+265,José Élber Pimentel da Silva,elber,Élber,74140,22,5,7,0,11.07,0,3.83,16,0,8,0,0,0,0,0,0,0,35,87,2,1,8,8,2,7,0
+265,Douglas Alan Schuck Friedrich,douglas-friedrich,Douglas Friedrich,78584,22,1,7,0,8.98,0,3.36,12,0,0,0,0,0,3,13,0,11,3,62,0,0,0,0,0,0,0
+265,Juan Pablo Ramírez Velásquez,juan-ramirez,Juan Ramírez,97062,22,5,6,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+265,Daniel Sampaio Simões,daniel,Daniel,93791,22,4,7,0,4.24,0,2.65,15,0,11,0,3,0,0,0,0,0,22,60,1,1,2,5,3,0,0

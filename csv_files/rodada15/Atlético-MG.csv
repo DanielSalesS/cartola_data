@@ -1,0 +1,31 @@
+clube_id,nome,slug,apelido,atleta_id,rodada_id,posicao_id,status_id,pontos_num,preco_num,variacao_num,media_num,jogos_num,RB,FC,GC,CA,CV,SG,DD,DP,GS,FS,PI,A,FT,FD,FF,G,I,PP
+282,Alan Steven Franco Palma,franco,Franco,39656,14,4,6,0,5.24,0,2.71,12,0,17,0,0,0,0,0,0,0,12,50,0,0,2,4,3,1,0
+282,Fábio Santos Romeu,fabio-santos,Fábio Santos,38229,14,2,6,1.6,5.51,-0.68,2.87,4,0,2,0,0,0,2,0,0,0,0,5,0,0,0,0,0,0,0
+282,Diego Tardelli Martins,diego-tardelli,Diego Tardelli,38231,14,5,5,0,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+282,Dylan Felipe Borrero Caicedo,borrero,Borrero,106843,14,4,6,0,2.79,0,-1.8,1,0,1,0,1,0,0,0,0,0,0,3,0,0,0,0,0,0,0
+282,Eduardo Colcenti Antunes,eduardo-sasha,Eduardo Sasha,70360,14,5,7,7.1,8.59,0.59,4.09,9,0,9,0,1,0,0,0,0,0,11,27,2,0,8,3,2,1,1
+282,Everson Felipe Marques Pires,everson,Everson,72294,14,1,7,0,8.35,0.13,1.24,5,0,0,0,0,0,0,5,0,8,0,28,1,0,0,0,0,0,0
+282,Jair Rodrigues Júnior,jair,Jair,81091,14,4,7,-0.6,7.13,-0.78,2.89,12,0,32,0,4,0,0,0,0,0,24,35,2,0,0,4,1,0,0
+282,Réver Humberto Alves Araújo,rever,Réver,52253,14,3,7,2.1,7.39,0.12,3.2,7,0,5,0,0,0,1,0,0,0,7,40,0,0,0,3,1,0,0
+282,Victor Leandro Bagy,victor,Victor,52950,14,1,6,0,6.11,0,-7.2,1,0,0,0,0,0,0,0,0,3,0,12,0,0,0,0,0,0,0
+282,Jorge Sampaoli,jorge-sampaoli,Jorge Sampaoli,70800,14,6,7,1.26,13.67,-0.68,4.5,13,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+282,Gustavo Henrique Santos,gustavo-henrique,Gustavo Henrique,107963,14,3,6,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+282,Nathan Allan de Souza,nathan,Nathan,87009,14,4,2,0,11.18,0,5.7,6,0,3,0,0,0,0,0,0,0,4,15,1,0,3,2,2,2,0
+282,Gabriel Costa França,gabriel,Gabriel,87393,14,3,6,0,7.83,0,2.8,1,0,2,0,1,0,1,0,0,0,0,2,0,0,0,0,0,0,0
+282,Rafael Pires Monteiro,rafael,Rafael,68928,14,1,6,0,7.81,0,2.36,8,0,1,0,0,1,4,5,0,5,0,56,0,0,0,0,0,0,0
+282,Júnior Osmar Ignacio Alonso Mujica,junior-alonso,Júnior Alonso,88312,14,3,6,0,10.54,0,3.55,12,0,16,0,3,0,4,0,0,0,1,73,1,1,2,5,0,0,0
+282,Igor Rabello da Costa,igor-rabello,Igor Rabello,89493,14,3,7,0,11.71,0,3.35,10,0,10,0,0,0,3,0,0,0,9,40,0,1,0,0,1,0,0
+282,Hyoran Kaue Dalmoro,hyoran,Hyoran,85931,14,4,2,5.5,12.6,0.95,4.21,11,0,16,0,1,0,0,0,0,0,15,56,2,1,6,9,2,2,0
+282,Gustavo Blanco Petersen Macedo,gustavo-blanco,Gustavo Blanco,91191,14,4,6,0,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+282,Wellington Daniel Bueno,bueno,Bueno,97425,14,3,6,-2.6,6.88,-0.83,2.65,4,0,5,0,0,0,2,0,0,0,1,12,0,0,0,1,0,0,0
+282,Maílton dos Santos de Sá,mailton,Maílton,97898,14,2,6,0,2.68,0,1.07,3,0,1,0,0,0,0,0,0,0,2,10,0,0,2,1,0,1,0
+282,Allan Rodrigues de Souza,allan,Allan,96652,14,4,7,1,6.54,-0.05,1.44,13,0,18,0,2,0,0,0,0,0,8,76,0,1,1,9,0,0,0
+282,Jefferson David Savarino Quintero,savarino,Savarino,98672,14,5,6,0,6.32,0,2.88,12,0,11,0,1,0,0,0,0,0,10,70,2,2,5,7,2,7,0
+282,Marrony da Silva Liberato,marrony,Marrony,101717,14,5,7,0,9.4,-0.23,2.73,11,0,11,0,0,0,0,0,0,0,2,13,0,1,7,3,2,0,0
+282,Cláudio Rodrigues Gomes,guga,Guga,101319,14,2,7,1.2,13.29,-1.29,5.33,11,0,14,0,1,0,4,0,0,0,13,76,1,1,2,3,1,0,0
+282,José Marcos Costa Martins,marquinhos,Marquinhos,98765,14,5,6,0.2,4.12,-0.18,1.63,9,0,12,0,0,0,0,0,0,0,5,29,1,1,1,3,0,3,0
+282,Marcos da Silva França,keno,Keno,86485,14,5,7,-1.8,11.59,-2.11,6.29,13,0,16,0,2,0,0,0,0,0,12,105,1,3,9,13,7,12,0
+282,Guilherme Antonio Arana Lopes,guilherme-arana,Guilherme Arana,87228,14,2,7,1.5,16.06,-1.5,4.43,13,0,16,0,1,0,4,0,0,0,7,130,2,0,8,11,1,1,0
+282,Mariano Ferreira Filho,mariano,Mariano,38877,14,2,6,-1.3,7.98,-1.08,2.64,7,0,8,0,1,0,1,0,0,0,5,72,1,0,1,0,0,0,0
+282,Calebe Gonçalves Ferreira da Silva,calebe,Calebe,109461,14,4,6,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+282,Sávio Moreira de Oliveira,savio,Sávio,109463,14,5,6,0,0.79,0,-0.07,3,0,1,0,0,0,0,0,0,0,1,2,0,0,0,0,0,0,0

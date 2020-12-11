@@ -1,0 +1,38 @@
+clube_id,nome,slug,apelido,atleta_id,rodada_id,posicao_id,status_id,pontos_num,preco_num,variacao_num,media_num,jogos_num,RB,FC,GC,CA,CV,SG,DD,DP,GS,FS,PI,A,FT,FD,FF,G,I,PP
+354,Augusto Sérgio Ferreira,guto-ferreira,Guto Ferreira,37245,22,6,7,3.65,9.05,0.16,3.55,21,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+354,Carlos Eduardo Santos Oliveira,eduardo,Eduardo,50645,22,2,6,0,2.99,0,1.44,8,0,9,0,1,1,1,0,0,0,5,62,0,1,1,0,1,1,0
+354,Fábio Gonçalves,fabinho,Fabinho,80393,22,4,7,2.3,3.95,0.01,1.84,16,0,6,0,3,0,0,0,0,0,10,50,0,0,1,4,0,0,0
+354,Fernando Pereira do Nascimento,fernando-sobral,Fernando Sobral,84428,22,4,3,3.5,12.77,0.55,4.67,20,0,32,0,2,0,0,0,0,0,37,127,3,1,9,15,1,6,0
+354,Tiago Pagnussat,tiago,Tiago ,79042,22,3,3,-1.9,5.54,-1.67,2.8,14,0,12,0,5,0,4,0,0,0,12,72,0,0,1,4,1,2,0
+354,Leandro Carvalho da Silva,leandro-carvalho,Leandro Carvalho,88669,22,5,6,1,5.56,-0.88,2.23,14,0,10,0,3,1,0,0,0,0,20,55,1,0,3,7,1,1,0
+354,Leonardo Alves Chú Franco,leo-chu,Léo Chú,106820,22,5,7,7.6,3.57,1.3,4.2,6,0,5,0,1,0,0,0,0,0,7,33,3,0,1,6,0,3,0
+354,Bruno de Jesus Pacheco,bruno-pacheco,Bruno Pacheco,90061,22,2,7,-1.6,7.57,-0.62,3.55,16,0,22,0,1,1,5,0,0,0,20,125,2,0,0,3,0,0,0
+354,Vinícius Rayan Pereira dos Santos,rayan,Rayan,106880,22,5,6,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+354,Diogo José Gonçalves da Silva,diogo-silva,Diogo Silva,71882,22,1,6,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+354,Willian Klaus,klaus,Klaus,90846,22,3,7,-0.1,3.41,-1,1.93,3,0,1,0,0,0,1,0,0,0,2,7,0,0,0,0,0,0,0
+354,Francisco Tiago da Silva Santos,tiago-silva,Tiago Silva,107182,22,4,6,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+354,Wescley Gomes dos Santos,wescley,Wescley,70925,22,4,6,0,3.19,0,0.96,10,0,9,0,1,0,0,0,0,0,2,15,1,0,0,2,1,0,0
+354,Luiz Otávio Anacleto Leandro,luiz-otavio,Luiz Otávio,72359,22,3,7,0,4.29,0,1.91,15,0,23,0,6,1,4,0,0,0,4,50,0,1,1,1,1,0,0
+354,Felipe de Oliveira Silva,felipe-baxola,Felipe Baxola,71113,22,4,6,0,3.19,0,0.57,6,0,3,0,0,0,0,0,0,0,2,24,1,0,0,1,0,3,0
+354,Vinícius Goes Barbosa de Souza,vina,Vina,71162,22,4,7,0.9,9.76,-0.97,6.31,15,0,10,0,1,0,0,0,0,0,8,144,3,1,17,21,6,4,0
+354,Samuel Xavier Brito,samuel-xavier,Samuel Xavier,73384,22,2,7,6.4,6.83,0.62,3.3,15,0,23,0,4,1,5,0,0,0,26,156,3,0,1,5,0,1,0
+354,Vinicius Moreira de Lima,lima,Lima,96340,22,4,7,9.2,6.12,1.19,1.83,15,0,14,0,3,0,0,0,0,0,13,36,0,0,3,0,2,2,0
+354,Charles Rigon Mattos,charles,Charles,96342,22,4,7,3,7.04,0.09,2.88,20,0,37,0,4,0,0,0,0,0,15,86,1,0,3,8,2,0,0
+354,Marthã Fernando Gonçalves Pimenta,martha,Marthã,107400,22,4,6,0,0.83,0,-0.47,3,0,2,0,1,0,0,0,0,0,2,4,0,0,0,0,0,0,0
+354,Gabriel Santos Cordeiro Lacerda,gabriel-lacerda,Gabriel Lacerda,108176,22,3,6,0,3.37,0,3.01,8,0,3,0,0,0,3,0,0,0,3,32,1,0,1,0,0,0,0
+354,Vitor João Batista Santos,vitao,Vitão,109318,22,3,6,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+354,Francisco Vítor Silva Costa,victor-jacare,Victor Jacaré,101201,22,5,6,0,5.69,0,1.7,6,0,8,0,2,0,0,0,0,0,10,15,0,0,2,6,1,1,0
+354,Cristiano Pereira de Oliveira ,cristiano,Cristiano,102145,22,5,6,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+354,Alyson Vinícius Almeida Neves,alyson,Alyson,102330,22,2,6,0,3.77,0,1.42,5,0,9,0,3,0,1,0,0,0,8,50,0,0,0,2,0,2,0
+354,Kelvyn Ramos da Fonseca,kelvyn,Kelvyn,102464,22,2,6,0,2.17,0,2.1,6,0,3,0,0,0,1,0,0,0,3,14,0,0,0,0,1,0,0
+354,Mateus Gonçalves Martins,mateus-goncalves,Mateus Gonçalves,103076,22,5,6,0,6.53,0,1.84,13,0,5,0,1,0,0,0,0,0,2,34,0,0,5,6,1,2,0
+354,Cléber Bomfim de Jesus,cleber,Cléber,104125,22,5,7,1.4,10.81,-0.88,3.5,19,0,38,0,0,0,0,0,0,0,19,53,1,1,8,15,4,7,0
+354,Rick Jhonatan Lima Morais,rick,Rick,104459,22,5,6,0,1.16,0,0.48,4,0,5,0,0,0,0,0,0,0,6,6,0,0,0,0,0,0,0
+354,Fernando Buttenbender Prass,fernando-prass,Fernando Prass,38140,22,1,6,-1.3,5.57,-0.2,2.7,21,0,1,0,2,0,6,28,0,32,2,176,0,0,0,0,0,0,0
+354,Saulo Rodrigues da Silva,saulo-mineiro,Saulo Mineiro,98274,22,5,6,0,2.82,0,1.4,2,0,5,0,0,0,0,0,0,0,0,5,0,1,0,1,0,0,0
+354,Pedro Henrique Naressi Machado,pedro-naressi,Pedro Naressi,98529,22,4,6,0,0.78,0,-0.87,4,0,9,0,3,0,0,0,0,0,4,20,0,0,0,0,0,0,0
+354,Ricardo Dias Acosta,ricardinho,Ricardinho,78577,22,4,6,0,2.38,0,0.5,10,0,5,0,1,0,0,0,0,0,1,57,0,1,2,1,0,1,0
+354,Eduardo Schroeder Brock,eduardo-brock,Eduardo Brock,78654,22,3,6,0.2,3.07,-0.08,2.85,6,0,2,0,1,0,1,0,0,0,1,42,0,0,1,2,1,0,0
+354,Richard de Oliveira da Costa,richard,Richard,78851,22,1,7,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+354,Felipe dos Reis Pereira Vizeu do Carmo,felipe-vizeu,Felipe Vizeu,94138,22,5,5,9.6,7.58,2.31,3.4,3,0,1,0,0,0,0,0,0,0,2,3,0,0,1,1,1,0,0
+354,William Oliveira dos Santos,william-oliveira,William Oliveira,94297,22,4,5,0,2.05,0,0.43,6,0,8,0,3,0,0,0,0,0,8,8,0,0,0,3,0,0,0

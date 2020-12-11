@@ -1,0 +1,31 @@
+clube_id,nome,slug,apelido,atleta_id,rodada_id,posicao_id,status_id,pontos_num,preco_num,variacao_num,media_num,jogos_num,RB,FC,GC,CA,CV,SG,DD,DP,GS,FS,PI,A,FT,FD,FF,G,I,PP
+356,Yuri César Santos de Oliveira Silva,yuri-cesar,Yuri César ,103446,15,5,6,5.2,5.56,0.41,2.57,14,0,14,0,1,0,0,0,0,0,20,22,1,0,4,10,1,3,0
+356,Éderson Alves Ribeiro Silva,ederson,Éderson,73446,15,5,6,0,2.59,0,-0.8,2,0,2,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0
+356,Guilherme de Jesus da Silva,tinga,Tinga,82628,15,2,6,5.3,7.19,0.06,5.04,8,0,5,0,1,0,4,0,0,0,4,94,2,1,1,0,0,0,0
+356,Max Walef Araújo da Silva,max-walef,Max Walef,84338,15,1,6,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+356,Jackson de Souza,jackson,Jackson,70934,15,3,6,8.5,4.87,1.61,2.73,8,0,6,0,2,0,3,0,0,0,9,24,0,0,0,1,0,0,0
+356,Paulo Roberto Valoura Júnior,juninho,Juninho,71937,15,4,6,1.4,3.87,0.05,2.31,14,0,23,0,5,0,0,0,0,0,16,114,2,0,3,12,1,0,0
+356,Bruno Ferreira Melo,bruno-melo,Bruno Melo,84339,15,2,6,4.3,4.91,-0.41,2.94,10,0,13,0,2,0,3,0,0,0,4,43,0,0,2,1,2,2,0
+356,Tiago Pereira da Silva,tiago-orobo,Tiago Orobó,87477,15,5,6,0,1.7,0,0.4,5,0,4,0,0,0,0,0,0,0,0,8,0,0,1,2,0,0,0
+356,Roger de Carvalho,roger-carvalho,Roger Carvalho,51415,15,3,6,4.3,4.15,0.69,3.17,3,0,1,0,0,0,2,0,0,0,1,5,0,0,0,0,0,0,0
+356,Luiz Henrique Araújo Silva,luiz-henrique,Luiz Henrique,101595,15,4,6,0,1.66,0,0.5,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+356,Wanderley de Jesus Sousa,derley,Derley,60791,15,4,6,0,2.82,0,-0.35,2,0,1,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+356,José Romário Silva de Souza,romarinho,Romarinho,84523,15,5,6,2.9,8.73,0.39,3.07,15,0,7,0,2,0,0,0,0,0,31,55,0,1,5,10,2,1,0
+356,Paulo Marcos de Jesus Ribeiro,paulao,Paulão,63172,15,3,6,0,2.94,0,2.11,14,0,16,0,2,0,5,0,0,0,4,43,0,0,1,2,0,2,0
+356,Carlos Emiliano Pereira,carlinhos,Carlinhos,63194,15,2,6,4.7,6.88,0.55,3.07,10,0,15,0,1,0,5,0,0,0,10,71,0,0,0,1,0,1,0
+356,Gabriel Dias de Oliveira,gabriel-dias,Gabriel Dias,88368,15,2,6,6,7.79,1.52,3.18,13,0,10,0,1,1,5,0,0,0,10,44,1,0,2,1,1,1,0
+356,Marlon Adriano Prezotti,marlon,Marlon,88427,15,4,6,-0.6,2.58,-0.18,0.75,10,0,12,0,0,0,0,0,0,0,4,13,0,0,1,2,0,0,0
+356,David Correa da Fonseca,david,David,90309,15,5,3,0,4.39,0,1.19,14,0,30,0,3,0,0,0,0,0,16,46,1,0,2,11,1,6,0
+356,Luiz Antonio Ferreira Rodrigues,felipe,Felipe,91733,15,4,3,0,3.72,0,1.75,13,0,20,0,4,1,0,0,0,0,22,58,0,0,1,3,1,0,0
+356,Osvaldo Lourenço Filho,osvaldo,Osvaldo,42222,15,5,6,3.4,6.42,-0.36,2.71,15,0,7,0,2,0,0,0,0,0,13,75,2,1,4,9,1,2,0
+356,Juan Sebastián Quintero Fletcher,quintero,Quintero,96382,15,3,6,0,1.67,0,1.38,9,0,6,0,3,1,4,0,0,0,3,17,0,0,0,2,0,0,0
+356,Mariano Vázquez,mariano-vazquez,Mariano Vázquez,98760,15,4,6,1,1.23,0.04,-0.38,6,0,4,0,1,0,0,0,0,0,2,3,0,0,0,0,0,0,0
+356,Marcelo Boeck,marcelo-boeck,Marcelo Boeck,37788,15,1,6,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+356,Francisco Rodrigo de Sousa Barbosa,diguinho,Diguinho,105282,15,3,6,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+356,Ronald dos Santos Lopes,ronald,Ronald,100969,15,4,6,1.2,2.43,-0.29,1.52,9,0,9,0,1,0,0,0,0,0,13,15,0,0,1,0,0,0,0
+356,Franco Rodrigo Fragapane,fragapane,Fragapane,79262,15,5,6,-0.1,1.53,-0.08,0.27,9,0,2,0,0,0,0,0,0,0,3,15,0,0,0,0,0,1,0
+356,Felipe Alves Raymundo,felipe-alves,Felipe Alves,72372,15,1,6,7.5,4.82,1.42,2.25,15,0,0,0,0,0,6,10,0,11,4,183,0,0,0,0,0,0,0
+356,Igor Torres da Silva,igor-torres,Igor Torres,110303,15,5,6,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+356,Wellington Pereira do Nascimento,wellington-paulista,Wellington Paulista,38279,15,5,6,6,8.59,0.69,3.4,14,0,16,0,0,0,0,0,0,0,15,28,1,1,4,5,4,4,0
+356,Rogério Ceni,rogerio-ceni,Rogério Ceni,97341,15,6,6,5.55,7.71,0.58,3.1,15,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+356,Geilson Cerqueira Almeida,geilson,Geilson,107882,15,4,6,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0

@@ -1,0 +1,35 @@
+clube_id,nome,slug,apelido,atleta_id,rodada_id,posicao_id,status_id,pontos_num,preco_num,variacao_num,media_num,jogos_num,RB,FC,GC,CA,CV,SG,DD,DP,GS,FS,PI,A,FT,FD,FF,G,I,PP
+277,Marcos Rogério Ricci Lopes,para,Pará,62086,17,2,2,0,7.49,0,2.29,14,0,23,0,3,0,3,0,0,0,18,83,0,0,2,7,0,2,0
+277,Alexi Stival,cuca,Cuca,42411,17,6,7,3.15,10.83,0.29,3.67,17,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+277,Mário Sérgio Santos Costa,marinho,Marinho,68952,17,5,6,0,26.11,0,11.04,14,0,20,0,2,0,0,0,0,0,71,78,4,1,10,19,10,9,0
+277,Vladimir Orlando Cardoso de Araújo Filho,vladimir,Vladimir,69040,17,1,5,0,6.43,0,2.93,3,0,0,0,0,0,0,4,0,3,0,12,0,0,0,0,0,0,0
+277,Alison Lopes Ferreira,alison,Alison,73974,17,4,6,0,8.39,0,1.16,9,0,16,0,2,2,0,0,0,0,14,46,1,0,0,0,0,0,0
+277,Luiz Felipe do Nascimento dos Santos,luiz-felipe,Luiz Felipe,79035,17,3,6,1,3.54,0.08,0.17,3,0,1,0,0,0,0,0,0,0,1,5,0,0,0,0,0,0,0
+277,Jean Mota Oliveira de Sousa,jean-mota,Jean Mota,78548,17,4,7,2,4.26,-0.1,2,12,0,13,0,0,0,0,0,0,0,11,40,1,1,2,7,0,0,0
+277,Jonathan Copete Valencia,copete,Copete,77959,17,5,6,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+277,Madson Ferreira dos Santos,madson,Madson,78077,17,2,2,-0.9,5.47,-0.37,3.94,12,0,4,0,1,0,2,0,0,0,9,76,2,0,2,0,3,2,0
+277,Fernando Uribe Hincapié,uribe,Uribe,78415,17,5,6,0,3.33,0,0.6,1,0,0,0,0,0,0,0,0,0,1,1,0,0,1,0,0,2,0
+277,Carlos Andrés Sánchez Arcosa,carlos-sanchez,Carlos Sánchez,81677,17,4,5,0,5.65,0,1.66,12,0,11,0,1,0,0,0,0,0,18,98,1,0,6,7,0,1,1
+277,Laércio Soldá,laercio,Laércio,82564,17,3,7,-0.2,2.16,-0.35,0.33,3,0,4,0,0,0,0,0,0,0,1,13,0,0,0,1,0,0,0
+277,João Paulo Silva Martins,joao-paulo,João Paulo,85425,17,1,7,1.2,7.46,0.56,3.52,15,0,0,0,1,0,3,20,0,16,2,91,0,0,0,0,0,0,0
+277,Yeferson Julio Soteldo Martínez,soteldo,Soteldo,87258,17,5,7,8.6,8.02,1.04,3.53,11,0,6,0,3,0,0,0,0,0,21,83,2,0,7,9,2,2,0
+277,Luan Peres Petroni,luan-peres,Luan Peres ,84847,17,3,7,1.7,5.82,0.04,1.91,16,0,4,0,1,1,3,0,0,0,16,81,1,0,0,2,0,0,0
+277,Raniel Santana de Vasconcelos,raniel,Raniel,86797,17,5,5,0,5.16,0,2.95,4,0,7,0,0,0,0,0,0,0,11,7,0,0,2,2,0,3,0
+277,Derick Fernando da Silva,derick,Derick ,109830,17,3,6,0,0.77,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+277,John Victor Maciel Furtado,john-victor,John Victor,94044,17,1,6,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+277,Diego Cristiano Evaristo,diego-pituca,Diego Pituca,94156,17,4,7,2.4,7.73,-0.05,2.36,17,0,14,0,2,0,0,0,0,0,24,76,0,0,3,4,0,2,0
+277,Lucas Veríssimo da Silva,lucas-verissimo,Lucas Veríssimo,93368,17,3,6,0,7.88,0,2.45,10,0,17,0,4,0,2,0,0,0,2,60,0,0,3,3,1,0,0
+277,Marcos Leonardo Santos Almeida,marcos-leonardo,Marcos Leonardo,109497,17,5,6,0,1.09,0,1.18,6,0,9,0,1,0,0,0,0,0,8,4,0,0,1,1,1,0,0
+277,Jobson Souza Santos,jobson,Jobson,93377,17,4,7,-0.4,3.59,-0.03,0.96,12,0,21,0,4,0,0,0,0,0,11,77,0,0,1,2,0,1,0
+277,Matheus Purcelo Blecha de Moraes,matheus-moraes,Matheus Moraes,109560,17,4,6,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+277,Kaio Jorge Pinto Ramos,kaio-jorge,Kaio Jorge,103445,17,5,3,5.6,4.88,0.95,1.58,15,0,23,0,3,0,0,0,0,0,18,25,0,1,2,12,1,1,0
+277,Francisco Anderson de Jesus dos Santos,anderson-ceara,Anderson Ceará,103724,17,4,6,0,1.67,0,0.6,1,0,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0
+277,Tailson Pinto Gonçalves,tailson,Tailson,104578,17,5,6,0,2.24,0,0.83,7,0,3,0,0,0,0,0,0,0,5,14,0,0,1,0,0,0,0
+277,Sandry Roberto Santos Goes,sandry,Sandry,104580,17,4,6,0.5,1.61,0.17,-0.05,2,0,3,0,1,0,0,0,0,0,1,1,0,0,0,0,0,0,0
+277,Arthur Gomes Lourenço,arthur-gomes,Arthur Gomes,96966,17,5,7,-0.6,3.65,-0.35,1.76,10,0,9,0,0,1,0,0,0,0,10,48,0,0,5,3,1,1,0
+277,Wagner Leonardo Calvelo de Souza,wagner-leonardo,Wagner Leonardo,104994,17,3,6,0,1.68,-0.15,0.86,5,0,0,0,0,0,0,0,0,0,1,2,0,0,0,0,0,0,0
+277,Lucas Braga Ribeiro,lucas-braga,Lucas Braga,99119,17,5,7,-0.4,2.31,-0.56,1.07,12,0,21,0,3,0,0,0,0,0,16,37,1,0,3,3,0,2,0
+277,Lucas Lourenço Andrade,lucas-lourenco,Lucas Lourenço,101580,17,4,6,-0.1,2.35,-0.42,0.82,7,0,5,0,1,0,0,0,0,0,5,11,0,0,1,2,0,0,0
+277,Ivonei Júnior da Silva Rabelo,ivonei,Ivonei,105899,17,4,6,0,0.93,0,0.56,5,0,2,0,1,0,0,0,0,0,1,5,0,0,1,2,0,0,0
+277,Alex de Oliveira Nascimento,alex,Alex,101600,17,3,6,0,2.02,0,2.4,5,0,1,0,1,0,2,0,0,0,2,15,0,0,0,0,0,0,0
+277,Felipe Jonatan Rocha Andrade,felipe-jonatan,Felipe Jonatan,101708,17,2,7,14.2,13.85,2.41,5.16,16,0,22,0,4,0,3,0,0,0,22,137,1,0,2,10,2,0,0

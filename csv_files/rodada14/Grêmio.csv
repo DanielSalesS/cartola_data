@@ -1,0 +1,38 @@
+clube_id,nome,slug,apelido,atleta_id,rodada_id,posicao_id,status_id,pontos_num,preco_num,variacao_num,media_num,jogos_num,RB,FC,GC,CA,CV,SG,DD,DP,GS,FS,PI,A,FT,FD,FF,G,I,PP
+284,Everton Cardoso da Silva,everton,Everton,50301,13,4,6,0,5.99,0,2.72,5,0,9,0,0,0,0,0,0,0,7,31,1,0,3,2,0,1,0
+284,Renato Portaluppi,renato-gaucho,Renato Gaúcho,41929,13,6,7,0.85,11.9,-0.24,3.46,12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+284,Vanderlei Farias da Silva,vanderlei,Vanderlei,62121,13,1,7,-2.7,7.55,-0.24,2.54,9,0,0,0,1,0,3,7,0,7,1,46,0,0,0,0,0,0,0
+284,Diego Souza de Andrade,diego-souza,Diego Souza,68911,13,5,7,0.6,8.73,0.06,1.68,9,0,14,0,2,0,0,0,0,0,11,59,0,0,3,8,2,1,1
+284,Victor Ferraz Macedo,victor-ferraz,Victor Ferraz,70046,13,2,6,0,6.64,0,-1.65,2,0,2,0,1,0,0,0,0,0,0,21,0,0,0,1,0,0,0
+284,Pedro Tonon Geromel,pedro-geromel,Pedro Geromel,80853,13,3,5,0,10.82,0,3.8,6,0,7,0,1,1,2,0,0,0,2,33,0,0,0,2,0,0,0
+284,Luiz Fernando Moraes dos Santos,luiz-fernando,Luiz Fernando ,90715,13,5,2,0,4.7,0.4,1.07,7,0,2,0,1,1,0,0,0,0,1,10,0,0,3,3,1,0,0
+284,Isaque Elias Brito,isaque,Isaque,101483,13,5,2,0,6.79,0,3.25,11,0,7,0,0,0,0,0,0,0,10,33,0,0,7,7,2,1,0
+284,Ruan Tressoldi Netto,ruan,Ruan,100842,13,3,6,0,0.74,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+284,Lucas Araújo de Oliveira,lucas-araujo,Lucas Araújo,100844,13,4,6,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+284,Júlio César Jacobi,julio-cesar,Júlio César,49673,13,1,6,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+284,Maicon Thiago Pereira de Souza,maicon,Maicon,38196,13,4,7,0,3.15,0,-0.25,4,0,3,0,0,0,0,0,0,0,1,20,0,0,0,0,0,0,0
+284,David Braz de Oliveira Filho,david-braz,David Braz,50317,13,3,7,1.1,8.39,-0.02,3.31,10,0,6,0,0,0,3,0,0,0,4,44,0,0,2,4,0,0,0
+284,Jonathan Doin,paulo-miranda,Paulo Miranda,68817,13,3,7,-0.7,2.63,-0.47,1.65,4,0,4,0,0,0,1,0,0,0,2,24,0,0,0,0,0,0,0
+284,Rildo Gonçalves de Amorim Filho,rildo,Rildo,107798,13,4,6,0,0.79,0,0.15,2,0,1,0,0,0,0,0,0,0,2,2,0,0,0,0,0,0,0
+284,Marcelo Oliveira Ferreira,marcelo-oliveira,Marcelo Oliveira,50328,13,3,6,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+284,Paulo Victor Mileo Vidotti,paulo-victor,Paulo Victor,68873,13,1,6,0,5.36,0,3.67,3,0,0,0,0,0,1,4,0,4,0,20,0,0,0,0,0,0,0
+284,Bruno Cortês Barbosa,bruno-cortez,Bruno Cortez,72079,13,2,3,-6,8.59,-1.81,2.81,10,0,13,0,1,1,4,0,0,0,10,67,0,0,0,1,0,1,0
+284,Alisson Euler de Freitas Castro,alisson,Alisson,81845,13,4,6,2.2,11.59,-0.24,5.72,11,0,9,0,1,0,0,0,0,0,29,96,3,1,12,12,1,3,0
+284,Leonardo Gomes da Conceição Silva,leonardo,Leonardo,86973,13,2,6,0,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+284,Darlan Pereira Mendes,darlan,Darlan,104593,13,4,6,-1.9,4.31,-0.49,1.88,8,0,10,0,1,0,0,0,0,0,5,21,0,0,0,2,1,0,0
+284,Guilherme da Silva Azevedo,guilherme-azevedo,Guilherme Azevedo,105837,13,5,6,0,1.12,-0.38,1.1,6,0,2,0,0,0,0,0,0,0,7,4,0,0,1,1,0,1,0
+284,Antônio Josenildo Rodrigues de Oliveira,rodrigues,Rodrigues,91251,13,3,6,0,2.42,0,2.65,2,0,0,0,0,0,1,0,0,0,0,7,0,0,0,0,0,0,0
+284,Matheus Henrique de Souza,matheus-henrique,Matheus Henrique,100742,13,4,6,1.5,6.06,0.03,0.25,9,0,13,0,2,1,0,0,0,0,21,51,0,0,0,3,0,0,0
+284,Patrick Machado Ferreira ,patrick,Patrick,99918,13,4,6,0,2.74,0,-0.5,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+284,Lucas Silva Borges,lucas-silva,Lucas Silva,79701,13,4,7,2.6,5.38,0.41,1.57,11,0,12,0,2,0,0,0,0,0,17,39,0,0,3,4,0,0,0
+284,Thaciano Mickael da Silva,thaciano,Thaciano,87470,13,4,6,0,5.18,0,1.88,5,0,5,0,1,0,0,0,0,0,2,7,0,0,1,3,1,0,0
+284,Eduardo Gabriel Aquino Cossa,pepe,Pepê,91201,13,5,7,12.8,14.67,2.31,7.15,8,0,4,0,0,0,0,0,0,0,17,34,1,0,6,8,3,1,0
+284,Fabrício do Rosário dos Santos,fabricio,Fabrício,104134,13,5,6,0,0.77,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+284,Diogo Barbosa Mendanha,diogo-barbosa,Diogo Barbosa,70916,13,2,7,-0.1,7.59,-0.44,3.05,8,0,9,0,0,0,1,0,0,0,7,52,0,0,1,3,0,0,0
+284,Róbson Michael Signorini,robinho,Robinho,62104,13,4,2,-0.6,4.82,-1.6,1.78,6,0,5,0,1,0,0,0,0,0,7,49,2,0,1,3,0,0,0
+284,Brenno Oliveira Fraga Costa,brenno,Brenno,100830,13,1,6,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+284,Guilherme Alecsander Guedes,guilherme-guedes,Guilherme Guedes,100741,13,2,6,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+284,Luis Manuel Orejuela García,orejuela,Orejuela,95352,13,2,7,0.5,8.19,-0.25,3.41,10,0,17,0,1,0,4,0,0,0,14,115,0,1,3,5,0,1,0
+284,Walter Kannemann,kannemann,Kannemann,87342,13,3,6,0,11.23,0,4.28,6,0,18,0,3,0,3,0,0,0,9,20,0,0,2,1,0,0,0
+284,Jean Pyerre Casagrande Silveira Correa,jean-pyerre,Jean Pyerre,98832,13,4,6,0,12.85,0,4.7,4,0,3,0,0,0,0,0,0,0,6,25,0,1,2,8,0,0,0
+284,Aldemir dos Santos Ferreira,ferreira,Ferreira,101290,13,5,6,0,4,0,2.77,3,0,3,0,0,0,0,0,0,0,2,2,0,0,0,0,1,0,0

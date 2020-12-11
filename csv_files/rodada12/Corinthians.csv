@@ -1,0 +1,39 @@
+clube_id,nome,slug,apelido,atleta_id,rodada_id,posicao_id,status_id,pontos_num,preco_num,variacao_num,media_num,jogos_num,RB,FC,GC,CA,CV,SG,DD,DP,GS,FS,PI,A,FT,FD,FF,G,I,PP
+264,Cássio Roberto Ramos,cassio,Cássio,42234,11,1,6,0,8.07,0,1.48,9,0,0,0,0,0,1,10,0,14,0,47,0,0,0,0,0,0,0
+264,Carlos Gilberto do Nascimento Silva,gil,Gil,68923,11,3,6,0,5.83,0,2.1,8,0,7,0,1,0,1,0,0,0,4,37,1,0,0,0,0,0,0
+264,Luan Guilherme de Jesus Vieira,luan,Luan,86759,11,4,6,0,7.75,0,3.73,4,0,4,0,0,0,0,0,0,0,3,24,0,1,1,2,1,0,0
+264,Juan Ramón Cazares Sevillano,cazares,Cazares,81682,11,4,6,0,12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+264,Rómulo Otero Vásquez,otero,Otero,83004,11,4,6,0,12.07,0,4.48,5,0,6,0,2,0,0,0,0,0,13,32,1,2,7,4,0,1,0
+264,Walter Leandro Capeloza Artune,walter,Walter,51413,11,1,6,0,4.99,0,-2,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+264,Ramiro Moschen Benetti,ramiro,Ramiro,78715,11,4,6,0,6.73,0,2.69,8,0,13,0,2,0,0,0,0,0,5,39,0,0,1,4,1,0,0
+264,Danilo Fernando Avelar,danilo-avelar,Danilo Avelar,72142,11,3,6,0,4.41,0,1.82,8,0,13,0,0,1,1,0,0,0,2,27,0,0,5,1,1,0,0
+264,Guilherme de Aguiar Camacho,camacho,Camacho,68770,11,4,6,0,2.68,0,-0.12,5,0,7,0,1,0,0,0,0,0,0,11,0,0,0,0,0,0,0
+264,Mauro Boselli,boselli,Boselli,69161,11,5,6,0,6.1,0,-0.07,3,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0
+264,Gabriel Girotto Franco,gabriel,Gabriel,78605,11,4,6,0,4.19,0,1.97,7,0,12,0,3,0,0,0,0,0,8,28,1,0,0,2,0,0,0
+264,Michel Macedo Rocha Machado,michel,Michel,80664,11,2,6,0,4.76,0,2.7,4,0,1,0,0,0,1,0,0,0,6,20,0,0,1,2,0,1,0
+264,Víctor Danilo Cantillo Jiménez,cantillo,Cantillo,85315,11,4,6,0,5.66,0,1.52,9,0,8,0,1,0,0,0,0,0,9,26,1,0,2,3,0,0,0
+264,Sidcley Ferreira Pereira,sidcley,Sidcley,86764,11,2,6,0,6.58,0,2.28,7,0,4,0,0,0,1,0,0,0,9,40,0,0,1,1,0,1,0
+264,João Alves de Assis Silva,jo,Jô,38138,11,5,6,0,11.62,0,3.67,9,0,9,0,0,0,0,0,0,0,9,40,1,1,5,5,3,2,1
+264,Everaldo Silva do Nascimento,everaldo,Everaldo ,91151,11,5,6,0,4.48,0,2.8,1,0,2,0,0,0,0,0,0,0,2,2,0,0,1,1,0,0,0
+264,Mateus da Silva Vital Assumpção,mateus-vital,Mateus Vital,93108,11,4,6,0,6.52,0,2.17,6,0,1,0,1,0,0,0,0,0,8,9,0,0,2,0,1,0,0
+264,Éderson José dos Santos Lourenço da Silva,ederson,Éderson,103099,11,4,6,0,5.21,0,1.92,8,0,9,0,0,0,0,0,0,0,6,21,0,0,1,1,0,0,0
+264,Leonardo Rodrigues dos Santos,leo-santos,Léo Santos,95820,11,3,6,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+264,Bruno Méndez Cittadini,bruno-mendez,Bruno Méndez,103700,11,3,6,0,1.7,0,-1.75,2,0,2,0,1,0,0,0,0,0,0,15,0,0,0,0,0,0,0
+264,Matheus Alvarenga de Oliveira,davo,Davó,105533,11,5,6,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+264,Fagner Conserva Lemos,fagner,Fagner,42500,11,2,6,0,10.19,0,2.13,6,0,9,0,1,1,0,0,0,0,4,61,0,0,3,1,1,0,0
+264,Leonardo Natel Vieira,leo-natel,Léo Natel,98952,11,5,6,0,4.37,0,2.96,7,0,10,0,1,0,0,0,0,0,4,24,1,0,2,4,1,1,0
+264,Ángelo Giovanni Araos Llanos,araos,Araos,102352,11,4,3,0,7.51,0,3.6,7,0,5,0,2,0,0,0,0,0,9,34,2,0,2,4,1,0,0
+264,Guilherme Vicentini Castellani,guilherme,Guilherme,108539,11,1,6,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+264,Lucas Piton Crivellaro,lucas-piton,Lucas Piton,105584,11,2,6,0,4.12,0,2.22,5,0,3,0,1,0,0,0,0,0,5,39,1,0,1,1,0,0,0
+264,João Vitor Xavier de Almeida,xavier,Xavier,102067,11,4,6,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+264,Matheus Planelles Donelli,matheus-donelli,Matheus Donelli,107179,11,1,6,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+264,Roni Medeiros de Moura,roni,Roni,105585,11,4,6,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+264,Gabriel Pereira dos Santos,gabriel-pereira,Gabriel Pereira,109588,11,4,6,0,0.83,0,0.2,1,0,1,0,0,0,0,0,0,0,2,3,0,0,0,0,0,0,0
+264,Ruan de Oliveira Ferreira,ruan,Ruan,104153,11,4,5,0,1.22,0,0.77,4,0,2,0,0,0,0,0,0,0,2,7,0,0,0,1,0,0,0
+264,Cauê Vinicius dos Santos,caue,Cauê,104664,11,5,6,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+264,Raul Gustavo Pereira Bicalho,raul-gustavo,Raul Gustavo,109389,11,3,6,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+264,Guilherme Mantuan,mantuan,Mantuan,97315,11,4,6,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+264,Gustavo Henric da Silva,gustavo-mosquito,Gustavo Mosquito,97450,11,5,6,0,3.05,0,2.34,7,0,5,0,0,0,0,0,0,0,5,22,0,0,2,4,1,0,0
+264,Dyego Rocha Coelho,dyego-coelho,Dyego Coelho,98499,11,6,6,0,8.19,0,1.8,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+264,Ronald Eugenio de Carvalho,ronald,Ronald,109860,11,3,6,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+264,Igor Marques Paciência Cardoso,igor-formiga,Igor Formiga,106708,11,2,6,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0

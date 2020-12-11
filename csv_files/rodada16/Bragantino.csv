@@ -1,0 +1,36 @@
+clube_id,nome,slug,apelido,atleta_id,rodada_id,posicao_id,status_id,pontos_num,preco_num,variacao_num,media_num,jogos_num,RB,FC,GC,CA,CV,SG,DD,DP,GS,FS,PI,A,FT,FD,FF,G,I,PP
+280,Raul Lô Gonçalves,raul,Raul,92496,15,4,7,5.3,8.08,0.22,5.5,7,0,12,0,0,0,0,0,0,0,18,46,0,0,0,2,1,1,0
+280,Claudio Luiz Rodrigues Parisi Leonel,claudinho,Claudinho,92630,15,5,7,7.6,13.58,1.24,4.13,13,0,15,0,2,0,0,0,0,0,20,126,1,0,7,8,4,2,1
+280,Ligger Moreira Malaquias,ligger,Ligger,61141,15,3,7,2.4,3.66,0.15,1.69,9,0,11,0,0,0,1,0,0,0,4,15,1,0,1,0,0,0,0
+280,Edimar Curitiba Fraga,edimar,Edimar,62024,15,2,7,0.3,3.51,0.23,1.19,13,0,20,0,4,0,1,0,0,0,10,149,0,0,1,12,0,1,0
+280,Ytalo José Oliveira dos Santos,ytalo,Ytalo,53148,15,5,7,5.9,5.59,1.21,2.02,8,0,5,0,0,0,0,0,0,0,4,9,1,0,5,5,0,1,0
+280,Uillian Correia Granemann,uillian-correia,Uillian Correia,72007,15,4,2,-1.2,2.2,0.08,-0.7,6,0,7,0,1,0,0,0,0,0,0,5,0,0,0,1,0,0,0
+280,Ricardo Ryller Ribeiro Lino Silva,ricardo-ryller,Ricardo Ryller,85856,15,4,7,2.5,3.71,0.18,1.01,13,0,42,0,8,0,0,0,0,0,18,46,0,0,2,8,0,0,0
+280,Alex Alves de Lima,alex-alves,Alex Alves,77861,15,1,6,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+280,Andrew Erik Feitosa,morato,Morato,86227,15,5,6,0,2.54,0,0.24,9,0,7,0,0,1,0,0,0,0,7,42,0,0,3,6,0,2,0
+280,Júlio César de Souza Santos,julio-cesar,Júlio César,38133,15,1,7,-0.9,4.47,0.41,0.75,6,0,0,0,0,0,1,4,1,9,0,55,0,0,0,0,0,0,0
+280,Aderlan de Lima Silva,aderlan,Aderlan,88423,15,2,6,0,8.42,0,1.99,13,0,32,0,1,0,1,0,0,0,12,122,0,0,2,4,0,1,0
+280,Artur Victor Guimarães,artur,Artur,95799,15,5,2,0,11.88,0,3,14,0,11,0,1,0,0,0,0,0,32,111,2,1,8,15,0,2,1
+280,Gustavo Bonatto Barreto,barreto,Barreto,89224,15,4,6,0,3.16,0,0.38,4,0,3,0,0,0,0,0,0,0,1,5,0,0,0,0,0,0,0
+280,Matheus Sousa de Jesus,matheus-jesus,Matheus Jesus,95335,15,4,5,0,4.54,0,1,9,0,13,0,3,0,0,0,0,0,7,37,1,0,3,7,0,1,0
+280,Fabrício Bruno Soares de Faria,fabricio-bruno,Fabrício Bruno,90768,15,3,6,0,0.93,0,-0.4,4,0,5,0,1,1,0,0,0,0,2,11,0,0,0,0,0,0,0
+280,Alerrandro Barra Mansa Realino de Souza,alerrandro,Alerrandro,101715,15,5,5,0,11.12,0,5.76,12,0,7,0,0,0,0,0,0,0,14,35,2,2,5,9,5,4,1
+280,Leonardo Rech Ortiz,leo-ortiz,Léo Ortiz,97867,15,3,7,0,7.58,-0.42,3.01,15,0,14,0,2,0,1,0,0,0,8,53,0,0,1,4,2,0,0
+280,Bruno Nunes de Barros,bruno-tubarao,Bruno Tubarão,93637,15,4,7,6,4.37,1.04,2.85,13,0,13,0,2,0,0,0,0,0,7,60,1,2,3,7,1,2,0
+280,Robson José Brilhante Martins,robinho,Robinho,97461,15,5,6,0,2.03,0,1.46,5,0,3,0,0,0,0,0,0,0,1,5,1,0,0,1,0,0,0
+280,Victor Hugo Santana Carvalho,vitinho,Vitinho,95770,15,4,5,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+280,Cleiton Schwengber,cleiton,Cleiton,93882,15,1,6,0,0.77,0,-1.56,9,0,0,0,0,0,0,5,0,14,2,70,0,0,0,0,0,0,0
+280,Luan Cândido de Almeida,luan-candido,Luan Cândido,100848,15,2,6,0,0.9,0,-3,1,0,2,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+280,Thonny Anderson da Silva Carvalho,thonny-anderson,Thonny Anderson,101484,15,4,3,0,3.53,0,-2.05,2,0,2,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0
+280,Leonardo Javier Realpe Montaño,realpe,Realpe,106299,15,3,6,0,3.3,0,0.85,4,0,1,0,1,0,0,0,0,0,1,14,0,0,0,1,0,0,0
+280,Weverton Guilherme da Silva Souza,weverton,Weverton,104625,15,2,6,0.6,1.13,-0.06,0.23,4,0,1,0,0,0,0,0,0,0,0,14,0,0,0,1,0,0,0
+280,Tomás Esteban Cuello,cuello,Cuello,98909,15,4,6,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+280,Leandro Henrique do Nascimento,leandrinho,Leandrinho,91702,15,5,2,1,2.43,-0.21,1.08,5,0,2,0,0,0,0,0,0,0,6,10,0,0,0,3,0,0,0
+280,Lucas Evangelista Santana de Oliveira,lucas-evangelista,Lucas Evangelista,84674,15,4,2,0,4.82,0,4.08,9,0,12,0,2,0,0,0,0,0,14,27,0,1,2,5,2,0,0
+280,César Rafael Haydar Villarreal,haydar,Haydar,108385,15,3,6,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+280,Luis Phelipe de Souza Figueiredo,luis-phelipe,Luis Phelipe,104500,15,5,6,1.5,4.49,0.16,2.14,8,0,3,0,1,0,0,0,0,0,10,6,0,0,1,0,1,0,0
+280,Chrigor Flores Moraes,chrigor,Chrigor,101398,15,5,6,0,2.25,0,2.4,1,0,1,0,0,0,0,0,0,0,2,1,0,0,0,0,0,0,0
+280,Wesley Pionteck Souza,wesley-pionteck,Wesley Pionteck,93376,15,5,6,0.7,1.69,-0.31,0.7,1,0,1,0,0,0,0,0,0,0,1,3,0,0,0,0,0,0,0
+280,Jan Carlos Hurtado Anchico,hurtado,Hurtado,105301,15,5,6,0,1.95,0.04,0.04,7,0,5,0,0,0,0,0,0,0,0,4,0,0,1,0,0,0,0
+280,Maurício Nogueira Barbieri,mauricio-barbieri,Maurício Barbieri,82792,15,6,7,2.86,6.49,0.49,2.64,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+280,Weverson Moreira da Costa,weverson,Weverson,109426,15,2,6,-0.2,0.78,0,-0.61,9,0,8,0,0,1,0,0,0,0,1,30,0,0,1,1,0,2,0

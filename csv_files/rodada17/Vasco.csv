@@ -1,0 +1,38 @@
+clube_id,nome,slug,apelido,atleta_id,rodada_id,posicao_id,status_id,pontos_num,preco_num,variacao_num,media_num,jogos_num,RB,FC,GC,CA,CV,SG,DD,DP,GS,FS,PI,A,FT,FD,FF,G,I,PP
+267,Fellipe Ramos Ignez Bastos,fellipe-bastos,Fellipe Bastos,70116,16,4,6,0,10.85,0,4.05,12,0,22,0,2,0,0,0,0,0,5,54,0,1,3,5,4,0,0
+267,Fernando Miguel Kaufmann,fernando-miguel,Fernando Miguel,71571,16,1,7,0,6.98,0,1.63,14,0,0,0,0,0,4,11,1,20,2,91,0,0,0,0,0,0,0
+267,Werley Ananias da Silva,werley,Werley,62974,16,3,6,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+267,Glaybson Yago Souza Lisboa,yago-pikachu,Yago Pikachu,80196,16,2,7,0,7.81,0,2.39,10,0,14,0,1,0,2,0,0,0,18,64,0,1,2,3,0,1,0
+267,Ramon de Morais Motta ,ramon,Ramon,68896,16,2,5,0,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+267,Henrique Silva Milagres,henrique,Henrique,84893,16,2,7,0,6.51,0,2.17,12,0,22,0,4,0,3,0,0,0,12,73,0,0,2,0,0,2,0
+267,Guilherme Parede Pinheiro,guilherme-parede,Guilherme Parede,83438,16,5,6,0,1.77,0,-0.38,8,0,3,0,2,0,0,0,0,0,3,17,0,0,1,0,0,1,0
+267,Alexandre Grasseli de Souza,alexandre-grasseli,Alexandre Grasseli,83423,16,6,7,0,8.64,0,2.82,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+267,Germán Ezequiel Cano,cano,Cano,79631,16,5,7,0,12.71,0,4.97,14,0,13,0,0,0,0,0,0,0,7,26,0,1,9,5,7,7,0
+267,Carlos Vinícius Santos de Jesus,carlinhos,Carlinhos,87273,16,4,7,0,4.64,0,1.9,9,0,6,0,0,0,0,0,0,0,7,36,1,0,1,5,0,0,0
+267,Leandro Castan da Silva,leandro-castan,Leandro Castan,38505,16,3,7,0,13.42,0,3.6,10,0,10,0,1,0,3,0,0,0,14,42,0,0,1,0,0,0,0
+267,Marcos Antônio Cândido Ferreira Júnior,marcos-junior,Marcos Júnior,93893,16,4,7,0,3.95,0,2.9,8,0,6,0,0,0,0,0,0,0,12,24,1,0,0,2,0,0,0
+267,Riquelme Carvalho Araújo Viana,riquelme,Riquelme,105566,16,2,6,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+267,Talles Magno Bacelar Martins,talles-magno,Talles Magno,105786,16,5,7,0,11.54,0,4.5,13,0,13,0,2,1,0,0,0,0,38,60,2,1,4,8,2,4,0
+267,Lucas Ribamar Lopes dos Santos Bibiano,ribamar,Ribamar,94068,16,5,6,0,4.52,0,1.74,9,0,5,0,1,0,0,0,0,0,2,10,0,0,2,1,2,2,0
+267,Alexander Silva de Lucena,alexander,Alexander,105553,16,1,6,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+267,Ricardo Queiroz de Alencastro Graça,ricardo,Ricardo,99881,16,3,6,0,7.13,0,3.15,8,0,5,0,1,0,3,0,0,0,4,19,0,0,1,3,0,0,0
+267,Vinícius dos Santos de Oliveira Paiva,vinicius,Vinícius,105998,16,5,6,0,2.84,0,0.9,6,0,3,0,1,0,0,0,0,0,5,18,0,0,1,0,1,2,0
+267,Breno Vinícius Rodrigues Borges,breno,Breno,50408,16,3,5,0,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+267,Kaio Magno Bacelar Martins,kaio-magno,Kaio Magno,106200,16,5,6,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+267,Lucas Alexandre Galdino de Azevedo,lucao,Lucão,106160,16,1,6,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+267,Alexandre Melo Ribeiro da Silva,alexandre-melo,Alexandre Melo,106159,16,2,6,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+267,Ygor de Oliveira Ferreira,ygor-catatau,Ygor Catatau,100977,16,5,6,0,2.69,0,2.02,8,0,6,0,1,0,0,0,0,0,7,23,1,0,0,3,1,1,0
+267,Bruno Gomes da Silva Clevelário,bruno-gomes,Bruno Gomes,106202,16,4,3,0,2.66,0,0.57,10,0,15,0,2,2,0,0,0,0,20,36,0,0,1,2,0,0,0
+267,Gabriel Fortes Chaves,gabriel-pec,Gabriel Pec,106199,16,4,6,0,2.42,0,0.76,5,0,6,0,2,0,0,0,0,0,7,13,0,0,1,3,0,0,0
+267,Matheus dos Santos Miranda,miranda,Miranda,101720,16,3,7,0,3.37,0,1.75,11,0,5,0,1,0,2,0,0,0,9,58,0,0,0,0,0,0,0
+267,Lucas Santos da Silva,lucas-santos,Lucas Santos,101718,16,4,6,0,1.68,0,-0.1,2,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0
+267,Leonardo Roque Albano Gil,leonardo-gil,Leonardo Gil,102506,16,4,6,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+267,Martín Nicolás Benítez,benitez,Benítez,93550,16,4,7,0,10.03,0,4.72,10,0,10,0,3,0,0,0,0,0,26,100,1,0,4,6,1,1,0
+267,Andrey Ramos do Nascimento,andrey,Andrey,93787,16,4,7,0,6.1,0,3.09,9,0,24,0,3,1,0,0,0,0,21,45,2,0,1,2,0,0,0
+267,Ulisses Wilson Jeronymo Rocha ,ulisses,Ulisses,101647,16,3,6,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+267,Vivaldo Borges dos Santos Neto,neto-borges,Neto Borges,106411,16,2,6,0,3.79,0,2.68,6,0,3,0,1,0,2,0,0,0,5,19,0,0,1,1,0,0,0
+267,Marcelo Alves Santos,marcelo-alves,Marcelo Alves,104050,16,3,6,0,1.67,0,1.25,4,0,6,0,0,0,1,0,0,0,1,15,0,0,0,0,0,0,0
+267,Tiago Rodrigues dos Reis,tiago-reis,Tiago Reis,104678,16,5,6,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+267,Cayo Henrique Nascimento Ferreira,cayo-tenorio,Cayo Tenório,107367,16,2,3,0,4.84,0,3.6,7,0,7,0,3,0,3,0,0,0,13,26,1,0,1,2,0,0,0
+267,Alexandre de Almeida da Silva Júnior,juninho,Juninho,107677,16,4,5,0,3.39,0,2.57,3,0,0,0,0,0,0,0,0,0,2,11,1,0,0,1,0,0,0
+267,Andrey Nascimento dos Santos,andrey-dos-santos,Andrey dos Santos,109591,16,4,6,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0

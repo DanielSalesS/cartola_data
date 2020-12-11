@@ -1,0 +1,34 @@
+clube_id,nome,slug,apelido,atleta_id,rodada_id,posicao_id,status_id,pontos_num,preco_num,variacao_num,media_num,jogos_num,RB,FC,GC,CA,CV,SG,DD,DP,GS,FS,PI,A,FT,FD,FF,G,I,PP
+277,Luiz Felipe do Nascimento dos Santos,luiz-felipe,Luiz Felipe,79035,8,3,5,0,4.39,0,-0.1,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+277,Luan Peres Petroni,luan-peres,Luan Peres ,84847,8,3,3,-0.5,5.64,-0.71,2.33,8,0,0,0,0,1,2,0,0,0,5,27,1,0,0,1,0,0,0
+277,Jean Mota Oliveira de Sousa,jean-mota,Jean Mota,78548,8,4,5,0,3.55,0,1.3,4,0,3,0,0,0,0,0,0,0,2,7,0,0,0,3,0,0,0
+277,João Paulo Silva Martins,joao-paulo,João Paulo,85425,8,1,7,16,10.06,4.18,8.03,6,0,0,0,0,0,2,13,0,6,2,28,0,0,0,0,0,0,0
+277,Raniel Santana de Vasconcelos,raniel,Raniel,86797,8,5,6,0,5.84,0,4.2,2,0,4,0,0,0,0,0,0,0,9,3,0,0,2,1,0,2,0
+277,Jobson Souza Santos,jobson,Jobson,93377,8,4,7,1,4.01,0.21,0.85,7,0,8,0,2,0,0,0,0,0,7,36,0,0,0,2,0,1,0
+277,John Victor Maciel Furtado,john-victor,John Victor,94044,8,1,6,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+277,Diego Cristiano Evaristo,diego-pituca,Diego Pituca,94156,8,4,2,1.5,7.5,-0.5,2.69,8,0,4,0,1,0,0,0,0,0,11,35,0,0,2,2,0,1,0
+277,Felipe Jonatan Rocha Andrade,felipe-jonatan,Felipe Jonatan,101708,8,2,7,15.4,13.69,3.24,6.2,8,0,12,0,2,0,2,0,0,0,13,63,0,0,1,4,2,0,0
+277,Mário Sérgio Santos Costa,marinho,Marinho,68952,8,5,7,9.7,23.2,0.44,10.84,8,0,11,0,1,0,0,0,0,0,43,32,3,0,8,11,4,3,0
+277,Tailson Pinto Gonçalves,tailson,Tailson,104578,8,5,6,0,2.65,0,0.95,4,0,2,0,0,0,0,0,0,0,3,7,0,0,0,0,0,0,0
+277,Arthur Gomes Lourenço,arthur-gomes,Arthur Gomes,96966,8,5,2,4.9,4.09,1.09,2.4,2,0,0,0,0,0,0,0,0,0,3,7,0,0,1,1,0,0,0
+277,Sandry Roberto Santos Goes,sandry,Sandry,104580,8,4,6,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+277,Lucas Veríssimo da Silva,lucas-verissimo,Lucas Veríssimo,93368,8,3,3,6.4,8.49,0.26,2.17,7,0,8,0,3,0,1,0,0,0,1,39,0,0,1,3,1,0,0
+277,Yeferson Julio Soteldo Martínez,soteldo,Soteldo,87258,8,5,7,0,7.7,0,3.05,7,0,3,0,2,0,0,0,0,0,12,60,1,0,5,6,1,2,0
+277,Marcos Rogério Ricci Lopes,para,Pará,62086,8,2,2,7.3,8.75,1.36,2.92,8,0,12,0,1,0,2,0,0,0,15,51,0,0,1,6,0,2,0
+277,Vladimir Orlando Cardoso de Araújo Filho,vladimir,Vladimir,69040,8,1,6,0,6.43,0,2.93,3,0,0,0,0,0,0,4,0,3,0,12,0,0,0,0,0,0,0
+277,Everson Felipe Marques Pires,everson,Everson,72294,8,1,6,0,11,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+277,Jonathan Copete Valencia,copete,Copete,77959,8,5,6,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+277,Alison Lopes Ferreira,alison,Alison,73974,8,4,3,-2.9,8.63,-0.58,1.39,7,0,13,0,1,2,0,0,0,0,13,33,1,0,0,0,0,0,0
+277,Madson Ferreira dos Santos,madson,Madson,78077,8,2,2,5,4.2,1.2,1.27,3,0,0,0,1,0,1,0,0,0,2,9,0,0,1,0,0,1,0
+277,Fernando Uribe Hincapié,uribe,Uribe,78415,8,5,6,0,3.33,0,0.6,1,0,0,0,0,0,0,0,0,0,1,1,0,0,1,0,0,2,0
+277,Kaio Jorge Pinto Ramos,kaio-jorge,Kaio Jorge,103445,8,5,6,-1.8,3.5,-0.64,0.89,8,0,12,0,2,0,0,0,0,0,9,9,0,0,1,6,0,1,0
+277,Wagner Leonardo Calvelo de Souza,wagner-leonardo,Wagner Leonardo,104994,8,3,2,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+277,Matheus Purcelo Blecha de Moraes,matheus-moraes,Matheus Moraes,109560,8,4,6,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+277,Francisco Anderson de Jesus dos Santos,anderson-ceara,Anderson Ceará,103724,8,4,6,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+277,Marcos Leonardo Santos Almeida,marcos-leonardo,Marcos Leonardo,109497,8,5,6,0,0.75,0,-0.25,2,0,3,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0
+277,Alexi Stival,cuca,Cuca,42411,8,6,7,5.65,10.82,0.63,4.16,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+277,Carlos Andrés Sánchez Arcosa,carlos-sanchez,Carlos Sánchez,81677,8,4,7,0.1,5.43,-0.49,1.26,8,0,7,0,0,0,0,0,0,0,16,75,0,0,2,4,0,1,1
+277,Ivonei Júnior da Silva Rabelo,ivonei,Ivonei,105899,8,4,2,0,0.76,0,0.1,2,0,2,0,1,0,0,0,0,0,1,1,0,0,0,1,0,0,0
+277,Alex de Oliveira Nascimento,alex,Alex,101600,8,3,7,4.9,3.06,0.58,3.73,3,0,0,0,0,0,2,0,0,0,0,8,0,0,0,0,0,0,0
+277,Lucas Braga Ribeiro,lucas-braga,Lucas Braga,99119,8,5,7,-4.8,1.23,-1.35,0.44,5,0,8,0,2,0,0,0,0,0,4,9,1,0,0,2,0,1,0
+277,Derick Fernando da Silva,derick,Derick ,109830,8,3,6,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0

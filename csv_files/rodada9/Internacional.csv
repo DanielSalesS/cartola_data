@@ -1,0 +1,43 @@
+clube_id,nome,slug,apelido,atleta_id,rodada_id,posicao_id,status_id,pontos_num,preco_num,variacao_num,media_num,jogos_num,RB,FC,GC,CA,CV,SG,DD,DP,GS,FS,PI,A,FT,FD,FF,G,I,PP
+285,Patrick Bezerra do Nascimento,patrick,Patrick,83433,8,4,7,11.9,12.47,2.71,4.58,8,0,16,0,0,0,0,0,0,0,13,51,1,2,4,3,1,2,0
+285,José Paolo Guerrero Gonzales,paolo-guerrero,Paolo Guerrero,75295,8,5,5,0,20.81,0,11.2,3,0,7,0,0,0,0,0,0,0,5,15,1,1,1,3,3,3,0
+285,Moisés Roberto Barbosa,moises,Moisés,90444,8,2,6,0,10.93,0,4.52,7,0,20,0,1,0,5,0,0,0,0,73,1,0,1,4,0,1,0
+285,Eduardo Germán Coudet,eduardo-coudet,Eduardo Coudet,94853,8,6,7,2.93,12.32,0.3,4.35,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+285,Martín Nicolás Sarrafiore,sarrafiore,Sarrafiore,101315,8,4,6,0,2.53,0,1.1,1,0,0,0,0,0,0,0,0,0,2,7,0,0,0,1,0,0,0
+285,Matheus Isaías dos Santos,matheus-jussa,Matheus Jussa,91689,8,3,2,0,2.32,0,0.9,2,0,5,0,2,0,1,0,0,0,1,12,0,0,0,0,0,0,0
+285,Tiago Barbosa Figueiredo,tiago-barbosa,Tiago Barbosa,107742,8,3,6,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+285,César Coelho Campos Júnior,cesinha,Cesinha,107746,8,4,6,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+285,Carlos Eduardo da Silva Rodrigues Lima,carlos-eduardo,Carlos Eduardo,107756,8,3,6,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+285,Leonardo Borges da Silva,leonardo-borges,Leonardo Borges,105839,8,2,6,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+285,Rodrigo Dourado Cunha,rodrigo-dourado,Rodrigo Dourado,78865,8,4,6,0,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+285,Marcos Guilherme de Almeida Santos Matos,marcos-guilherme,Marcos Guilherme ,83266,8,4,2,1.9,3.35,0.49,0.14,8,0,8,0,1,0,0,0,0,0,5,17,0,0,1,2,0,3,0
+285,Natanael Batista Pimenta,natanael,Natanael,86264,8,2,6,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+285,Keiller da Silva Nunes,keiller,Keiller,93834,8,1,6,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+285,Gabriel Boschilia,boschilia,Boschilia,86841,8,4,7,0.9,7.22,-0.01,3.86,7,0,15,0,1,0,0,0,0,0,9,44,0,0,5,3,1,0,0
+285,Damián Marcelo Musto,musto,Musto,94838,8,4,6,0,6.8,0,3.6,5,0,5,0,1,0,0,0,0,0,7,10,0,0,0,0,1,0,0
+285,Daniel de Sousa Brito,daniel,Daniel,96468,8,1,6,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+285,Gustavo Nonato Santana,nonato,Nonato,100987,8,4,6,0,5.15,0,5.8,1,0,2,0,1,0,0,0,0,0,5,7,0,0,0,0,0,0,0
+285,Uendel Pereira Gonçalves,uendel,Uendel,60852,8,2,7,4,4,0,4,1,0,0,0,0,0,0,0,0,0,0,10,0,0,0,0,0,0,0
+285,Renzo Saravia,saravia,Saravia,96725,8,2,7,2.6,19.3,-1.11,8.58,6,0,11,0,1,0,4,0,0,0,12,40,1,0,1,1,0,0,0
+285,Andrés Nicolas D'Alessandro,d-alessandro,D'Alessandro,62023,8,4,2,4.5,4.04,1,0.82,6,0,1,0,1,0,0,0,0,0,5,20,0,0,3,1,0,1,0
+285,Edenílson Andrade Dos Santos,edenilson,Edenílson,63289,8,4,7,1.8,8,0.1,1.95,7,0,10,0,2,0,0,0,0,0,8,48,0,0,3,3,1,1,0
+285,Rodrigo Modesto da Silva Moledo,rodrigo-moledo,Rodrigo Moledo,63354,8,3,6,0,5.26,0.09,2.3,4,0,3,0,1,0,2,0,0,0,2,3,0,0,0,0,0,0,0
+285,Bruno Conceição Praxedes,praxedes,Praxedes,107744,8,4,6,0,0.76,0,-0.97,3,0,5,0,2,0,0,0,0,0,1,23,0,0,0,3,0,0,0
+285,Danilo Fernandes Batista,danilo-fernandes,Danilo Fernandes,69051,8,1,6,0,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+285,Roberto Pinheiro da Rosa,roberto,Roberto,104086,8,3,6,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+285,Thiago Galhardo do Nascimento Rocha,thiago-galhardo,Thiago Galhardo,71844,8,4,7,15,18.17,2.11,9.22,8,0,10,0,0,0,0,0,0,0,15,36,3,0,2,3,6,2,0
+285,Pedro Henrique Alves Santana,pedro-henrique,Pedro Henrique,105840,8,3,6,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+285,Heitor Rodrigues da Fonseca,heitor,Heitor,104649,8,2,6,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+285,Yuri Alberto Monteiro da Silva,yuri-alberto,Yuri Alberto,100652,8,5,5,0,2.16,0,-0.2,1,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0
+285,Rodrigo Oliveira Lindoso,rodrigo-lindoso,Rodrigo Lindoso,72362,8,4,6,0,4.59,0,1.52,6,0,16,0,0,0,0,0,0,0,0,21,1,0,1,0,0,0,0
+285,Marcelo Lomba do Nascimento,marcelo-lomba,Marcelo Lomba,68872,8,1,7,-4.9,8.85,-0.88,0.52,8,0,0,0,1,0,5,0,0,5,0,88,0,0,0,0,0,0,0
+285,João Gabriel Martins Peglow,peglow,Peglow,106821,8,4,6,0.5,2.07,-0.03,1.27,4,0,4,0,0,0,0,0,0,0,1,12,1,0,0,1,0,0,0
+285,Rodinei Marcelo de Almeida,rodinei,Rodinei,73992,8,2,6,-2.7,4.2,-1.39,2.6,3,0,4,0,1,0,1,0,0,0,8,22,0,0,0,0,0,0,0
+285,João Lucas Souza Cardoso,johnny,Johnny ,106002,8,4,2,0.1,1.94,-0.57,2.15,2,0,0,0,0,0,0,0,0,0,1,12,0,0,0,0,0,0,0
+285,William de Oliveira Pottker,william-pottker,William Pottker,77809,8,5,5,0,3.36,0,-0.03,3,0,3,0,0,1,0,0,0,0,5,11,0,0,2,2,0,0,0
+285,Víctor Leandro Cuesta,victor-cuesta,Víctor Cuesta,79113,8,3,7,-1.4,10.86,-0.27,3.28,8,0,14,0,2,0,5,0,0,0,8,58,0,0,0,0,0,0,0
+285,José Gabriel dos Santos Silva,ze-gabriel,Zé Gabriel,105902,8,4,7,-1.9,1.87,-0.76,0.9,6,0,8,0,1,0,0,0,0,0,5,19,0,0,0,1,0,0,0
+285,Lucas Ribeiro dos Santos,lucas-ribeiro,Lucas Ribeiro,103088,8,3,6,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+285,Andrés Felipe Amaya Rivera,amaya,Amaya,109656,8,5,6,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+285,Abel Mathías Hernández Platero,abel-hernandez,Abel Hernández,74159,8,5,6,-0.1,6.89,-2.11,-0.1,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+285,Leandro Miguel Fernández,leandro-fernandez,Leandro Fernández,93303,8,5,6,0,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0

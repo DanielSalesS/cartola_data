@@ -1,0 +1,41 @@
+clube_id,nome,slug,apelido,atleta_id,rodada_id,posicao_id,status_id,pontos_num,preco_num,variacao_num,media_num,jogos_num,RB,FC,GC,CA,CV,SG,DD,DP,GS,FS,PI,A,FT,FD,FF,G,I,PP
+265,Luis Antônio Venker de Menezes,mano-menezes,Mano Menezes,37281,18,6,7,0,6.94,0,2.57,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+265,Elias Mendes Trindade,elias,Elias,54395,18,4,7,0,7.19,0,-0.5,4,0,8,0,1,0,0,0,0,0,3,21,0,0,0,2,0,0,0
+265,Anderson Pedro Nunes da Silva Campos,anderson,Anderson,38001,18,1,6,0,0.76,0,-1.23,4,0,0,0,0,0,0,4,0,9,1,34,0,0,0,0,0,0,0
+265,Severino do Ramo Clementino da Silva,nino-paraiba,Nino Paraíba,68808,18,2,7,0,7.2,0,1.82,11,0,10,0,2,0,1,0,0,0,8,80,0,0,1,1,0,0,0
+265,Fabrício Oliveira de Souza,fabricio,Fabrício,104588,18,1,6,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+265,Douglas do Espírito Santo Torres,douglas-borel,Douglas Borel,104634,18,2,6,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+265,Elton Júnior Melo Ataíde,elton,Elton,71719,18,4,6,0,3.66,0,1.3,3,0,2,0,0,0,0,0,0,0,2,1,0,0,0,0,0,0,0
+265,Edson Fernando da Silva Gomes,edson,Edson,105901,18,4,6,0,1.14,0,1.4,6,0,1,0,1,0,0,0,0,0,9,24,0,0,0,1,0,0,0
+265,Rodrigo Eduardo Costa Marinho,rodriguinho,Rodriguinho,61033,18,4,6,0,14.89,0,4.68,10,0,7,0,0,0,0,0,0,0,23,68,1,1,5,7,3,2,0
+265,Gilberto Oliveira Souza Júnior,gilberto,Gilberto,61188,18,5,7,0,10.43,0,4.05,13,0,14,0,2,0,0,0,0,0,17,57,1,1,14,12,3,5,1
+265,Clayson Henrique da Silva Vieira,clayson,Clayson,83817,18,5,2,0,5.05,0,2.33,11,0,11,0,1,0,0,0,0,0,14,64,1,0,5,5,2,3,1
+265,Lucas Fonseca da Silva,lucas-fonseca,Lucas Fonseca,80189,18,3,7,0,3.83,0,0.42,6,0,5,0,1,0,1,0,0,0,2,20,0,0,0,0,0,0,0
+265,Wanderson Santos Pereira,wanderson,Wanderson,86143,18,3,6,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+265,Rosicley Pereira da Silva,rossi,Rossi,81798,18,5,2,0,5.7,0,2.12,12,0,9,0,3,0,0,0,0,0,16,76,0,0,3,5,2,2,0
+265,Mateus Eduardo Claus,mateus-claus,Mateus Claus,90590,18,1,6,0,3.77,0,7.9,2,0,0,0,0,0,0,6,0,4,0,2,0,0,0,0,0,0,0
+265,José Carlos Ferreira Júnior,juninho,Juninho,92182,18,3,7,0,8.46,0,2.77,13,0,3,0,0,1,2,0,0,0,4,47,0,0,2,4,1,1,0
+265,José Carlos Cracco Neto,zeca,Zeca,87192,18,2,6,0,4.83,0,1.1,5,0,3,0,1,0,1,0,0,0,0,14,0,0,0,3,0,0,0
+265,João Pedro Maturano dos Santos,joao-pedro,João Pedro ,89273,18,2,6,0,4.26,0,-0.8,1,0,2,0,0,0,0,0,0,0,0,8,0,0,0,0,0,0,0
+265,Marco Antônio Rosa Furtado Júnior,marco-antonio,Marco Antônio,94975,18,4,6,0,3.81,0,2.4,9,0,4,0,1,0,0,0,0,0,12,26,1,0,3,2,1,0,0
+265,Luis Antônio da Rocha Júnior,juninho-capixaba,Juninho Capixaba,94968,18,2,7,0,7.63,0,3.35,11,0,14,0,1,0,2,0,0,0,12,115,1,0,2,3,0,1,0
+265,Gregore de Magalhães da Silva,gregore,Gregore,95464,18,4,7,0,6.27,0,1.27,11,0,33,0,5,1,0,0,0,0,8,49,2,0,2,5,0,0,0
+265,Ronaldo da Silva Souza,ronaldo,Ronaldo,92981,18,4,6,0,3.22,0,1.7,9,0,18,0,3,0,0,0,0,0,9,28,1,0,0,2,0,0,0
+265,Ernando Rodrigues Lopes,ernando,Ernando,49651,18,3,6,0,5.63,0,2.23,12,0,10,0,0,0,2,0,0,0,2,43,1,0,3,2,1,0,0
+265,Daniel Sampaio Simões,daniel,Daniel,93791,18,4,2,0,6.5,0,2.47,12,0,11,0,2,0,0,0,0,0,18,40,1,0,1,5,2,0,0
+265,Alesson dos Santos Batista,alesson,Alesson,97321,18,4,6,0,0.99,0,0.56,5,0,2,0,1,0,0,0,0,0,5,7,0,0,1,1,0,0,0
+265,Jefferson Gabriel Nascimento Brito,fessin,Fessin,97994,18,4,2,0,2.16,0,1.6,5,0,2,0,0,0,0,0,0,0,3,11,0,0,3,0,0,0,0
+265,Matheus Bahia Santos,matheus-bahia,Matheus Bahia,97899,18,2,6,0,0.78,0,-2.8,1,0,3,0,1,0,0,0,0,0,1,8,0,0,0,0,0,0,0
+265,Eric dos Santos Rodrigues,ramires,Ramires,103295,18,4,6,0,4.89,0,-0.65,2,0,1,0,0,0,0,0,0,0,2,8,0,0,0,0,0,2,0
+265,Matheus Henrique Teixeira,matheus-teixeira,Matheus Teixeira,102907,18,1,6,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+265,Ramon Rodrigo de Carvalho,ramon,Ramon,103515,18,4,2,0,0.78,0,-0.7,3,0,3,0,1,0,0,0,0,0,1,3,0,0,1,0,0,0,0
+265,Douglas Alan Schuck Friedrich,douglas-friedrich,Douglas Friedrich,78584,18,1,7,0,8.6,0,2.65,9,0,0,0,0,0,2,8,0,7,2,51,0,0,0,0,0,0,0
+265,Everson Bispo Pereira,everson,Everson,91929,18,3,6,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+265,Anderson Vieira Martins,anderson-martins,Anderson Martins,52618,18,3,6,0,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+265,Matheus Bonifácio Saldanha Marinho,saldanha,Saldanha,107088,18,5,6,0,1.93,0,0.95,11,0,5,0,1,0,0,0,0,0,4,15,0,0,1,6,1,3,0
+265,Thiago Eduardo de Andrade,thiago-andrade,Thiago Andrade,109404,18,5,6,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+265,Jeferson Douglas dos Santos Souza,jeferson-douglas,Jeferson Douglas,109405,18,4,6,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+265,Edilson Matos dos Santos Júnior,edilson,Edilson,109406,18,5,6,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+265,João Pedro Sacramento da Silva,joao-pedro-silva,João Pedro Silva,109464,18,5,6,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+265,Jaques Bonfim Nazaré Neto,jaques,Jaques,104128,18,3,6,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+265,José Élber Pimentel da Silva,elber,Élber,74140,18,5,2,0,8.68,0,3.16,13,0,5,0,0,0,0,0,0,0,29,72,1,1,6,5,1,4,0

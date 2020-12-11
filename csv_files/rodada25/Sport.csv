@@ -1,0 +1,40 @@
+clube_id,nome,slug,apelido,atleta_id,rodada_id,posicao_id,status_id,pontos_num,preco_num,variacao_num,media_num,jogos_num,RB,FC,GC,CA,CV,SG,DD,DP,GS,FS,PI,A,FT,FD,FF,G,I,PP
+292,Lucas Henrique Ferreira Venuto,lucas-venuto,Lucas Venuto,100290,24,5,6,0,1.89,0,0.89,7,0,3,0,0,0,0,0,0,0,10,23,0,1,0,0,0,0,0
+292,Hernane Vidal Souza,hernane,Hernane,72386,24,5,6,0,2.72,0,1.32,16,0,7,0,2,0,0,0,0,0,18,17,0,0,0,3,2,0,0
+292,Jonatan David Gomez Ospina,jonatan-gomez,Jonatan Gomez,94857,24,4,6,1.7,9.48,0.4,1.43,20,0,18,0,1,0,0,0,0,0,29,59,0,0,2,14,1,1,0
+292,Thiago Neves Augusto,thiago-neves,Thiago Neves,38277,24,4,7,0.1,4.37,-0.18,2.21,16,0,5,0,1,0,0,0,0,0,7,96,2,0,7,8,2,0,0
+292,Bruno Roberto Pereira da Silva,bruninho,Bruninho,101716,24,4,6,0,3.48,0,1.19,11,0,5,0,1,0,0,0,0,0,3,23,0,2,3,3,0,1,0
+292,Marcos Antônio Almeida Silva,marcao-silva,Marcão Silva,78856,24,4,7,0.3,4.22,-0.71,1.97,12,0,20,0,3,0,0,0,0,0,10,16,0,0,0,4,1,0,0
+292,Roberto Pimenta Vinagre Filho,betinho,Betinho,82876,24,4,6,-0.3,4.14,-0.75,1.79,11,0,24,0,3,0,0,0,0,0,10,57,1,0,0,3,0,0,0
+292,Ronaldo Henrique Silva,ronaldo-silva,Ronaldo Silva,71640,24,5,6,0,0.81,0,-2.2,3,0,1,0,1,1,0,0,0,0,0,3,0,0,1,0,0,2,0
+292,Patric Cabral Lalau,patric,Patric,60969,24,2,7,-0.1,7.96,-0.4,2.7,22,0,29,0,2,1,3,0,0,0,24,198,4,1,2,10,1,5,0
+292,Lucas Andrés Mugni,lucas-mugni,Lucas Mugni,81121,24,4,7,2,4.79,-0.09,2.98,19,0,20,0,2,0,0,0,0,0,13,120,2,0,3,8,1,4,0
+292,João Igor Oliveira de Santana,joao-igor,João Igor,104217,24,4,6,0,1.93,0,-0.37,3,0,3,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0
+292,Alesandro dos Santos Pereira,ale-santos,Alê Santos,99256,24,4,6,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+292,Raul Prata,raul-prata,Raul Prata,84855,24,2,6,0,5.56,0,6.85,2,0,1,0,0,0,2,0,0,0,2,8,0,0,0,0,0,0,0
+292,Rafael Thyere de Albuquerque Marques,rafael-thyere,Rafael Thyere,83048,24,3,6,-3,2.91,-1.34,2.47,3,0,1,0,1,0,2,0,0,0,0,11,0,0,0,0,0,0,0
+292,Marcos Vinícius Sousa Natividade,marquinhos,Marquinhos,102292,24,5,7,0,7.24,0,3.24,20,0,24,0,6,0,0,0,0,0,74,101,0,0,1,7,3,0,0
+292,Ronaldo Henrique Ferreira da Silva,ronaldo-henrique,Ronaldo Henrique,85149,24,4,2,1.2,2.86,0.35,0.42,11,0,12,0,2,0,0,0,0,0,7,23,0,0,0,3,0,0,0
+292,Sander Henrique Bortolotto,sander,Sander,86391,24,2,7,6.6,8.94,1.31,2.43,14,0,15,0,3,1,1,0,0,0,28,111,0,0,1,3,0,0,0
+292,Iago Justen Maidana Martins,iago-maidana,Iago Maidana,89226,24,3,7,-2.2,5.52,-0.42,2.06,21,0,23,0,5,0,3,0,0,0,14,142,0,0,2,6,3,0,0
+292,Luan Polli Gomes,luan-polli,Luan Polli ,88916,24,1,7,9.5,6,3.13,1.73,16,0,0,0,3,0,4,20,0,24,2,194,0,0,0,0,0,0,0
+292,Leandro Barcia Montero,leandro-barcia,Leandro Barcia,91242,24,5,5,0,7.56,0,2.94,16,0,19,0,2,0,0,0,0,0,20,86,0,0,6,6,3,6,0
+292,Adryelson Shawann Lima Silva,adryelson,Adryelson,91664,24,3,7,0,3.03,0,1.09,21,0,27,1,6,0,4,0,0,0,14,78,0,1,2,6,0,0,0
+292,Maílson Tenório dos Santos,mailson,Maílson,98034,24,1,6,0,0.98,0,-0.4,7,0,1,0,1,0,0,6,0,10,1,58,0,0,0,0,0,0,0
+292,Carlos Eduardo Soares Mota,carlos-eduardo,Carlos Eduardo,90416,24,1,6,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+292,Francisco Alves da Silva Melo,chico,Chico,99253,24,3,6,1.7,2.78,0.34,2.74,11,0,6,0,1,0,4,0,0,0,2,47,0,0,0,1,0,0,0
+292,Luciano Batista da Silva Junior,luciano-juba,Luciano Juba,107093,24,2,6,0,3.14,0,2.21,14,0,10,0,1,0,2,0,0,0,1,106,2,2,1,1,0,0,0
+292,Maxwell Lima Santos Silva,maxwell,Maxwell,107092,24,5,6,0,2.1,0,0.95,4,0,1,0,0,0,0,0,0,0,2,5,0,0,0,1,0,0,0
+292,Marcos Vinicius Serrato,marcos-serrato,Marcos Serrato,88307,24,4,6,0,2.3,0,-0.1,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+292,Ricardo Ribeiro de Lima,ricardinho,Ricardinho,68832,24,4,3,-2.7,2.96,-0.92,1.61,20,0,20,0,3,0,0,0,0,0,31,50,0,0,6,2,0,2,0
+292,Jair Ventura,jair-ventura,Jair Ventura,92180,24,6,7,1.07,6.75,0.05,2.86,18,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+292,Pedro Henrique Nunes Silva,pedrao,Pedrão,107541,24,3,6,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+292,Helber Ítalo dos Santos,italo,Ítalo,109395,24,4,6,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+292,Túlio Galindo Bandeira de Melo,tulio,Túlio,109566,24,1,6,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+292,Gustavo Silva de Oliveira,gustavo-oliveira,Gustavo Oliveira,110633,24,4,6,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+292,Mikael Filipe Viana,mikael,Mikael,102299,24,5,6,0,2.94,0.02,1.8,7,0,2,0,0,0,0,0,0,0,2,8,0,0,3,1,1,0,0
+292,Márcio Rodrigues Araújo,marcio-araujo,Márcio Araújo,38311,24,4,2,0,3.47,0,0.67,6,0,6,0,0,0,0,0,0,0,3,15,0,0,0,0,0,0,0
+292,Carlos Eugenio Júnior Tavares dos Santos,junior-tavares,Júnior Tavares,89343,24,2,6,0,4.41,0,2.97,7,0,6,0,0,0,2,0,0,0,10,38,0,0,1,3,0,0,0
+292,Vinícius Santana da Silva,vinicius-popo,Vinícius Popó,105201,24,5,6,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+292,Ewerthon Diógenes Da Silva,ewerthon,Ewerthon,106082,24,2,6,0,2.96,0,4.6,1,0,1,0,0,0,1,0,0,0,0,9,0,0,0,0,0,0,0
+292,Dalberto Luan Belo,dalberto,Dalberto,97995,24,5,7,-3,1.41,-1.59,-3,1,0,5,0,0,0,0,0,0,0,0,3,0,0,0,1,0,2,0

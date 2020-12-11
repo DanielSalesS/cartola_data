@@ -1,0 +1,38 @@
+clube_id,nome,slug,apelido,atleta_id,rodada_id,posicao_id,status_id,pontos_num,preco_num,variacao_num,media_num,jogos_num,RB,FC,GC,CA,CV,SG,DD,DP,GS,FS,PI,A,FT,FD,FF,G,I,PP
+354,Augusto Sérgio Ferreira,guto-ferreira,Guto Ferreira,37245,18,6,7,3.79,8.82,0.22,3.59,17,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+354,Fernando Buttenbender Prass,fernando-prass,Fernando Prass,38140,18,1,7,5.4,6.82,1.68,3.46,17,0,0,0,2,0,5,25,0,24,2,151,0,0,0,0,0,0,0
+354,Luiz Otávio Anacleto Leandro,luiz-otavio,Luiz Otávio,72359,18,3,7,2.7,4.82,0.34,2.36,13,0,18,0,6,0,4,0,0,0,2,44,0,1,1,1,1,0,0
+354,Rick Jhonatan Lima Morais,rick,Rick,104459,18,5,6,0,0.77,0,-0.43,3,0,3,0,0,0,0,0,0,0,1,3,0,0,0,0,0,0,0
+354,Samuel Xavier Brito,samuel-xavier,Samuel Xavier,73384,18,2,5,0,5.42,0,2.69,12,0,19,0,3,1,4,0,0,0,19,120,2,0,1,2,0,1,0
+354,Tiago Pagnussat,tiago,Tiago ,79042,18,3,7,0,5.51,0,2.43,10,0,9,0,3,0,3,0,0,0,9,55,0,0,0,1,0,2,0
+354,Wescley Gomes dos Santos,wescley,Wescley,70925,18,4,6,-0.1,2.38,-0.18,0.89,7,0,8,0,0,0,0,0,0,0,1,11,0,0,0,1,1,0,0
+354,Vinícius Goes Barbosa de Souza,vinicius,Vinícius,71162,18,4,7,12,11.37,0.32,6.78,13,0,9,0,1,0,0,0,0,0,7,124,2,1,15,19,6,3,0
+354,Felipe de Oliveira Silva,felipe-baxola,Felipe Baxola,71113,18,4,6,0,4.74,0,1.22,5,0,1,0,0,0,0,0,0,0,1,12,1,0,0,1,0,1,0
+354,Diogo José Gonçalves da Silva,diogo-silva,Diogo Silva,71882,18,1,6,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+354,Fábio Gonçalves,fabinho,Fabinho,80393,18,4,7,0.9,3.74,-0.04,2,13,0,6,0,2,0,0,0,0,0,8,38,0,0,1,2,0,0,0
+354,Fernando Pereira do Nascimento,fernando-sobral,Fernando Sobral,84428,18,4,7,1.5,12.54,-0.53,5.31,16,0,28,0,2,0,0,0,0,0,34,100,3,1,8,13,1,6,0
+354,Willian Klaus,klaus,Klaus,90846,18,3,6,0,4.13,0,-0.3,1,0,1,0,0,0,0,0,0,0,1,3,0,0,0,0,0,0,0
+354,Rodrigo Gomes dos Santos,rodrigao,Rodrigão,90651,18,5,6,0,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+354,Leandro Carvalho da Silva,leandro-carvalho,Leandro Carvalho,88669,18,5,6,0,5.65,0,2,12,0,9,0,2,1,0,0,0,0,20,52,1,0,3,7,0,1,0
+354,Bruno de Jesus Pacheco,bruno-pacheco,Bruno Pacheco,90061,18,2,7,0,8.71,0,4.17,13,0,18,0,0,1,5,0,0,0,17,100,2,0,0,1,0,0,0
+354,Felipe dos Reis Pereira Vizeu do Carmo,felipe-vizeu,Felipe Vizeu,94138,18,5,6,0,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+354,William Oliveira dos Santos,william-oliveira,William Oliveira,94297,18,4,5,0,2.05,0,0.43,6,0,8,0,3,0,0,0,0,0,8,8,0,0,0,3,0,0,0
+354,Rafael Augusto Sobis do Nascimento,rafael-sobis,Rafael Sobis,37798,18,5,7,0,5.74,0,1.29,14,0,7,0,2,0,0,0,0,0,2,30,0,3,5,10,0,1,0
+354,Vinicius Moreira de Lima,lima,Lima,96340,18,4,6,0,4.35,-0.06,1.09,12,0,10,0,3,0,0,0,0,0,12,27,0,0,2,0,1,1,0
+354,Charles Rigon Mattos,charles,Charles,96342,18,4,7,-1.8,6.09,-0.55,2.85,16,0,33,0,4,0,0,0,0,0,12,71,1,0,1,5,2,0,0
+354,Leonardo Alves Chú Franco,leo-chu,Léo Chú,106820,18,5,7,5.2,2.78,0.05,4.03,3,0,5,0,1,0,0,0,0,0,5,19,1,0,0,5,0,2,0
+354,Saulo Rodrigues da Silva,saulo-mineiro,Saulo Mineiro,98274,18,5,6,0.3,2.39,-0.61,0.3,1,0,1,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0
+354,Pedro Henrique Naressi Machado,pedro-naressi,Pedro Naressi,98529,18,4,6,-3.6,0.77,-0.32,-1,2,0,5,0,2,0,0,0,0,0,3,10,0,0,0,0,0,0,0
+354,Francisco Vítor Silva Costa,victor-jacare,Victor Jacaré,101201,18,5,6,0,6.54,0,2.22,5,0,7,0,1,0,0,0,0,0,9,14,0,0,1,6,1,1,0
+354,Mateus Gonçalves Martins,mateus-goncalves,Mateus Gonçalves,103076,18,5,6,0,7.06,0,2.01,12,0,5,0,1,0,0,0,0,0,2,32,0,0,5,6,1,2,0
+354,Cristiano Pereira de Oliveira ,cristiano,Cristiano,102145,18,5,6,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+354,Kelvyn Ramos da Fonseca,kelvyn,Kelvyn,102464,18,2,6,-0.2,1.01,-0.21,1.28,5,0,1,0,0,0,1,0,0,0,3,6,0,0,0,0,0,0,0
+354,Alyson Vinícius Almeida Neves,alyson,Alyson,102330,18,2,3,0,2.04,-0.11,-0.55,4,0,9,0,3,0,0,0,0,0,7,40,0,0,0,1,0,2,0
+354,Cléber Bomfim de Jesus,cleber,Cléber,104125,18,5,6,3.8,10.79,0.54,3.16,15,0,29,0,0,0,0,0,0,0,14,44,0,1,7,11,3,6,0
+354,Eduardo Schroeder Brock,eduardo-brock,Eduardo Brock,78654,18,3,6,2.4,3.48,0.51,4.22,4,0,2,0,0,0,1,0,0,0,1,32,0,0,0,2,1,0,0
+354,Richard de Oliveira da Costa,richard,Richard,78851,18,1,6,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+354,Carlos Eduardo Santos Oliveira,eduardo,Eduardo,50645,18,2,7,13.2,5.23,3.29,1.87,7,0,7,0,1,1,1,0,0,0,5,56,0,1,1,0,1,1,0
+354,Ricardo Dias Acosta,ricardinho,Ricardinho,78577,18,4,6,0,2.85,0,0.39,8,0,4,0,1,0,0,0,0,0,0,46,0,1,1,0,0,1,0
+354,Marthã Fernando Gonçalves Pimenta,martha,Marthã,107400,18,4,6,0,0.83,0,-0.47,3,0,2,0,1,0,0,0,0,0,2,4,0,0,0,0,0,0,0
+354,Gabriel Santos Cordeiro Lacerda,gabriel-lacerda,Gabriel Lacerda,108176,18,3,6,0,3.37,0,3.01,8,0,3,0,0,0,3,0,0,0,3,32,1,0,1,0,0,0,0
+354,Vitor João Batista Santos,vitao,Vitão,109318,18,3,6,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0

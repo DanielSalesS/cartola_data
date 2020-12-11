@@ -1,0 +1,35 @@
+clube_id,nome,slug,apelido,atleta_id,rodada_id,posicao_id,status_id,pontos_num,preco_num,variacao_num,media_num,jogos_num,RB,FC,GC,CA,CV,SG,DD,DP,GS,FS,PI,A,FT,FD,FF,G,I,PP
+263,Keisuke Honda,honda,Honda,69940,9,4,7,0,6.09,0,2.82,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+263,Roberto Junior Fernández Torres,gatito-fernandez,Gatito Fernández,74061,9,1,6,0,12.8,0,4.36,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+263,Lucas da Silva Ribeiro Campos,lucas-campos,Lucas Campos,99903,9,5,6,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+263,Warley Leandro da Silva,warley,Warley,104646,9,5,6,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+263,Diego Cavalieri,diego-cavalieri,Diego Cavalieri,38431,9,1,7,0,5.72,-1.28,1.4,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+263,Luis Henrique Tomaz de Lima,luis-henrique,Luis Henrique ,105049,9,5,6,0,4.76,0,2.1,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+263,Salomon Armand Magloire Kalou,kalou,Kalou,69524,9,5,6,0,7.37,-1.59,3.6,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+263,Paulo César Autuori de Mello,paulo-autuori,Paulo Autuori,36943,9,6,7,0,8.33,-0.13,3.23,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+263,Bruno dos Santos Nazário,bruno-nazario,Bruno Nazário,81776,9,4,7,0,6.99,-1,2.5,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+263,Saulo Ferreira Silva Nascimento,saulo,Saulo,89492,9,1,6,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+263,Federico Barrandeguy Martino,barrandeguy,Barrandeguy,91736,9,2,6,0,3.48,0,1.74,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+263,Márcio Almeida de Oliveira,marcinho,Marcinho,93797,9,2,6,0,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+263,Luiz Otávio Alves Marcolino,luiz-otavio,Luiz Otávio,94269,9,4,6,0,2.11,-0.07,0.46,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+263,Guilherme Oliveira Santos,guilherme-santos,Guilherme Santos,50346,9,2,5,0,7.36,0,3.67,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+263,Pedro Raul Garay da Silva,pedro-raul,Pedro Raul,98225,9,5,6,0,5.82,0,1.93,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+263,Victor Luis Chuab Zamblauskas,victor-luis,Victor Luis,86410,9,2,7,0,10.62,1.12,8.33,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+263,Kevin Peterson dos Santos Silva,kevin,Kevin ,91888,9,2,7,0,3.51,-0.15,2.96,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+263,Marcelo da Conceição Benevenuto Malaquias,marcelo-benevenuto,Marcelo Benevenuto,95638,9,3,7,0,7.06,1.07,2.59,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+263,Lucas Barros da Cunha,lucas-barros,Lucas Barros,104650,9,2,6,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+263,Matheus Barcelos da Silva,matheus-babi,Matheus Babi,94444,9,5,7,0,6.45,-0.27,3.32,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+263,Victor Hugo Soares dos Santos,kanu,Kanu,98484,9,3,7,0,4.65,-0.36,3.06,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+263,Alexander Lecaros Aragón,lecaros,Lecaros,102276,9,5,6,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+263,Rafael Forster,rafael-forster,Rafael Forster,82764,9,3,7,0,2.62,-0.23,0.77,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+263,Diego Terra Loureiro,diego-loureiro,Diego Loureiro,99430,9,1,6,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+263,Matheus Nascimento de Paula,matheus-nascimento,Matheus Nascimento,109114,9,5,6,0,0.77,0,-0.5,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+263,Fernando Peixoto Costanza,fernando,Fernando,99550,9,2,6,0,2.55,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+263,Caio Alexandre Souza e Silva,caio-alexandre,Caio Alexandre,106323,9,4,7,0,5.54,-0.07,2.46,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+263,Rafael Navarro Leal,rafael-navarro,Rafael Navarro,105770,9,5,6,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+263,Rhuan Silveira Castro,rhuan,Rhuan,102958,9,5,7,0,2.35,-0.31,1.34,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+263,Davi Machado dos Santos Araújo,davi-araujo,Davi Araújo,109626,9,5,6,0,0.76,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+263,David Sousa Albino,david-sousa,David Sousa,107509,9,3,6,0,0.77,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+263,Sebastião Ênio Santos de Almeida,enio,Ênio,107516,9,4,6,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+263,Hugo Gonçalves Ferreira Neto,hugo,Hugo,109668,9,2,6,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+263,Carlos Enrique Rentería Olaya,renteria,Rentería,95356,9,4,6,0,5.62,-1.38,0.6,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0

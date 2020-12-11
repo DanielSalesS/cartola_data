@@ -1,0 +1,36 @@
+clube_id,nome,slug,apelido,atleta_id,rodada_id,posicao_id,status_id,pontos_num,preco_num,variacao_num,media_num,jogos_num,RB,FC,GC,CA,CV,SG,DD,DP,GS,FS,PI,A,FT,FD,FF,G,I,PP
+280,Raul Lô Gonçalves,raul,Raul,92496,9,4,7,0,7.99,0.99,11.6,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+280,Leandro Henrique do Nascimento,leandrinho,Leandrinho,91702,9,5,5,0,2.39,0,0.67,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+280,Wesley Pionteck Souza,wesley,Wesley,93376,9,5,5,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+280,Luan Cândido de Almeida,luan-candido,Luan Cândido,100848,9,2,6,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+280,Gustavo Bonatto Barreto,barreto,Barreto,89224,9,4,6,0,3.64,0,0.55,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+280,Ytalo José Oliveira dos Santos,ytalo,Ytalo,53148,9,5,2,0,4.92,-1.03,1.87,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+280,Andrew Erik Feitosa,morato,Morato,86227,9,5,7,0,2.12,0,0.16,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+280,Matheus Sousa de Jesus,matheus-jesus,Matheus Jesus,95335,9,4,6,0,4.69,0.16,0.98,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+280,Fabrício Bruno Soares de Faria,fabricio-bruno,Fabrício Bruno,90768,9,3,6,0,0.93,0,-0.4,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+280,Júlio César de Souza Santos,julio-cesar,Júlio César,38133,9,1,2,0,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+280,Alex Alves de Lima,alex-alves,Alex Alves,77861,9,1,6,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+280,Artur Victor Guimarães,artur,Artur,95799,9,5,7,0,12.74,0.84,3.06,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+280,Alerrandro Barra Mansa Realino de Souza,alerrandro,Alerrandro,101715,9,5,2,0,9.85,-0.74,5.5,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+280,Ricardo Ryller Ribeiro Lino Silva,ricardo-ryller,Ricardo Ryller,85856,9,4,7,0,3.03,-1.04,1.34,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+280,Aderlan de Lima Silva,aderlan,Aderlan,88423,9,2,7,0,9.05,0.16,2.25,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+280,Robson José Brilhante Martins,robinho,Robinho,97461,9,5,6,0,2.47,0,1.98,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+280,Ligger Moreira Malaquias,ligger,Ligger,61141,9,3,6,0,2.78,0.08,0.28,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+280,Uillian Correia Granemann,uillian-correia,Uillian Correia,72007,9,4,6,0,2.92,-0.2,0.13,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+280,Cleiton Schwengber,cleiton,Cleiton,93882,9,1,2,0,0.77,0,-1.56,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+280,Victor Hugo Santana Carvalho,vitinho,Vitinho,95770,9,4,5,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+280,Leonardo Rech Ortiz,leo-ortiz,Léo Ortiz,97867,9,3,7,0,7.04,0.16,2.44,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+280,Edimar Curitiba Fraga,edimar,Edimar,62024,9,2,7,0,2.92,-0.9,0.96,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+280,Lucas Evangelista Santana de Oliveira,lucas-evangelista,Lucas Evangelista,84674,9,4,6,0,3.06,0.26,0.86,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+280,Bruno Nunes de Barros,bruno-tubarao,Bruno Tubarão,93637,9,4,6,0,1.88,0.3,0.66,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+280,Claudio Luiz Rodrigues Parisi Leonel,claudinho,Claudinho,92630,9,5,7,0,12.68,-2.14,5.53,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+280,Jan Carlos Hurtado Anchico,hurtado,Hurtado,105301,9,5,6,0,2.24,0,0.47,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+280,Thonny Anderson da Silva Carvalho,thonny-anderson,Thonny Anderson,101484,9,4,6,0,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+280,Weverton Guilherme da Silva Souza,weverton,Weverton,104625,9,2,5,0,1.19,0,0.1,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+280,Tomás Esteban Cuello,cuello,Cuello,98909,9,4,6,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+280,César Rafael Haydar Villarreal,haydar,Haydar,108385,9,3,6,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+280,Weverson Moreira da Costa,weverson,Weverson,109426,9,2,6,0,0.76,0,-1.03,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+280,Leonardo Javier Realpe Montaño,realpe,Realpe,106299,9,3,7,0,2.95,-0.32,0.5,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+280,Luis Phelipe de Souza Figueiredo,luis-phelipe,Luis Phelipe,104500,9,5,5,0,4.64,0,3.77,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+280,Chrigor Flores Moraes,chrigor,Chrigor,101398,9,5,6,0,2.25,0,2.4,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+280,Maurício Nogueira Barbieri,mauricio-barbieri,Maurício Barbieri,82792,9,6,7,0,4.81,-0.25,1.02,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
