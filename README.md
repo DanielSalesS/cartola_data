@@ -41,7 +41,7 @@ Resultado:
 
 Rodando o script.
 
-![](https://github.com/DanielSalesS/teste1/blob/main/pasta1/script.gif)
+![](https://github.com/DanielSalesS/cartola_data/blob/main/src/script.gif)
 
 
 
