@@ -1,7 +1,5 @@
-import sys
 import json
-
-sys.path.append(r'../')
+import path_config
 from cartola.api import ApiClient
 from cartola.cartola_settings import scout_keys, clubs, club_ids, dynamic_api
 from cartola.processdata import Players
@@ -18,9 +16,10 @@ def read_json(path):
     return dados
 
 
+"""
 status = ApiClient(url=dynamic_api['status'])
 rodada_atual = status.get_data_by_key(key='rodada_atual')
-print(f'Rodada Atual: {rodada_atual}\n')
+print(f'Rodada Atual: {rodada_atual}\n')"""
 
 # A partir da rodada 9
 # O script salva_arquivos_json_rodada_atual.py atualiza os dados

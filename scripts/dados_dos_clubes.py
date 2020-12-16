@@ -1,8 +1,5 @@
-import sys
 import json
-
-
-sys.path.append(r'../')
+import path_config
 from cartola.api import ApiClient
 from cartola.processdata import Clubs
 from cartola.cartola_settings import club_ids

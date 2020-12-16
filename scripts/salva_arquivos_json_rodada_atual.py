@@ -1,6 +1,4 @@
-import sys
-
-sys.path.append(r'../')
+import path_config
 from cartola.api import ApiClient
 from cartola.cartola_settings import dynamic_api, fixed_api
 
