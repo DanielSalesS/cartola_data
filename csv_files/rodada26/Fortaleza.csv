@@ -1,0 +1,33 @@
+clube_id,nome,slug,apelido,atleta_id,rodada_id,posicao_id,status_id,pontos_num,preco_num,variacao_num,media_num,jogos_num,RB,FC,GC,CA,CV,SG,DD,DP,GS,FS,PI,A,FT,FD,FF,G,I,PP
+356,Wellington Pereira do Nascimento,wellington-paulista,Wellington Paulista,38279,25,5,2,0.5,7.57,-0.31,3.17,19,0,18,0,0,0,0,0,0,0,20,35,1,1,4,8,5,5,0
+356,Felipe Alves Raymundo,felipe-alves,Felipe Alves,72372,25,1,7,3.1,3.86,0.42,1.52,20,0,0,0,0,0,6,15,0,20,4,235,0,0,0,0,0,0,0
+356,Yuri César Santos de Oliveira Silva,yuri-cesar,Yuri César ,103446,25,5,6,0.3,4.49,0.08,1.97,19,0,16,0,2,0,0,0,0,0,25,32,1,0,4,13,1,4,0
+356,Marcelo Boeck,marcelo-boeck,Marcelo Boeck,37788,25,1,6,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+356,Mariano Vázquez,mariano-vazquez,Mariano Vázquez,98760,25,4,6,0.1,1.05,-0.07,-0.14,9,0,4,0,1,0,0,0,0,0,6,8,0,0,0,0,0,1,0
+356,Juan Sebastián Quintero Fletcher,quintero,Quintero,96382,25,3,5,0,1.67,0,1.38,9,0,6,0,3,1,4,0,0,0,3,17,0,0,0,2,0,0,0
+356,Roger de Carvalho,roger-carvalho,Roger Carvalho,51415,25,3,5,0,2.77,0,2.1,5,0,3,0,0,1,3,0,0,0,2,10,0,0,0,0,0,0,0
+356,Luiz Henrique Araújo Silva,luiz-henrique,Luiz Henrique,101595,25,4,6,0,1.66,0,0.5,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+356,Wanderley de Jesus Sousa,derley,Derley,60791,25,4,6,0,2.82,0,-0.35,2,0,1,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+356,Paulo Marcos de Jesus Ribeiro,paulao,Paulão,63172,25,3,7,-1.9,2.62,-0.72,1.82,18,0,21,0,3,0,6,0,0,0,7,65,0,0,2,3,0,3,0
+356,Carlos Emiliano Pereira,carlinhos,Carlinhos,63194,25,2,6,-0.9,5.89,-0.25,2.67,15,0,20,0,1,0,6,0,0,0,15,86,0,0,0,2,0,1,0
+356,Jackson de Souza,jackson,Jackson,70934,25,3,7,-0.8,3.21,-0.28,1.42,13,0,12,0,4,0,3,0,0,0,13,47,0,0,0,2,0,0,0
+356,Éderson Alves Ribeiro Silva,ederson,Éderson,73446,25,5,6,0,2.41,0,-0.27,3,0,2,0,0,0,0,0,0,0,2,3,0,0,0,0,0,1,0
+356,Guilherme de Jesus da Silva,tinga,Tinga,82628,25,2,7,0.8,6.3,0.17,3.68,13,0,7,0,1,0,5,0,0,0,8,153,2,1,2,1,0,1,0
+356,Max Walef Araújo da Silva,max-walef,Max Walef,84338,25,1,6,0,3.76,0,11.4,1,0,0,0,0,0,1,2,0,0,1,21,0,0,0,0,0,0,0
+356,Bruno Ferreira Melo,bruno-melo,Bruno Melo,84339,25,2,7,0,4.52,0,2.62,13,0,19,0,3,0,4,0,0,0,8,64,0,0,2,2,2,2,0
+356,José Romário Silva de Souza,romarinho,Romarinho,84523,25,5,7,0,8.8,0,2.98,20,0,10,0,2,0,0,0,0,0,45,63,0,1,8,11,2,2,0
+356,Marlon Adriano Prezotti,marlon,Marlon,88427,25,4,6,0,2.57,0,0.66,15,0,19,0,1,0,0,0,0,0,8,24,0,0,1,2,0,0,0
+356,Gabriel Dias de Oliveira,gabriel-dias,Gabriel Dias,88368,25,2,5,0.9,6.71,-0.01,2.64,18,0,14,0,1,1,6,0,0,0,14,58,1,0,3,2,1,2,0
+356,David Correa da Fonseca,david,David,90309,25,5,7,2,4.88,-0.62,2.67,20,0,41,0,4,0,0,0,0,0,23,76,2,0,4,13,5,8,0
+356,Luiz Antonio Ferreira Rodrigues,felipe,Felipe,91733,25,4,7,3.8,5.58,-0.03,2.49,19,0,30,0,6,1,0,0,0,0,34,79,0,0,2,5,1,0,0
+356,Paulo Roberto Valoura Júnior,juninho,Juninho,71937,25,4,7,11.6,6.04,1.7,2.99,20,0,30,0,5,0,0,0,0,0,26,158,3,0,4,17,2,0,0
+356,Osvaldo Lourenço Filho,osvaldo,Osvaldo,42222,25,5,7,3.1,6.38,-0.29,2.68,20,0,8,0,2,0,0,0,0,0,16,88,3,1,6,10,1,2,0
+356,Francisco Rodrigo de Sousa Barbosa,diguinho,Diguinho,105282,25,3,6,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+356,Ronald dos Santos Lopes,ronald,Ronald,100969,25,4,6,0.9,2.78,-0.25,1.84,15,0,15,0,1,0,0,0,0,0,18,23,1,0,2,0,0,0,0
+356,Geilson Cerqueira Almeida,geilson,Geilson,107882,25,4,6,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+356,Marcelo Augusto Oliveira Chamusca,marcelo-chamusca,Marcelo Chamusca,37319,25,6,7,2.23,7.13,-0.46,2.79,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+356,Bergson Gustavo Silveira da Silva,bergson,Bergson,68696,25,5,2,1.1,2.62,-1.07,2.61,10,0,14,0,2,0,0,0,0,0,10,21,0,1,3,2,2,0,0
+356,Igor Torres da Silva,igor-torres,Igor Torres,110303,25,5,6,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+356, João Paulo Silveira dos Santos,joao-paulo-silveira,João Paulo Silveira,107453,25,3,6,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+356,João Paulo da Silva Alves,joao-paulo,João Paulo,86770,25,4,6,-0.1,5.47,-1.53,-0.1,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+356,Wanderson Santos Pereira,wanderson,Wanderson,86143,25,3,6,0,3.36,0,1.2,1,0,0,0,0,0,0,0,0,0,1,3,0,0,0,0,0,0,0

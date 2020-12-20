@@ -1,0 +1,40 @@
+clube_id,nome,slug,apelido,atleta_id,rodada_id,posicao_id,status_id,pontos_num,preco_num,variacao_num,media_num,jogos_num,RB,FC,GC,CA,CV,SG,DD,DP,GS,FS,PI,A,FT,FD,FF,G,I,PP
+282,Diego Tardelli Martins,diego-tardelli,Diego Tardelli,38231,25,5,6,0,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+282,Eduardo Colcenti Antunes,eduardo-sasha,Eduardo Sasha,70360,25,5,6,-0.2,7.62,-0.22,3.33,19,0,15,0,1,0,0,0,0,0,22,65,2,1,9,8,4,2,1
+282,Everson Felipe Marques Pires,everson,Everson,72294,25,1,6,12.8,10.36,2.9,2.59,14,0,0,0,0,0,4,13,0,18,1,63,1,0,0,0,0,0,0
+282,Réver Humberto Alves Araújo,rever,Réver,52253,25,3,6,2.5,7.67,0.34,3.05,16,0,13,0,3,0,5,0,0,0,10,78,1,0,1,5,1,0,0
+282,Rafael Pires Monteiro,rafael,Rafael,68928,25,1,6,0,7.01,0,2,9,0,1,0,0,1,4,6,0,7,0,65,0,0,0,0,0,0,0
+282,José Marcos Costa Martins,marquinhos,Marquinhos,98765,25,5,6,0,3.86,0,1.4,11,0,13,0,0,0,0,0,0,0,5,35,1,1,1,4,0,3,0
+282,Victor Leandro Bagy,victor,Victor,52950,25,1,6,0,5.4,0,-9.2,1,0,0,0,1,0,0,0,0,3,0,12,0,0,0,0,0,0,0
+282,Hyoran Kaue Dalmoro,hyoran,Hyoran,85931,25,4,6,0.2,10.79,-1.05,3.45,16,0,22,0,2,0,0,0,0,0,20,84,2,1,7,9,3,2,0
+282,Nathan Allan de Souza,nathan,Nathan,87009,25,4,6,3.1,10.11,0.48,3.87,15,0,6,0,0,0,0,0,0,0,9,38,1,0,8,6,3,2,0
+282,Jorge Sampaoli,jorge-sampaoli,Jorge Sampaoli,70800,25,6,6,4.79,14.22,0.57,4.33,23,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+282,Júnior Osmar Ignacio Alonso Mujica,junior-alonso,Júnior Alonso,88312,25,3,6,4.4,10.47,0.7,3.15,18,0,29,0,5,0,7,0,0,0,2,117,1,1,4,10,0,0,0
+282,Igor Rabello da Costa,igor-rabello,Igor Rabello,89493,25,3,6,0,10.63,0,2.9,17,0,18,0,2,0,5,0,0,0,16,76,1,1,1,1,1,0,0
+282,Gabriel Costa França,gabriel,Gabriel,87393,25,3,6,6.3,7.32,1.25,3.25,4,0,5,0,2,0,3,0,0,0,0,3,0,0,0,1,0,0,0
+282,Jair Rodrigues Júnior,jair,Jair,81091,25,4,5,0,7.29,0,2.93,18,0,41,0,5,0,0,0,0,0,41,63,2,0,1,7,1,0,0
+282,Allan Rodrigues de Souza,allan,Allan,96652,25,4,6,-1.2,5.87,-0.4,1.41,20,0,28,0,3,0,0,0,0,0,16,120,0,1,2,11,0,0,0
+282,Wellington Daniel Bueno,bueno,Bueno,97425,25,3,6,0,6.89,0,2.39,7,0,6,0,0,0,3,0,0,0,1,16,0,0,0,1,0,0,0
+282,Guilherme Antonio Arana Lopes,guilherme-arana,Guilherme Arana,87228,25,2,6,5,16.88,0.36,4.95,23,0,27,0,3,0,8,0,0,0,20,242,3,0,15,16,3,1,0
+282,Jefferson David Savarino Quintero,savarino,Savarino,98672,25,5,6,0.7,6.17,-0.35,3.51,18,0,15,0,2,0,0,0,0,0,20,122,4,3,5,18,3,7,0
+282,Jean Carlos Batista,jean,Jean,110640,25,1,6,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+282,Marcos da Silva França,keno,Keno,86485,25,5,6,5.2,14.33,-0.14,7.22,22,0,27,0,4,0,0,0,0,0,37,206,5,4,22,27,10,21,1
+282,Mariano Ferreira Filho,mariano,Mariano,38877,25,2,6,0,7.98,0,2.64,7,0,8,0,1,0,1,0,0,0,5,72,1,0,1,0,0,0,0
+282,Sávio Moreira de Oliveira,savio,Sávio,109463,25,5,6,0,0.99,0,1,6,0,2,0,0,0,0,0,0,0,5,22,0,0,3,2,0,1,0
+282,Calebe Gonçalves Ferreira da Silva,calebe,Calebe,109461,25,4,6,0,0.79,-0.06,0.37,3,0,5,0,0,0,0,0,0,0,3,5,0,0,0,2,0,0,0
+282,Cláudio Rodrigues Gomes,guga,Guga,101319,25,2,6,5.4,13.73,0.82,4.68,20,0,21,0,1,0,8,0,0,0,24,162,1,1,2,6,1,0,0
+282,Caio Henrique Ribas Dias de Araújo,caio-ribas,Caio Ribas,110726,25,4,6,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+282,Rubens Antônio Dias,rubens,Rubens,110727,25,4,6,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+282,Eduardo Jesús Vargas Rojas,vargas,Vargas,69102,25,5,6,6.9,9.86,1.23,4.5,3,0,1,0,1,0,0,0,0,0,4,17,1,0,0,4,1,5,0
+282,Alan Steven Franco Palma,franco,Franco,39656,25,4,6,0,5.15,0,2.13,17,0,26,0,1,0,0,0,0,0,14,60,0,0,4,5,3,1,0
+282,Federico Matías Javier Zaracho,zaracho,Zaracho,100079,25,4,6,1.6,9.02,0.24,1.9,7,0,9,0,0,0,0,0,0,0,2,20,0,0,1,2,1,0,0
+282,Marrony da Silva Liberato,marrony,Marrony,101717,25,5,6,0,9.23,0,2.74,20,0,20,0,1,0,0,0,0,0,9,19,1,1,8,6,4,0,0
+282,Dylan Felipe Borrero Caicedo,borrero,Borrero,106843,25,4,6,0,2,0,-1.77,4,0,3,0,2,1,0,0,0,0,0,14,0,0,0,1,0,0,0
+282,Gustavo Henrique Santos,gustavo-henrique,Gustavo Henrique,107963,25,3,6,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+282,Guilherme Santos da Silva,guilherme-santos,Guilherme Santos,104414,25,5,6,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+282,Isaque Storoli Gavioli,isaque,Isaque,104413,25,3,6,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+282,Luiz Filipe dos Reis Silva,luiz-filipe,Luiz Filipe,110632,25,5,6,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+282,Wesley Hudson da Silva,wesley,Wesley,110631,25,4,6,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+282,Talison Ruan da Silva,talison,Talison,104415,25,2,6,0,3.18,0,5.1,1,0,1,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0
+282,Sivaldo de Jesus Santos Junior,junior-santos,Júnior Santos,110626,25,1,6,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+282,Samuel Conceição Toscas,samuel-toscas,Samuel Toscas,110630,25,2,6,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
