@@ -1,0 +1,40 @@
+clube_id,nome,slug,apelido,posicao_id,status_id,pontos_num,preco_num,variacao_num,media_num,jogos_num,RB,FC,GC,CA,CV,SG,DD,DP,GS,FS,PI,A,FT,FD,FF,G,I,PP
+294,José Sabino Chagas Monteiro,sabino,Sabino,3,7,6.3,8.84,-0.02,3.99,23,0,9,1,2,0,6,0,0,0,19,122,0,1,0,5,4,2,0
+294,Matheus Galdezani,matheus-galdezani,Matheus Galdezani,4,7,0,11.46,0,4.68,17,0,21,0,3,0,0,0,0,0,36,110,1,2,6,11,1,0,0
+294,Alex Roberto Santana Rafael ,alex-muralha,Alex Muralha,1,6,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+294,Wilson Rodrigues de Moura Júnior,wilson,Wilson,1,7,1.3,8.26,-1.65,2.59,24,0,0,0,0,0,6,27,1,32,2,210,0,0,0,0,0,0,0
+294,Ezequiel Cerutti,cerutti,Cerutti,5,5,0,6.01,0,-0.4,2,0,3,0,0,0,0,0,0,0,3,8,0,0,0,0,0,0,0
+294,Hugo Moura Arruda da Silva,hugo-moura,Hugo Moura,4,2,1.3,2.68,-0.07,1,15,0,30,0,3,0,0,0,0,0,18,46,0,0,1,3,0,0,0
+294,Ricardo de Oliveira,ricardo-oliveira,Ricardo Oliveira,5,7,0.6,5.8,0,0.3,7,0,9,0,1,0,0,0,0,0,4,13,0,1,3,1,0,1,0
+294,Ramón Martínez López,ramon-martinez,Ramón Martínez,4,6,0,2.84,0,0.31,7,0,7,0,1,0,0,0,0,0,3,8,0,0,0,0,0,0,0
+294,Martín Nicolás Sarrafiore,sarrafiore,Sarrafiore,4,6,0,2.34,0,1.23,6,0,4,0,1,0,0,0,0,0,5,21,0,0,1,6,0,0,0
+294,Guilherme da Trindade Dubas,guilherme-biro,Guilherme Biro,5,6,0,1.29,0,-0.55,2,0,3,0,0,0,0,0,0,0,0,6,0,0,0,0,0,0,0
+294,Robson dos Santos Fernandes,robson,Robson,5,2,-1.3,8.74,-0.51,4.32,23,0,42,0,5,0,0,0,0,0,45,114,1,4,11,26,6,13,0
+294,Nathanael Ananias da Silva,nathan-silva,Nathan Silva,4,6,0,1.78,0,0.39,9,0,24,0,5,0,0,0,0,0,8,26,0,0,0,4,1,0,0
+294,Maílton dos Santos de Sá,mailton,Maílton,2,7,2,3.12,-0.95,1.84,9,0,5,0,1,0,2,0,0,0,9,57,0,0,2,3,0,3,0
+294,Matheus Bueno Batista,matheus-bueno,Matheus Bueno,4,6,0.2,2.17,-0.15,1.24,18,0,15,0,1,0,0,0,0,0,16,52,0,0,3,3,0,0,0
+294,Henrique Vermudt,henrique-vermudt,Henrique Vermudt,4,6,0,1.75,0,0.73,3,0,0,0,0,0,0,0,0,0,1,13,0,0,0,0,0,0,0
+294,Rafael da Silva Francisco,rafinha,Rafinha,4,7,3.7,6.13,0.56,2.05,2,0,3,0,0,0,0,0,0,0,5,19,0,0,1,1,0,0,0
+294,Luiz Rhodolfo Dini Gaioto,rhodolfo,Rhodolfo,3,7,5.3,5.06,0.35,2.58,8,0,4,0,1,0,2,0,0,0,3,44,0,1,0,0,0,1,0
+294,William Matheus da Silva,william-matheus,William Matheus,2,7,0,5.76,0,2.64,22,0,20,0,3,0,6,0,0,0,25,187,3,0,1,8,1,5,0
+294,Giovanni Augusto Oliveira Cardoso,giovanni-augusto,Giovanni Augusto,4,7,1,7.95,-1.05,5.96,17,0,11,0,1,0,0,0,0,0,41,110,5,1,4,5,4,1,0
+294,Patrick de Oliveira Vieira,patrick-vieira,Patrick Vieira,2,6,0,4.64,0,1.55,4,0,5,0,1,0,1,0,0,0,3,35,0,0,2,1,0,1,0
+294,Matheus de Sales Cabral,matheus-sales,Matheus Sales,4,2,0,3.63,0,1.63,18,0,33,0,3,0,0,0,0,0,39,62,0,0,0,5,0,1,0
+294,Nathan Otávio Ribeiro,nathan-ribeiro,Nathan Ribeiro,3,6,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+294,Geovane Henrique Pereira de Souza,geovane,Geovane,2,6,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+294,Marco Antônio Amorim de Oliveira Montes,marcao,Marcão,1,6,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+294,Neilton Meira Mestzk,neilton,Neilton,5,2,3.9,5.87,-0.02,2.42,13,0,15,0,1,0,0,0,0,0,15,46,2,0,3,5,0,1,0
+294,Yan Medeiros Sasse,yan-sasse,Yan Sasse,4,6,1.3,1.09,-0.06,-0.01,15,0,16,0,3,1,0,0,0,0,7,33,0,0,1,5,0,1,0
+294,Jonathan Francisco Lemos,jonathan,Jonathan,2,6,-0.1,4.51,-0.81,3.12,14,0,7,0,1,0,4,0,0,0,7,66,0,1,1,2,0,1,0
+294,Brayan Damián Lucumí Lucumí,brayan-lucumi,Brayan Lucumí ,5,6,0,3.9,0,0.75,2,0,0,0,0,0,0,0,0,0,0,3,0,0,0,1,0,0,0
+294,Nathan Uilian Fogaça,nathan,Nathan ,5,6,0,0.79,0,0.17,7,0,4,0,0,0,0,0,0,0,3,12,0,0,2,0,0,1,0
+294,Arthur Henrique Bittencourt,arthur,Arthur,1,6,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+294,Diego Santos Monteiro,diego-monteiro,Diego Monteiro,1,6,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+294,Christian Kendji Wagatsuma Ferreira,kazu,Kazu,2,6,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+294,Luiz Henrique Augustin ,luiz-henrique,Luiz Henrique,4,6,0,1.52,0,0.84,7,0,4,0,0,0,0,0,0,0,3,14,0,0,0,1,0,0,0
+294,Mattheus Andrade Gama de Oliveira,mattheus,Mattheus,4,6,2.8,4.16,0.02,2.77,6,0,4,0,0,0,0,0,0,0,7,29,0,0,1,1,1,0,0
+294,Pablo Thiago Ferreira Thomaz,pablo-thomaz,Pablo Thomaz,5,6,0.4,0.84,-0.1,0.54,5,0,1,0,0,0,0,0,0,0,3,5,0,0,1,0,0,0,0
+294,Natanael Moreira Milouski,natanael,Natanael,2,6,0,2.68,0,2.26,11,0,16,0,0,1,3,0,0,0,10,44,0,0,1,2,0,1,0
+294,João Vitor Moreira Dos Santos,robinho,Robinho,5,6,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+294,Osman de Menezes Venâncio Junior,osman,Osman,5,6,0,3.19,-0.11,0.47,3,0,1,0,0,0,0,0,0,0,0,11,0,0,0,0,0,0,0
+294,Eriélton Carlos Pacheco,pachequinho,Pachequinho,6,7,0,8.52,0,5.06,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
